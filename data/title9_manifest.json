@@ -1,0 +1,102 @@
+{
+  "source_file": "TITLE_9___LAND_USE_CODE.docx",
+  "note": "Extracted anchors matching pattern '^9-\\d+-\\d+\\.' only. Verbatim text reflects the DOCX content as provided.",
+  "chapters": [
+    {
+      "chapter": "1",
+      "file": "title9_ch01.json",
+      "records": 6,
+      "sha256": "02be60eca841a6cbd257c68fbe3a0ed6997257141387eb5b75ddb6e449df582d"
+    },
+    {
+      "chapter": "2",
+      "file": "title9_ch02.json",
+      "records": 21,
+      "sha256": "0c04477505769925e2581b05467490c900cc8c057d6bbe493fec9c0af2c5deca"
+    },
+    {
+      "chapter": "3",
+      "file": "title9_ch03.json",
+      "records": 12,
+      "sha256": "efceafd317e397840407174e81c207d14d156d66514a15547e61c08bbf4a5bf5"
+    },
+    {
+      "chapter": "4",
+      "file": "title9_ch04.json",
+      "records": 4,
+      "sha256": "1473dfd037d1e4bfe7542b0a8f9262b4c2eb4d1fc7586a1762b2b8383a66d68b"
+    },
+    {
+      "chapter": "5",
+      "file": "title9_ch05.json",
+      "records": 3,
+      "sha256": "30c3bc7f0cc8fd07da3cb33bf5df0feedd34653708a1ead61a5e9c2625a165c2"
+    },
+    {
+      "chapter": "6",
+      "file": "title9_ch06.json",
+      "records": 7,
+      "sha256": "0030923819fd57b20a97308bc522334487460a1cbe48ff80f05ec73e024e5604"
+    },
+    {
+      "chapter": "7",
+      "file": "title9_ch07.json",
+      "records": 13,
+      "sha256": "dffeafafac7526e4fcda6234ee2ca9f749b183a44983e840ffc64a2248f513f9"
+    },
+    {
+      "chapter": "8",
+      "file": "title9_ch08.json",
+      "records": 7,
+      "sha256": "fa06ae92640ac584355d1a45a4d3f4a6e0c6fcaf25d0421f8010f510b3431ef6"
+    },
+    {
+      "chapter": "9",
+      "file": "title9_ch09.json",
+      "records": 22,
+      "sha256": "eaf855c2a5beb884be1d00aa5a34efd9975842852106a543a33f3eba8f0ff827"
+    },
+    {
+      "chapter": "10",
+      "file": "title9_ch10.json",
+      "records": 3,
+      "sha256": "c0ca77c8dbc413fa0b69675618636407b991349ae1f3f76303ee2ffe982ff0e6"
+    },
+    {
+      "chapter": "11",
+      "file": "title9_ch11.json",
+      "records": 24,
+      "sha256": "1069c9dabeac87a5985675a67d06670014252e2eb894f18c1dbebb8e3e77a872"
+    },
+    {
+      "chapter": "12",
+      "file": "title9_ch12.json",
+      "records": 18,
+      "sha256": "f2c545c25f5867633133a8892b9047adb7f110edc8daf44b1b535e41f2b72b36"
+    },
+    {
+      "chapter": "13",
+      "file": "title9_ch13.json",
+      "records": 17,
+      "sha256": "5b82be360c486be590f0aae7f8cf8b02f0e2dc038c79ff0b19804c2af3b011f8"
+    },
+    {
+      "chapter": "14",
+      "file": "title9_ch14.json",
+      "records": 33,
+      "sha256": "1547cd5aec496657b635296929eb1e4c6202dad78b1ca2d5081bb605b3e275b4"
+    },
+    {
+      "chapter": "15",
+      "file": "title9_ch15.json",
+      "records": 9,
+      "sha256": "63ca230b47c373bfc832722881980a955d26b69e8477ca60379db828b64c85d3"
+    },
+    {
+      "chapter": "16",
+      "file": "title9_ch16.json",
+      "records": 1,
+      "sha256": "86a0130859ea066bd6b2a9fd2cc4f77c05a0efab6d40e56815e2c2c4a29465fe"
+    }
+  ]
+}

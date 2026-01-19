@@ -1,0 +1,263 @@
+[
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.01(A)",
+    "heading": "Intent",
+    "page_start": 141,
+    "page_end": 141,
+    "verbatim": "The Wastewater Design Standards establish minimum design standards for providing and\nmaintaining the public wastewater utility collection system."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.01(B)",
+    "heading": "Wastewater Utility Master Plans",
+    "page_start": 141,
+    "page_end": 141,
+    "verbatim": "All improvements proposed to the City’s public wastewater utility system shall conform with the\ngoals, policies, and standards adopted in the Wastewater Utility Master Plan."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.01(C)",
+    "heading": "Reference Standards",
+    "page_start": 141,
+    "page_end": 141,
+    "verbatim": "Where not specified in these Standards or the B.R.C. 1981, to protect the public health, safety, and\nwelfare, the Director of Public Works will specify the standards to be applied to the design and\nconstruction of public wastewater utility improvements and may refer to one or more of the\nreferences listed in the References Section of these Standards."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.02(A)",
+    "heading": "Requirement",
+    "page_start": 141,
+    "page_end": 141,
+    "verbatim": "The Director of Public Works may require the preparation of a utility report in order to assess the\nimpacts and service demands of any project or development proposal connecting to the public\nwastewater collection system. The utility report shall be prepared by the Engineer and include a\ntechnical report and preliminary plan as outlined in the following subsections."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.02(B)",
+    "heading": "Report",
+    "page_start": 141,
+    "page_end": 142,
+    "verbatim": "The utility report shall provide an overview of the proposed project or development, proposed\nwastewater utility improvements, wastewater service demands, system impact and feasibility, and\nbasic design requirements, and include the following information:\n(1) Wastewater Demands: Include estimated wastewater demands based on projected land\nuse, occupancy and building type for the following conditions:\n(a) Average-Day (gallons-per-minute),\n(b) Peak Flow or Maximum-Day (gallons-per-minute),\n(c) Minimum-Day (gallons-per-minute), and\n(d) Infiltration/Inflow (gallons-per-minute).\n(2) Compatibility with Wastewater Utility Master Plan: Describe how the proposed\nwastewater utility improvements conform with the adopted Wastewater Utility Master\nPlan.\n(3) Service Area: Describe the initial and ultimate area, measured in acres, that could be\nserved by the new wastewater facilities.\n(4) Population Density: Define the initial and ultimate population densities that could be\nserved by the new wastewater facilities.\n(5) Industrial Wastes: Define the estimated quantities and quality of any industrial wastes\nthat could be discharged to the wastewater system.\n(6) System Layout: Describe the proposed collection system layout, including locations for\nconnections with the existing wastewater utility system.\n(7) Collection System Analysis: Include a collection system analysis as required by the\nDirector, identifying any system impacts based on proposed demands and providing\ndesign solutions to ensure perpetuation of future wastewater utility system growth and\nmaintain system capacity and flow rates.\n(8) Main Sizing: Indicate the required sizing of proposed collection mains based on\nwastewater demands.\n(9) Design Alternatives: Discuss alternative system layouts and methods of providing\nwastewater service, including an evaluation of each alternative and reasons for selecting\nthe recommended design.\n(10) Special Conditions: Identify any special conditions, such as conflicts with other utilities,\nunusual installation depths or oversizing requirements, that require special provisions for\nimprovements construction.\n(11) Wastewater Classification Survey: Include all information requested in the City’s\n“Wastewater Classification Survey.”\n(12) Wastewater Effluent Characteristics: Include information concerning the characteristics\nof proposed wastewater effluent, as described in 40 C.F.R., Part 122, Appendix D, Tables\n2-5, at each connection to the City’s wastewater collection system as required by the\nDirector, including the following:\n(a) Acidity-alkalinity,\n(b) Phosphorus,\n(c) pH,\n(d) Sulfates and sulfides,\n(e) Synthetic and organic compounds,\n(f) Hazardous constituents,\n(g) BOD (total and soluble fraction, carbonaceous and nitrogenous demand),\n5\n(h) COD (total and soluble),\n(i) TSS,\n(j) Nitrogen (TNK, NO , NO , NH , organic), and\n3 4 4\n(k) Inorganics (salts, metals)."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.02(C)",
+    "heading": "Preliminary Plan",
+    "page_start": 142,
+    "page_end": 143,
+    "verbatim": "A preliminary plan shall be included in the utility report to provide a plan view and reference for\nthe proposed improvements, and identify issues addressed in the report. The preliminary plan is to\ninclude the following:\n(1) Preliminary Design: Illustrate proposed methods and alternatives for providing site\nwastewater collection and service.\n(2) Property Boundaries: Reflect legal boundaries of the proposed project or development\nsite, including existing and proposed property and lot lines, existing and proposed rights-\nof-way and utility easements, and boundaries of abutting properties.\n(3) Topography: Include site topography at 2-foot interval contours, and the elevation and\nlocation of City-recognized benchmarks with reference to local, USGS and NGVD data.\n(4) System Area: Define and delineate the system area included in the network analysis.\n(5) Existing Utilities: Illustrate existing utilities, including manholes, within 400 feet of the\nproposed development.\n(6) Unusual Features: Identify unusual features, such as creeks, drainage facilities, railroads,\nand irrigation ditches, that might influence the location of underground utilities.\n(7) Proposed System Layout: Illustrate the general layout of the proposed wastewater\ncollection mains and manhole locations, including construction phasing.\n(8) Emergency Maintenance Access: Identify methods and routes for providing emergency\nand maintenance access to all proposed manholes."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.03(A)",
+    "heading": "Wastewater Utility Master Plan",
+    "page_start": 143,
+    "page_end": 143,
+    "verbatim": "Where major wastewater collection mains, 12 inches or larger in diameter, are proposed to be\nconstructed in the Wastewater Utility Master Plan, an applicant for construction approval shall\nprovide for the construction of the main as part of any development proposal, when the major\ncollection main is:\n(1) Located within a proposed development.\n(2) Located within 1,000 feet of a proposed development and it is feasible to include\nconstruction of this main in the proposed development.\n(3) Required to provide adequate collection service for the proposed development."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.03(B)",
+    "heading": "Main Extension Agreements",
+    "page_start": 143,
+    "page_end": 143,
+    "verbatim": "(1) When construction of a major collection main is required, and the diameter of the major\ncollection main is larger 12 inches and the minimum diameter required for local\ndistribution mains to serve the proposed development, an applicant for construction\napproval may enter into a \"main extension agreement\" with the City for reimbursement of\npublic improvements costs associated with the over-size construction of the major\ndistribution main, as prescribed under Sections 11-2-26, “Agreement to Extend Sanitary\nSewer Mains,” and 11-2-27, “Reimbursement of Costs for Sanitary Sewer Main\nExtension,” B.R.C. 1981.\n(2) When construction of an offsite major or local wastewater collection main is required to\nextend collection service to a proposed development, an applicant for construction\napproval may enter into a \"main extension agreement\" with the City for reimbursement of\noffsite public improvements, as prescribed under Sections 11-2-26, “Agreement to Extend\nSanitary Sewer Mains,” and 11-2-27, “Reimbursement of Costs for Sanitary Sewer Main\nExtension,” B.R.C. 1981."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.04(A)",
+    "heading": "Wastewater Collection Mains",
+    "page_start": 144,
+    "page_end": 145,
+    "verbatim": "(1) Wastewater collection mains shall be designed to convey the peak flow.\n(2) Wastewater collection mains shall be designed to ensure transport of suspended materials\nand preclude material deposits considering minimum-day flows.\n(3) The peak flow shall be determined using average-day forecasts adjusted by a peaking\nfactor and including the allowed and any existing system infiltration or inflow.\n(4) Flow capacity and loading data of existing and future conditions for the City’s major\nwastewater collection system shall be obtained from the Utilities Division for use in\ndesigning and analyzing proposed improvements.\n(5) The minimum-day flow shall be determined using average day-forecasts adjusted by a\nminimum flow factor and including the allowed and any existing infiltration or inflow.\n(6) Average-day flow forecasts shall include the ultimate area, population density, existing\nwastewater flow, anticipated industrial discharge, and any allowed infiltration/inflow, that\nproduces the greatest wastewater flow rates.\n(7) Surface water, ground water, or cooling water shall not be discharged into the wastewater\ncollection system. Prohibited connections include roof drains, storm inlets, foundation\nperimeter drains, area drains for open patios or driveway entrances to parking structures,\nand ground water sump systems.\n(8) Floor drains internal to covered parking structures, that collect drainage from rain and ice\ndrippings from parked cars or water used to wash-down internal floors, shall be connected\nto the sanitary sewer using appropriate grease and sediment traps.\n(9) Table 6-1 indicates wastewater discharge forecasting for average-day conditions:\nTable 6-1: Average Day Load by Development Type\nDevelopment Type Average Day Load\nResidential 100 gpcd\nAverage Persons per Single-Family Unit 3.2\nAverage Persons per Multi-Family Unit 2.0\nNon-Residential\nCommercial 5000 gpad\nIndustrial 4500 gpad\nInfiltration 200 gidm**\nNOTES: * The Industrial Average-Day Load Indicates Non-Water Intensive Industrial Development\n** Gallons Per Inch-Diameter-Mile\n(10) The average day forecast loads indicated in Table 6-1 represent minimum forecast loads in\ndetermining design flows. Where proposed development is known (based on specific\napplications or use), and the anticipated wastewater loads exceed the minimum forecast\ndemands, the greater load shall be used to determine design flows.\n(11) Table 6-2 indicates the wastewater peak flow and minimum flow factors for forecasting\ndischarges. These flow factors are used with the preceding average day load estimates as\ndefined in Section 6.04 A(10) of these Standards to determine minimum required\nwastewater main capacity:\nTable 6-2: Factors for Forecasting Wastewater Discharges\nCollection Main Diameter Minimum Flow Factor Peak Flow Factor\n10 inches and smaller 0.25 4.0\n12 to 15 inches 0.30 3.5\n18 to 27 inches 0.33 3.0\n30 inches and larger 0.40 2.5\n(12) Final design flow determinations shall include any documentation and calculation of\npopulation densities, building areas, pumped discharge flow rates, existing wastewater\nflow rates, existing or anticipated industrial discharges, peak flow, minimum flow, and\ninfiltration/inflow flow rates."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.04(B)",
+    "heading": "Wastewater Services",
+    "page_start": 145,
+    "page_end": 145,
+    "verbatim": "Design flows for wastewater services shall be determined in conformance with the most current\nInternational Plumbing Code (IPC), adopted by the City."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.05",
+    "heading": "Materials and Installation",
+    "page_start": 145,
+    "page_end": 145,
+    "verbatim": "Construction of wastewater-related public improvements shall be in compliance with these Standards. All\npipe shall be of adequate strength to support trench and AASHTO HS-20 highway loadings. The type of\npipe to be installed shall comply with these Standards, and shall be based upon applicable design flows,\npressures, site conditions, corrosion protection, and maintenance requirements"
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.06(A)",
+    "heading": "System Design",
+    "page_start": 145,
+    "page_end": 145,
+    "verbatim": "(1) Gravity Flow: The wastewater collection system shall be designed for gravity (open) flow\nconditions, using a manning’s roughness coefficient of 0.013 to account for various pipe\nmaterials and joints, service connections, and future interior pipe conditions.\n(2) Peak Flow Depth: Collection mains shall normally be designed to carry the peak flow\nwith a flow depth of no more than one-half of the full pipe.\n(3) Pressurized Flow Prohibited: Pressurized, surcharged, or depressed (inverted siphon)\nwastewater mains are prohibited in the City's wastewater collection system."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.06(B)",
+    "heading": "Size",
+    "page_start": 145,
+    "page_end": 145,
+    "verbatim": "(1) Minimum Diameter: Collection mains shall be a minimum eight (8) inches in diameter.\n(2) Size Changes: All changes in pipe size shall require a manhole at the size change."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.06(C)",
+    "heading": "Locations",
+    "page_start": 145,
+    "page_end": 145,
+    "verbatim": "(1) Easements: All wastewater mains shall be installed in public rights-of-way or easements,\nas prescribed under Section 4.04 of these Standards.\n(2) Lot Frontage: All platted lots, whether existing or proposed as part of a subdivision, shall\nfront on a collection main."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.06(D)",
+    "heading": "Depth",
+    "page_start": 145,
+    "page_end": 146,
+    "verbatim": "(1) Minimum and Maximum Cover: All collection mains shall have a minimum depth of\ncover of three (3) feet, and a maximum depth of cover of eighteen (18) feet, measured\nfrom the top of pipe to the final surface grade.\n(2) Shallow Cover Protection: Where collection main depths are less than four (4) feet, and\nthe main is located under a right-of-way, street, driveway, parking lot, or other areas where\nlive loading is a concern, special pipe materials (such as ductile iron pipe) or other\nstructural measures (such as concrete encasement) shall be provided.\n(3) Provision for Basements: Proposed collection mains shall be designed with adequate\ndepth to provide wastewater service to basements, where possible and appropriate."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.06(E)",
+    "heading": "Slope",
+    "page_start": 146,
+    "page_end": 146,
+    "verbatim": "(1) Minimum and Maximum Slopes: Table 6-3 indicates minimum and maximum\nallowable collection main slopes:\nTable 6-3: Minimum and Maximum Allowable Collection Main Slopes\nPIPE DIAMETER MINIMUM SLOPE MAXIMUM SLOPE\n(Inches) (%, ft/100 ft) (%, ft/100ft)\n8\" 0.400 7.5\n10\" 0.332 5.5\n12\" 0.247 4.5\n15\" 0.193 3.5\n18\" 0.144 2.5\n21\" 0.113 2.0\n24\" 0.092 1.8\n(2) Velocities: Collection mains shall be designed with an adequate slope to provide flow\nvelocities of two (2) feet per second during peak flow conditions. Minimum allowable\nslope shall provide half-full pipe flow velocities of two (2) feet per second. Maximum\nallowable slope shall provide half-full pipe flow velocities of 10 feet per second. The\ndesign slope will usually be greater than the minimum allowable slope, where less than\nhalf-full or full pipe peak flow conditions occur.\n(3) Slope Between Manholes: All collection mains shall be laid at a constant slope between\nmanholes.\n(4) Slope Changes: All changes in slope shall require a manhole at the slope change\nconnection."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.06(F)",
+    "heading": "Alignment",
+    "page_start": 146,
+    "page_end": 146,
+    "verbatim": "(1) Straight Alignment Required: All collection mains shall be laid in a straight alignment\nbetween manholes.\n(2) Alignment Changes: All changes in alignment require a manhole at the alignment change\nconnection.\n(3) Curvilinear Mains Prohibited: Curvilinear collection mains will not be allowed."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.06(G)",
+    "heading": "Separations and Crossings",
+    "page_start": 146,
+    "page_end": 146,
+    "verbatim": "All collection main separations and crossings of other City utilities shall be designed in\ncompliance with Section 4.06, “Separation of Utilities,” of these Standards."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.06(H)",
+    "heading": "Taps",
+    "page_start": 147,
+    "page_end": 147,
+    "verbatim": "All taps approved onto an existing collection main will be made by the City of Boulder Utilities\nDivision and shall be paid for by the applicant."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.06(I)",
+    "heading": "Ground Water Barriers",
+    "page_start": 147,
+    "page_end": 147,
+    "verbatim": "(1) Required: Where there exists a possibility that ground water may be diverted by the\nconstruction of new wastewater collection mains, ground water barriers shall be\nconstructed within the collection main trench to prevent ground water migration or\ndiversion along the wastewater main.\n(2) Placement: The Engineer shall determine the location and number of ground water\nbarriers that will be necessary to mitigate any ground water impacts, subject to review and\napproval by the Director. Any necessary support material required to address ground\nwater concerns, such as soils investigations, engineering calculations and design details,\nshall be provided by the Engineer."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.06(J)",
+    "heading": "Extensions",
+    "page_start": 147,
+    "page_end": 147,
+    "verbatim": "(1) Standards: Wastewater collection mains are subject to the requirements of Section 11-2-\n25, “Extensions for Sanitary Sewer Mains,” B.R.C. 1981, and these Standards.\n(2) System Perpetuation: Wastewater mains shall extend to the far edge of the property\nbeing served or to the edge of the platted subdivision, whichever is greater, to ensure\nperpetuation of the wastewater collection system. The location, size, and configuration of\nthe proposed development or subdivision, with respect to the existing wastewater\ncollection system, may dictate that wastewater mains be extended to the far edge of more\nthan one property or subdivision boundary to accommodate system perpetuation.\n(3) Exceptions: Exceptions to this subsection may be granted only if development of the\nadjacent property is not contemplated within 5 years or is classified as Area III under the\nBoulder Valley Comprehensive Plan. In these cases, an easement for extending the system\nshall be granted by the property owner."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.07(A)",
+    "heading": "Location",
+    "page_start": 147,
+    "page_end": 148,
+    "verbatim": "(1) Where Required: Manholes shall be required at the upper end of each collection main\nline, and at all changes in grade, slope and alignment. Where feasible, manholes are to be\ninstalled at street intersections, or aligned with an extension of property lines in midblock\nand easement locations and should be located outside of bike lanes, sidewalks, multi-use\npaths and wheel lines of streets.\n(2) Maximum Separation: Manholes shall be required along collection mains at distances\nnot greater than 400 feet.\n(3) Service Connections: Manholes shall be required at all service connections for\nwastewater service lines six (6) inches in diameter and larger.\n(4) Monitoring Facilities: Manholes for monitoring facilities shall be required on service\nlines for industrial users or non-residential users, as prescribed under Section 11-3-16,\n“Monitoring Facilities,” B.R.C. 1981. Where monitoring facilities are required, service\nlines shall be a minimum of 6 inches in diameter to facilitate sampling.\n(5) Avoidance of Submerged Conditions: Manholes shall not be placed in detention basins,\ndrainage ditches, or areas subject to localized ponding. Placement of manholes in\nfloodplains should be avoided if possible."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.07(B)",
+    "heading": "Flow Channels",
+    "page_start": 148,
+    "page_end": 148,
+    "verbatim": "(1) Required: Flow channels shall be required in all manholes, connecting the inverts of the\nupstream and downstream pipe sections. The flow channel shall be U-shaped, and shall\nmeet the following minimum heights:\n(a) One-half of the diameter (or to pipe centerline) on collector pipes less than 15\ninches in diameter.\n(b) Three-fourths of the diameter on collector pipes 15 inches and larger in diameter.\n(2) Slope: The slope of the flow channel shall be:\n(a) The design slope through the manhole, for continuous slope, straight alignment\npipe lines.\n(b) The slope (approximately five (5) percent) resulting from a two-tenths (0.2) feet\ndrop through the manhole (to account for energy losses inside the manhole), for\nmanholes at changes in alignment and grade.\n(c) The slope resulting in the manhole by matching the eight-tenths (0.8) depth point\nof the upstream and downstream pipe sections, for manholes at changes in pipe\nsize."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.07(C)",
+    "heading": "Drop Manholes",
+    "page_start": 148,
+    "page_end": 148,
+    "verbatim": "(1) Avoidance: Drop manholes shall be avoided whenever possible.\n(2) Where Provided: Where there are no available alternatives, drop manholes shall be\nrequired where the invert of the upstream pipe section entering the manhole is greater than\ntwo (2) feet above the invert of the downstream pipe section exiting the manhole."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.07(D)",
+    "heading": "Maintenance Access",
+    "page_start": 148,
+    "page_end": 148,
+    "verbatim": "Direct access by maintenance vehicles shall be provided to each manhole. The access drive shall\nbe an all-weather surface, such as asphalt or concrete paving, adequate gravel base or turf block,\nand shall be capable of supporting maintenance vehicles weighing up to 14 tons. The access drive\nshall be free of obstructions and landscaping."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.07(E)",
+    "heading": "Covers",
+    "page_start": 148,
+    "page_end": 148,
+    "verbatim": "(1) Where Required: Manholes that are not located within a public street, alley or driveway\nsection shall be installed with a bolting-type cover to ensure safety and prevent vandalism.\n(2) Submerged Conditions: Where manholes must be located within the 100-year floodplain\nor in a location where runoff may accumulate and pond, they shall be installed with a\nhinged, gasketed, and locking frame and cover assembly. The assembly shall be an “East\nJordan Iron Works” ERGO or ERGO XL assembly. The manhole ring shall be bolted to\nthe manhole cone to prevent possible damage due to surcharge."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.08(A)",
+    "heading": "General",
+    "page_start": 149,
+    "page_end": 149,
+    "verbatim": "(1) Standards: Wastewater services are private wastewater system extensions that are\nconnected or tapped onto the wastewater collection main to provide wastewater service to\nthe consumer, and are subject to the requirements of Section 11-2-13, “Taps or\nConnections to Sanitary Sewer Mains,” and 11-2-14, “Sanitary Sewer Service Lines,”\nB.R.C. 1981, and these Standards.\n(2) Industrial and Prohibited Discharges: Wastewater services and discharges are subject\nto the requirements of Chapter 11-3, “Industrial and Prohibited Wastewater Discharges,”\nB.R.C. 1981.\n(3) Separate Services to Lots: All platted lots, whether existing or proposed as part of a\nsubdivision, shall front on and have a separate wastewater service connection to a\ncollection main without crossing adjacent lots.\n(4) Service Alignment: Wastewater services shall be installed perpendicular to the collection\nmain, for that portion of the service line that is located in the public right-of-way or\neasement. Where this is not possible, the wastewater service alignment shall be subject to\nthe determination of the Director.\n(5) Separation from Water Service: Wastewater services shall maintain a minimum\nseparation of ten (10) feet from water services, for that portion of the service line that is\nlocated in the public right-of-way or easement.\n(6) Prohibited Connections: No storm water, surface water, or ground water may be\ndischarged into the wastewater service. Prohibited connections include roof drains, storm\ninlets, foundation perimeter drains, area drains for open patios or driveway entrances to\nparking structures, and ground water sump systems.\n(7) Floor Drains in Parking Garages: Floor drains internal to covered parking structures,\nthat collect drainage from rain and ice drippings from parked cars or water used to wash-\ndown internal floors, shall be connected to the wastewater service using appropriate grease\nand sediment traps.\n(8) Maintenance Access: Wastewater services shall be provided with a two-way cleanout\noutside and adjacent to the building being served and where there is a change in alignment\nof the service. Cleanouts shall be constructed as follows:\n(a) No cleanouts shall be installed within the public right-of-way.\n(b) Cleanouts shall be constructed of the same diameter pipe as the wastewater\nservice.\n(c) Cleanouts shall not be located in detention ponds, ditches, swales, or other areas\nof stormwater runoff or ponding.\n(d) Cleanouts shall be fitted with a threaded watertight cap that prevents the inflow of\nstormwater or irrigation water.\n(e) The cleanout shall allow maintenance access for cleaning and inspection in both\nthe upstream and downstream direction."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.08(B)",
+    "heading": "Connections",
+    "page_start": 150,
+    "page_end": 150,
+    "verbatim": "(1) Tap: Wastewater service connections to newly constructed collection mains shall require\nthe installation of a tee or wye, in conformance with these Standards. A directional fitting\nshall be used at all tap connections.\n(2) Installation: All connection taps approved onto an existing wastewater collection main\nshall be made by the City of Boulder Utilities Division and shall be paid for by the\napplicant.\n(3) Standard Connections: Wastewater service connections shall be tied into the collection\nmain between manholes and shall be spaced a minimum of eighteen inches apart and a\nminimum two feet away from any manhole.\n(4) Manhole Connections: Service connections to manholes shall be avoided, except where\nany of the following conditions exist:\n(a) The service size is six inches in diameter or larger (which requires the installation\nof a manhole).\n(b) The service connection is tied to a terminal manhole, located at the end of a cul-\nde-sac or easement, and there is no possibility of extending the collection main in\nthe future.\n(c) The service connection elevation cannot be tapped above the springline of the\nsanitary sewer main.\nNOTE: Under these conditions, a flow channel shall be provided in the manhole from\nthe service connection to the manhole flow channel, and the service shall enter the\nmanhole at no greater than 6 inches above the manhole base."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 6,
+    "anchor": "6.08(C)",
+    "heading": "Service Lines",
+    "page_start": 150,
+    "page_end": 152,
+    "verbatim": "(1) Separate Services to Structures: Each principal structure shall be served by a separate\nwastewater service line connected to the collection main. Where more than one principal\nstructure is proposed on a single lot, an additional wastewater service line will be required\nfor each additional principal structure.\n(2) Accessory Buildings: An accessory building or structure, as defined under Section 9-1-3,\n“Definitions,” B.R.C. 1981, may receive limited service from a principal building or\nstructure without a separate wastewater service, subject to the following:\n(a) If the accessory structure contains no toilet and no bathtub or shower fixtures, the\naccessory structure is limited to the following plumbing fixtures:\n(i) Sink (one fixture),\n(ii) Clothes washer connection (one set),\n(iii) Hose bib or sill cock (one fixture),\n(iv) Floor drain (one fixture), and\n(v) Interceptor (one fixture).\n(b) If the accessory structure is proposed to have a sink and toilet, the accessory\nstructure shall not contain any additional sinks or toilets nor a bathtub or shower\nfixture, shall not be used as a separate dwelling unit, may not be located on a\nproperty that can be subdivided into separate lots, and shall be limited to the\nfollowing additional plumbing fixtures:\n(i) Sink (one fixture),\n(ii) Toilet (one fixture),\n(iii) Floor drain (one fixture), and\n(iv) Interceptor (one fixture).\n(c) An approved detached accessory dwelling unit, as defined under Subsection 9-16-\n1(c), “General Definitions,” B.R.C. 1981, is not subject to this section’s plumbing\nfixture limitations.\n(d) The Director of Public Works may permit wastewater hookups separate from a\nprincipal detached dwelling unit upon finding that topography or other physical\ncircumstances make utility connections to the principal structure impractical.\n(3) Services Crossing Lots: Wastewater service lines crossing one lot to provide service to\nan adjacent lot may be approved if all of the following conditions are met:\n(a) The service crossing is part of a proposed subdivision creating only two lots.\n(b) A utility easement at least 10 feet wide is provided across, and situated entirely\nwithin, the boundaries of the proposed subdivision. The easement is to be granted\nto the City for the benefit of the property owner being served and is to be\noccupied by the wastewater service line only, or by the water and wastewater\nservice lines only if the water and wastewater service lines are installed in\ncompliance with the IPC.\n(c) The Director determines that a wastewater main extension is not necessary to\nperpetuate the system, or that future development of abutting properties cannot\nbenefit from a main extension.\n(d) The wastewater service line is to be centered in the easement and be at least 5 feet\nfrom other utilities, except for a combined water/wastewater service installation as\nallowed under the IPC.\nCITY OF BOULDER\nDESIGN AND CONSTRUCTION STANDARDS"
+  }
+]

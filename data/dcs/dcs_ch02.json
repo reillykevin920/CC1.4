@@ -1,0 +1,830 @@
+[
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.10",
+    "heading": "EMERGENCY ACCESS LANES",
+    "page_start": 3,
+    "page_end": 4,
+    "verbatim": "(A) Emergency Access Required ...................................................................................................... 2-37\n(B) When Emergency Access Lane is Required ................................................................................ 2-37\n(C) Secondary Emergency Access .................................................................................................. 2-37\n(D) Local Emergency Access Lane Standards ................................................................................... 2-37\n(E) Unobstructed Access ......................................................................................................... 2-38\n(F) Access Identification ................................................................................................................... 2-38\n2.11 BICYCLE FACILITIES AND MUNTI-USE PATH DESIGN ................................................... 2-38\n(A) Conformance with Low-Stress Walk and Bike Network Plan .................................................... 2-38\n(B) On-Street Bike Lanes - Streets Without On-Street Parking ......................................................... 2-38\n(C) On-Street Bike Lanes - Streets With On-Street Parking .............................................................. 2-38\n(D) Buffered Bike Lanes .................................................................................................................... 2-39\n(E) Separated Bike Lanes (One-Way and Two-Way) ....................................................................... 2-39\n(F) Off-Street Multi-Use Paths ................................................................................................................ 2-44\n(G) Bicycle Parking .................................................................................................................................. 2-44\n2.12 STREET LIGHTING ....................................................................................................................... 2-46\n(A) Scope ........................................................................................................................................... 2-45\n(B) Private Development ................................................................................................................... 2-45\n(C) City Projects ..................................................................................................................................................... 2-45\n(D) Street Types ...................................................................................................................................................... 2-45\n(E) Design Standards ............................................................................................................................................. 2-46\n(F) Installation ........................................................................................................................................................ 2-46\n(G) Easements ......................................................................................................................................................... 2-46\n(H) Fees ................................................................................................................................................................... 2-47\n2.13 Transit Stop Facilities ...................................................................................................................... 2-48\n2.14 Traffic Calming Design .................................................................................................................... 2-48\n(A) Scope .......................................................................................................................................... 2-48\n(B) Traffic Circles............................................................................................................................. 2-48\n(C) Raised Crossings ........................................................................................................................ 2-50"
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.01(A)",
+    "heading": "Intent",
+    "page_start": 42,
+    "page_end": 42,
+    "verbatim": "The Transportation Design Standards are intended to provide for an integrated transportation\nsystem for all transportation modes, including pedestrian, bicycle, transit, and motor vehicle."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.01(B)",
+    "heading": "Transportation Master Plan",
+    "page_start": 42,
+    "page_end": 42,
+    "verbatim": "All improvements proposed to the city’s transportation system shall conform with the goals and\npolicies in the Transportation Master Plan (TMP)."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.01(C)",
+    "heading": "Reference Standards",
+    "page_start": 42,
+    "page_end": 42,
+    "verbatim": "Where not specified in these Standards or the B.R.C. 1981, to protect the public health, safety,\nand welfare, the Director of Public Works will specify the standards to be applied to the design\nand construction of transportation improvements and may refer to one or more of the references\nlisted in the References Section of these Standards."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.01(D)",
+    "heading": "Functional Street Classification",
+    "page_start": 42,
+    "page_end": 42,
+    "verbatim": "Public streets shall be designed and improved to conform to the applicable functional street\nclassification as defined on the “Street Function Class and Proposed Street Facilities” map of the\nTMP."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.02(A)",
+    "heading": "Traffic Assessment",
+    "page_start": 42,
+    "page_end": 42,
+    "verbatim": "The Director will require an applicant to submit a Traffic Assessment in order to adequately\nassess the impacts of any development proposal on the existing and planned transportation\nsystem. The Assessment shall include a peak hour trip generation study projection (Refer to\n2.03(J)) and may require additional information as determined by the Director."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.02(B)",
+    "heading": "Traffic Study Requirements",
+    "page_start": 42,
+    "page_end": 42,
+    "verbatim": "For any development proposal where trip generation from the development during the peak hour\nof the adjacent street is expected to exceed 100 vehicles for nonresidential applications, or 20\nvehicles for residential applications the Director will require an applicant to submit a Traffic\nStudy to evaluate the traffic impacts of the development proposal. The Traffic Study may include\nthe information required in Subsections (A) through (K), of Section 2.03, “Traffic Study Format,”\nof these Standards at the discretion of the Director."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.02(C)",
+    "heading": "Responsibilities for Traffic Studies",
+    "page_start": 42,
+    "page_end": 42,
+    "verbatim": "An applicant for construction approval shall be responsible for assessing all traffic impacts\nassociated with a proposed development, with the city serving in a review and approval capacity."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.02(D)",
+    "heading": "Preparation",
+    "page_start": 43,
+    "page_end": 43,
+    "verbatim": "A Traffic Study shall be prepared by an Engineer with adequate experience and expertise in\ntransportation engineering. The Engineer shall be identified in the Traffic Study."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.02(E)",
+    "heading": "Coordination with City",
+    "page_start": 43,
+    "page_end": 43,
+    "verbatim": "Transportation consultants and Engineers preparing Traffic Studies shall discuss proposed\ndevelopment projects with the Director prior to initiating the study. Issues to be discussed\ninclude, without limitation, the TMP, definition of the study area, relevant subarea, area, and\nsubcommunity plans, methods for projecting build-out volumes, background traffic conditions,\ntrip generation, directional distribution of traffic, trip assignment, and assessment of potential\ntransportation hazards. These aspects of the Traffic Study shall be approved by the Director prior\nto study preparation."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.02(F)",
+    "heading": "Submittal",
+    "page_start": 43,
+    "page_end": 43,
+    "verbatim": "A Traffic Study shall be prepared in conformance with, and including, the information required in\nSection 2.03, “Traffic Study Format,” of these Standards."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(A)",
+    "heading": "Study Requirements",
+    "page_start": 43,
+    "page_end": 43,
+    "verbatim": "The information provided in the Traffic Study shall include the following sections as outlined\nbelow. The study shall be typed and bound, and clearly identify the data and information in the\nappropriate sections. In addition, the study shall contain a table of contents, lists of figures, and\ntables, and shall identify any map pockets and included drawings."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(B)",
+    "heading": "Introduction",
+    "page_start": 43,
+    "page_end": 43,
+    "verbatim": "The Traffic Study shall provide an introduction with an overview and discussion of the project or\ndevelopment proposal."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(C)",
+    "heading": "Site Location and Zoning",
+    "page_start": 43,
+    "page_end": 43,
+    "verbatim": "Include a vicinity map detailing the property location, a conceptual site plan reflecting the\nboundaries of the project or development, and information detailing the designated zoning\ndistrict, general terrain and physical features of the site and the surrounding area."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(D)",
+    "heading": "Study Area Boundaries",
+    "page_start": 43,
+    "page_end": 43,
+    "verbatim": "Include the Study Area Boundaries as determined based on discussions with the Director and\ninclude all roadways and transportation routes providing access to the site and the surrounding\ntransportation system."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(E)",
+    "heading": "Existing Area Street System Description",
+    "page_start": 43,
+    "page_end": 44,
+    "verbatim": "Describe and include roadway orientations, functional classifications and geometries, intersection\ngeometries, and traffic controls, including without limitation signage and striping, speed limits,\nparking restrictions, sight distance, transit routes, the presence of bicycle and pedestrian facilities,\nand any other related traffic operations information and improvements approved or planned by\ngovernment agencies. For identified improvements scheduled by government agencies, include\nthe nature of the improvements, extent, implementation schedule, and the agency or funding\nsource responsible."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(F)",
+    "heading": "Existing and Projected Roadway and Intersection Traffic Volumes",
+    "page_start": 44,
+    "page_end": 44,
+    "verbatim": "Include diagrams that map existing traffic volumes, and each variation of projected traffic\nvolumes, for all roadways and intersections within the study area. Also provide diagrams that\nmap the intersection and roadway geometries and traffic control within the study area."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(G)",
+    "heading": "Existing and Proposed Site Uses",
+    "page_start": 44,
+    "page_end": 44,
+    "verbatim": "Include an identification of the existing land use and proposed land use or the highest potential\nland use based on zoning and maximum trip generation where a specific use has not been\ndetermined. If rezoning is proposed, the study shall provide a comparison between the highest trip\ngeneration uses for the existing zoning and the highest trip generation uses for the proposed\nzoning."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(H)",
+    "heading": "Existing and Proposed Land Uses in Vicinity of the Site",
+    "page_start": 44,
+    "page_end": 44,
+    "verbatim": "Document any vacant land or potential redevelopment that may result in a change in traffic\nvolume conditions within the study area during each time period studied. Perform and provide\ntrip generation on these parcels and include the trips generated from these parcels in the trip\nvolume diagrams and level of service analyses for each appropriate time period studied."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(I)",
+    "heading": "Transportation Demand Management Strategies",
+    "page_start": 44,
+    "page_end": 44,
+    "verbatim": "Include an outline of transportation demand management strategies to mitigate traffic impacts\ncreated by proposed development and implementable measures for promoting alternate modes of\ntravel, including but not limited to the following:\n(1) Site Design: Incorporate design features that facilitate walking, biking, and use of\ntransit services to access a proposed development, including features such as transit\nshelters and benches, site amenities, site design layouts, orientations and connections to\nincrease convenience for alternate modes and reduce multiple trips to and from the site,\nand direct connections to existing offsite pedestrian, bicycle, and transit systems.\n(2) Programs and Education: Incorporate alternate modes programs, such as providing\ntransit passes to employees and residents, van pooling to the site by a major employer,\nride-sharing, parking pricing, and planned delivery services, and educational measures\nsuch, as promoting telecommuting, distributing transit schedules and trails maps, signing\nalternate travel routes, and providing an onsite transportation coordinator or plan to\neducate and assist residents, employees, and customers in using alternate modes."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(J)",
+    "heading": "Trip Generation",
+    "page_start": 44,
+    "page_end": 45,
+    "verbatim": "Traffic estimates for the proposed project and potential developed or redeveloped properties in\nthe study area shall be obtained by performing trip generation using the procedures outlined in the\nmost current edition of the Trip Generation Manual of the Institute of Transportation Engineers\n(ITE). If adequate Trip Generation Manual data is not available for a specific land use, the\nprocedures used to estimate trip generation data shall be approved by the Director. Include the\nfollowing specific trip generation information:\n(1) Summary Table: List each land use that requires trip generation analysis, including the\nproject plus developed or redeveloped land uses within the study area. For each trip\ngeneration summary include land use type, amount, intensity, average trip generation\nrates for total daily traffic and peak hour traffic (a.m., noon and/or p.m. peak hour traffic\ngeneration may be required), and the resultant total trips generated for each time period\nand each land use.\n(2) Calculations: Calculation of projected trip generation for any land use, used to\ndetermine study area impacts, shall be based on the following:\n(a) Trip generation formulas (or rates, if formulas are not available) published in the\nmost recent version of the Trip Generation Manual. Trip generation reports from\nother industry publications may be considered but are subject to the approval of\nthe Director.\n(b) A local trip generation study, following procedures outlined in the most recent\nversion of the Trip Generation Manual, if no published rates are available and\nsimilar land uses can be studied.\n(c) Additional data or studies from other similar jurisdictions. Trip generation\nobtained in this fashion is subject to the review and approval of the Director.\n(3) Trip Generation Reductions: Credit for any trip reductions is subject to review and\napproval in advance by the Director. Anticipated trip reduction assumptions should be\ndiscussed and approved by the Director prior to the preparation of the Traffic Study. Trip\nreductions typically fall into one of two categories: those that reassign some portion of\nthe trip generation from the surrounding roadway network (passerby and diverted trip\nreductions), and those that remove trips generated from the land use trip generation\n(internal and modal split reductions).\n(a) Use of passerby and diverted trip reductions may be evaluated and considered in\nreducing the additional estimated total trip generation of a new land use.\nHowever, passerby and diverted trip reduction factors are not to be applied\ndirectly to reduce trip generation and turning movement volumes at driveways\nserving the studied land use. These factors are subject to the approval of the\nDirector.\n(b) Internal trip reductions and modal split assumptions may reduce the total trip\ngeneration of a land use. These factors considered in the Traffic Study shall\nsupply analytical support and detailed documentation to demonstrate how the\nestimates were derived and incorporated and are subject to the approval of the\nDirector."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(K)",
+    "heading": "Trip Distribution/Assignment and Modal Split",
+    "page_start": 46,
+    "page_end": 46,
+    "verbatim": "Trip distribution/assignment of any generated traffic estimates shall be clearly summarized and\nillustrated for each access route entering and exiting the generating land use, using the study area\ntransportation system as a basis. Include the following specific trip distribution/assignment\ninformation:\n(1) Trip Distribution: The trip distribution for each site shall be identified and illustrated\nwith a graphical figure detailing the percentages making each movement, at each\nintersection in the study area. The trip distribution shall be logically based upon factors\nsuch as the site’s location within the city’s existing traffic volume data in the study area,\nmarket analyses, applied census data, and/or professional engineering judgment. Trip\ndistribution assumptions are subject to the approval of the Director.\n(2) Trip Assignment: Trip assignment shall be done by applying the trip generation totals\nfor each time period studied, to the trip distribution percentages developed. The trip\nassignment shall develop anticipated traffic volumes for each of the movements\nidentified by the trip distribution and each of the time periods identified in the analyses.\nThe resulting traffic volumes shall be illustrated with graphical figures detailing the\nanticipated volumes making each movement, at each intersection in the study area, during\neach time period studied."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(L)",
+    "heading": "Existing and Projected Traffic Volumes",
+    "page_start": 46,
+    "page_end": 47,
+    "verbatim": "(1) Traffic Volume Scenarios: Five traffic volume scenarios and three separate times of\nthe day may be required to be included in a Traffic Study analysis. The applicant shall\nmeet with the Director to determine the scenarios and time periods to be studied, prior to\nthe development of the Traffic Study. The number of scenarios and time periods to be\nstudied are subject to the approval of the Director. The potential scenarios and time\nperiods include the following:\n(a) Scenario 1 - Existing Conditions: An analysis of existing traffic conditions will\nbe required in the Traffic Study. Existing Conditions analysis should attempt to\nmodel traffic conditions at the time the Traffic Study is being prepared. Traffic\ncounts that are older than the year the study is being prepared shall be factored up\nor adjusted to existing year volumes.\n(b) Scenario 2 - Anticipated Project Completion Year Without Project Volumes:\nInclude an analysis of the anticipated traffic conditions during the year the\nproject is intended to be finished and traffic is generated. The analysis shall\nanticipate the increase in background traffic volumes and the generation of other\nrelated projects that are not present in the existing condition, but would likely be\ncompleted and generating trips in this time period. The trip generation for the\nproposed project shall not be included in this scenario. If the project is intended\nto be completed the same year that the Traffic Study is being prepared, then this\nscenario is the same as Scenario 1 - Existing Conditions.\n(c) Scenario 3 - Anticipated Project Completion Year With Project Volumes: This\nscenario is the same as Scenario 2, except that the project volumes are assigned\nto the roadway network and included in the analyses.\n(d) Scenario 4 Future Buildout Conditions Without Project Volumes: An analysis of\nthe anticipated traffic conditions during buildout, using the projected buildout\nyear defined in the city’s TMP. The analysis shall anticipate the increase in\nbackground traffic volumes and the generation of other related projects that are\nnot present in the existing condition, but would likely be completed and\ngenerating trips in this time period. The trip generation for the proposed project\nshould not be included in this scenario.\n(e) Scenario 5 Future Buildout Conditions With Project Volumes: This scenario is\nthe same as Scenario 4, except that the project volumes are assigned to the\nroadway network and included in the analyses.\n(2) Traffic Volume Projections: The traffic volume projections shall identify existing\nand projected daily traffic counts and peak hour turning movement counts for each access\npoint, intersection and street identified in the Traffic Study area for each of the\naforementioned scenarios required in the study.\n(3) Time Periods: Each scenario may be required to look at three different time periods\n(the a.m., noon and p.m. peak hour conditions). The Director will determine which time\nperiods and scenarios are required for each Traffic Study depending upon the project’s\nsize, location, types of land uses and other pertinent factors.\n(4) Raw Traffic Count Data: Include all raw traffic-count data for average daily and peak\nhour conditions and traffic analysis worksheets in the appendices of the Traffic Study for\nreference. Computer techniques and associated printouts may be used for this part of the\nreport.\nNOTE: All total daily traffic counts must be actual machine counts, not based on\nfactored peak hour sampling. Latest available machine counts from the city, and other\nagencies, may be acceptable if not more than 2 years older than the year the Traffic Study\nis being prepared. Data older than the year the Traffic Study is being prepared shall be\nfactored up to current year numbers, using growth rates approved by the Director."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(M)",
+    "heading": "Transportation Service Standards",
+    "page_start": 47,
+    "page_end": 48,
+    "verbatim": "Include a discussion and analysis assessing the impacts of the project or development proposal on\nthe existing and planned transportation system in the study area with respect to the following\ntraffic impact and mitigation objectives:\n(1) Transportation Master Plan Objectives: TMP service standards’ objectives include\nthe following:\n(a) No long-term growth in auto traffic over current levels described as a 0 percent\nincrease in vehicle miles traveled.\n(b) Reduction in single occupant vehicle travel to 25 percent of total trips.\n(c) Continuous reduction in mobile source emission of air pollutants, and no more\nthan 20 percent of roadways congested at LOS F.\n(2) Level of Service Design Guide: LOS standards objectives include:\n(a) Minimum LOS D design guide for peak hour conditions for all movements.\nProject impacts that maintain LOS D or better for all intersections and street\nsegments may not be required to provide LOS-related traffic mitigation\nimprovements.\n(b) LOS E and lower peak hour conditions require the implementation of one or\nmore transportation management strategies consistent with the goals and\nobjectives of the TMP. A transportation management strategy plan required to\naddress and mitigate these conditions may include travel demand management,\nland use intensity reduction, site design, layout and access modifications, parking\nreduction measures, or transportation infrastructure improvements."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(N)",
+    "heading": "Level of Service Analysis",
+    "page_start": 48,
+    "page_end": 48,
+    "verbatim": "(1) The Traffic Study shall provide LOS analyses for all study area intersections (signalized\nand unsignalized) and mid-block roadway segments using methodologies outlined in the\ncurrent Highway Capacity Manual. The analyses should be performed for Scenarios 1\nthrough 5, described in Section 2.0 3(L), “Existing and Projected Traffic Volumes,” and\nfor each time period (a.m., noon and/or p.m. peaks) that is required in the Traffic Study,\nunless otherwise required by the Director.\n(2) Level of service analyses shall consider the appropriate infrastructure, lane usage, traffic\ncontrol and any other pertinent factors for each scenario to be studied. Intersections with\nplanned improvements, discussed in city planning documents, may have those\nimprovements shown in the level of service analyses.\n(3) Signalized intersection level of service analyses shall use the existing timing and phasing\nof the intersections for all scenarios. If the analyses are to deviate from existing timings\nor phasing, then a detailed signal progression analyses for the affected corridor shall also\nbe provided.\n(4) The results of the level of service analyses for each scenario and each time period shall be\nsummarized into one or more tables that illustrate the differences in level of service for\neach scenario. At a minimum, these tables shall list the level of service results for each\nintersection to include the level of service for each approach and the total intersection\nlevel of service, as well as the appropriate delay values for each approach and the total\nintersection. These tables shall highlight any locations where the addition of project\ntraffic has caused any approach of any intersection to fall below the LOS D standard for\nthe city."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(O)",
+    "heading": "Traffic Counts and Analyses Worksheets",
+    "page_start": 48,
+    "page_end": 49,
+    "verbatim": "Provide capacity analysis calculations based on the planning or operational analysis techniques\ncontained in the current Highway Capacity Manual or subsequent highway capacity techniques\nestablished by the Federal Highway Administration, including the following:\n(1) Raw Traffic Count Data: Include all raw traffic count data for average daily, hourly\nAverage daily trip (ADT), and peak hour conditions and traffic analysis worksheets in the\nappendices of the Traffic Study for reference. Computer techniques and associated\nprintouts may be used for this part of the report.\n(2) Level of Service Analyses: Include all level of service analyses performed for\nintersections and roadway links. If signal timing or phasing changes are proposed for\ntraffic mitigation and the signal is currently part of a coordinated system, a progression\nanalysis will be required to ensure that adequate progression is maintained or provided.\nAll progress analysis and assumptions to be used shall be reviewed and approved by the\nDirector."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(P)",
+    "heading": "Traffic Control and Signals",
+    "page_start": 49,
+    "page_end": 49,
+    "verbatim": "The Traffic Study shall discuss and analyze any traffic control measures that may be necessary to\nserve a proposed project or development. Any traffic control measures are to be evaluated based\non the requirements established in the Manual on Uniform Traffic Control Devices (MUTCD)\nand by the city, and will be applied as necessary to ensure safe and efficient operation of the\ncity’s transportation system. The analysis shall demonstrate the need for traffic control measures\nconsidering the objectives and policies of the TMP and alternative site designs in order to\nminimize or mitigate traffic impacts from the proposed project or development. The following\ntraffic control measures are to be addressed:\n(1) Regulatory Signage, Markings and Islands: These traffic control measures shall be\napplied as necessary in conformance with the MUTCD and city standards and policies.\n(2) Traffic Signals: The installation of new traffic signals is not encouraged by the city and\nall possible alternatives to signalization shall be evaluated before the installation of a new\ntraffic signal will be considered. The need for new traffic signals will be based on\nwarrants contained in the MUTCD and on city policies. In determining the location of a\nnew signal, safety and community traffic circulation and progression will be the primary\nconsiderations. If a traffic signal is suggested as part of a mitigation package, and the\nintersection lies within a series of coordinated traffic signals, then a progression analysis\nmay be required to ensure that adequate progression may still be provided. Generally, a\nspacing of one-half mile between all signalized intersections is to be maintained, to\nachieve optimum capacity and signal progression. Pedestrian and bicycle movements\nshall be considered in all cases and adequate pedestrian clearance is to be provided in the\nsignalization design.\n(3) Intersection and Access Locations: To provide flexibility and safety for the existing\nroadway system and to ensure optimum two-way signal progression, an approved traffic\nengineering analysis shall be made to properly locate all proposed intersections that may\nrequire signalization, and any accesses to the proposed development."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(Q)",
+    "heading": "Hazard Assessment",
+    "page_start": 50,
+    "page_end": 51,
+    "verbatim": "The Traffic Study shall include a Hazard Assessment if the development has immediate frontage\non a High Risk Network street (as detailed in the most recent version of the Vision Zero Action\nPlan). The applicant must evaluate if future conditions being proposed by the development create\na new potentially hazardous condition or worsen an existing potentially hazardous condition or\nidentified crash pattern. If a potentially hazardous condition has been identified, proven safety\ncountermeasures to mitigate the hazard are to be included. The Hazard Assessment shall include,\nbut is not limited to, the following sub-sections:\n(1) Existing Conditions and Proposed Project\n(a) Summarize existing conditions (including the past five years of fatal and serious\ninjury crashes in the project vicinity) and the proposed project as defined by the\nTraffic Study requirements and relevant to identifying existing and new potential\nhazards (e.g., study area, existing and planned transportation system, multi-modal trip\ngeneration, distribution/assignment, modal split, traffic volumes, traffic control, and\nsignals).\n(2) Analysis\n(a) Applicant must analyze if future conditions being proposed by the development\nexacerbate existing or create new potentially hazardous conditions for public transit\noperations and for people walking, bicycling, driving, or using a mobility device or\nscooter. The methodology for analysis should account for the amount, movement\ntype, sightlines, and speed of projected vehicle trips and projected changes to the\npublic right-of-way in relation to the presence of public transit vehicles or people\nwalking, bicycling, driving, or using a mobility device or scooter.\n(b) Analysis must:\n(i) Address the project’s direct and indirect physical changes to the existing\nbaseline conditions\n(ii) Describe the intensity (e.g., number of vehicle trips), location (e.g.,\ndriveway, particular streets), and other project features that may be relevant\nto address the significance criterion. Be specific (e.g., the project would\ngenerate 120 vehicle trips into the driveway during the p.m. peak hour), do\nnot generalize (e.g., the project would generate a modest number of vehicle\ntrips).\n(iii) The impact analysis shall assume the project will comply with laws and\nregulations. The analysis shall describe how compliance would occur, what\nit would entail, and how it may reduce impacts\n(iv) Table 2-1 provides a sample of the circumstances, which may result in\npotentially hazardous conditions for people walking, bicycling, driving, or\nusing a mobility device or scooter. This is not an exhaustive list of\ncircumstances, under which, potentially hazardous conditions would occur.\nAdditional hazardous conditions may be identified at the Director’s\ndiscretion.\nTable 2-1: Sample of Potentially Hazardous Conditions\nPotentially Hazardous Condition\nAdds a new site access or modifies an existing site access by\nadding new movements that were not previously permitted\nIncreases automobile volumes crossing sidewalks, paths, or\ntrails\nIncreases corner radius and thereby increases the speed of\nturns or pedestrian/bicycle crossing distance\nIncreases the number of automobile lanes\nIncreases crossing distances\nAdds unprotected left turn movement\nIncreases the volume of pedestrians across an uncontrolled\nmid-block crosswalk\nAdds obstructions or slopes that diminish the sightline\nbetween road users\n(3) Mitigation\n(a) If a potentially hazardous condition is identified, the site development plan must\nidentify and implement feasible mitigation measures using proven safety\ncountermeasures to avoid or reduce the impact. The Engineer shall describe the\nlocation, nature, and extent of proposed mitigations to ensure compatibility with the\nCity's transportation system and the goals of the TMP. Mitigations may include site\ndesign, layout and access modifications, parking reduction measures, or\ntransportation infrastructure improvements.\n(b) Proven safety countermeasures can be found in resources including the Boulder\nVision Zero Action Plan, and national guidelines such as the FHWA Proven Safety\nCountermeasures, the Crash Modification Factors Clearinghouse, and NACTO\nPublications such as the Urban Street Design Guide, Urban Bikeway Design Guide,\nand Transit Street Design Guide.\n(4) Hazard Assessment and proposed mitigations measures are subject to the approval of the\nDirector."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(R)",
+    "heading": "Noise Attenuation",
+    "page_start": 52,
+    "page_end": 52,
+    "verbatim": "If residential development is planned adjacent to a roadway designated collector or greater, the\ncity may require noise attenuation measures. A discussion and analysis of noise attenuation\nmeasured using the methods in the Fundamentals and Abatement of Highway Traffic Noise\nTextbook is to be included in all traffic studies for residential developments adjacent to roadways\ndesignated collector or greater."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(S)",
+    "heading": "Recommendations",
+    "page_start": 52,
+    "page_end": 52,
+    "verbatim": "(1) The Traffic Study shall include a section in the report that provides any recommendations\nof the Engineer. These recommendations shall include the Engineer’s recommended\nlocation, nature and extent of proposed transportation improvements associated with the\nproject or development to ensure safe and efficient roadway operations and capacity, and\ncompatibility with the city's transportation system and the goals of the TMP.\n(2) These recommendations are to be supported with appropriate documentation and\ndiscussion of the technical analyses, assumptions and evaluations used to make the\ndeterminations and findings applied in the Traffic Study. In the event that any Traffic\nStudy analyses or recommendations indicate unsatisfactory levels of service on any study\narea roadways, a further description of proposed improvements or mitigation measures to\nremedy deficiencies shall be included.\n(3) These proposed improvements or mitigation measures may include projects by the city or\nthe Colorado Department of Transportation for which funds have been appropriated and\nobligated. These proposals may also include improvements to be funded and constructed\nby the applicant as part of project or development construction. Assumptions regarding\nfuture roads, widths and lane usages in any analyses are subject to the approval of the\nDirector.\n(4) In general, the recommendation section shall include:\n(a) Proposed and Recommended Improvements: Provide a detailed description and\nsketch of all proposed and recommended improvements. Include basic design\ndetails showing the length, width and other pertinent geometric features of any\nproposed improvements. Discuss and analyze whether speed change lanes are\nnecessary to serve a project of development adjacent to a collector or arterial\nstreet. Discuss whether these improvements are necessary because of\ndevelopment traffic or whether they would be necessary due to background\ntraffic. Specify the approximate timing necessary for each improvement.\n(b) Level of Service Analysis at Critical Points: Provide another iteration of the LOS\nanalyses that demonstrate the anticipated results of making recommended\nimprovements, such as movement LOS, operational and safety conditions, and\nconformance with the city's transportation system goals and TMP. In association\nwith LOS analyses for recommended improvements, include a comparison of\nthese results with the background LOS analyses without the proposed project or\ndevelopment. Where appropriate, this step is to be provided for both near term\n(year of project completion) and buildout scenarios."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(T)",
+    "heading": "Conclusion",
+    "page_start": 53,
+    "page_end": 53,
+    "verbatim": "Include a conclusion in the report that provides a clear and concise description of the study\nfindings and recommendations and serves as an executive summary."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.03(U)",
+    "heading": "Revisions to Traffic Study",
+    "page_start": 53,
+    "page_end": 53,
+    "verbatim": "(1) Following city review, the Director may require revisions to a Traffic Study based on the\nfollowing considerations:\n(a) Completeness of the study,\n(b) Thoroughness of the level of service and impact analyses and evaluations,\n(c) Compatibility of the study with the proposed access design, project or\ndevelopment plan and local transportation system,\n(d) Compliance with local and state regulations and design standards, and\n(e) An analysis of study deficiencies, errors, or conflicts.\n(2) Revisions may also be required as a result of public process with surrounding\nneighborhoods and land uses or review by City Council or the Planning Board.\nAdditional details requiring Traffic Study revisions may include, but are not limited to,\nthe following:\n(a) An enlarged study area,\n(b) Alternative trip generation scenarios,\n(c) Additional level of service analyses, and\n(d) Site planning and design issues."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.04(A)",
+    "heading": "Access Requirements",
+    "page_start": 53,
+    "page_end": 53,
+    "verbatim": "All accesses and curb cuts shall be designed and constructed in compliance with these Standards\nand the requirements set forth in Section 9-9-5, “Site Access Control,” B.R.C. 1981."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.04(B)",
+    "heading": "Access Permit Required",
+    "page_start": 53,
+    "page_end": 53,
+    "verbatim": "All accesses and curb cuts proposed and constructed on city streets and alleys require a permit, as\nset forth in Section 9-9-5, “Site Access Control,” B.R.C. 1981."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.04(C)",
+    "heading": "Location of Access",
+    "page_start": 54,
+    "page_end": 54,
+    "verbatim": "(1) Spacing: Table 21, “Access Spacing Requirements,” shows the required spacing of\naccess points and curb cuts. Minimum spacing from corners shall be measured from\npoint of intersection of the street flowlines. Minimum spacing between accesses shall be\nmeasured at the property line.\nTable 2-2: Access Spacing Requirements\nMinimum Spacing (measured Single Family Other Residential Commercial Industrial\nfrom edge of access) Residential\nLocal Streets\n- from property line 7.5' 10' 10' 10'\n- from corner 20' 50' 50' 50'\n- between accesses 15' 20' 20' 20'\nCollector Streets Permitted only when no\nother access is available.\n- from property line 10' 10' 10'\n- from corner 50' 50' 50'\n- between accesses 20' 20' 20'\nArterial Streets Permitted only when no\nother access is available.\n- from property line 75' 75' 75'\n- from corner 150' 150' 150'\n- between accesses 250' 250' 250'\n(2) Alignment: Accesses shall intersect city streets at a 90-degree angle. Accesses to\nproperties on opposite sides of a collector or arterial, where turning movements are not\ncontrolled by a center median or access island, shall either be aligned, or offset by at least\n150 feet on collectors, or at least 300 feet on arterials. Greater offsets may be required if\nleft-turn storage lanes are required.\n(3) Relocation of Existing Access Points and Curb Cuts: Relocation, alteration, or\nreconstruction of any existing access points and curb cuts shall meet the requirements of\nthese Standards."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.04(D)",
+    "heading": "Sight Distance",
+    "page_start": 54,
+    "page_end": 54,
+    "verbatim": "All access points and curb cuts shall provide adequate sight distance as set forth under Section\n9-9-7, “Sight Triangles,” B.R.C. 1981."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.04(E)",
+    "heading": "Restriction of Turning Movements",
+    "page_start": 54,
+    "page_end": 55,
+    "verbatim": "Along streets designated arterial or greater, or where necessary for the safe and efficient\nmovement of traffic, the city will require access points and curb cuts to provide for only limited\nturning movements, as follows:\n(1) Access With Barrier Island - Left-Turn Restrictions (“Pork Chop”): Where\nrestricted turning movements are required by the city, and where the abutting street does\nnot have a median, a barrier island will be required:\n(a) Islands shall have a minimum area of 150 square feet, be bounded by vertical\ncurb, and have an appropriate concrete center surface treatment, approved by the\nDirector.\n(b) Barrier island lanes shall be at least 12 feet wide, have a radius of at least 20 feet,\nand be designed to accommodate the largest vehicle using the access on a daily\nbasis. The island shall provide congruent curb ramps or cut through for\nsidewalks. The pedestrian crossing over the barrier island shall be raised. The\ndimensions of a raised crossing shall be designed considering standards for\naccessible design and site conditions, including topography, stormwater flow,\nand location of utilities. The minimum width of the island along the abutting\nroadway frontage shall be 30 feet for right-in, right-out only islands, and 15 feet\nfor islands allowing right-in, right-out and left-turning movements.\n(2) Access With Median Divider Barriers – Left-Turn Restrictions: Median\nbarriers may be permitted where a median design can improve traffic circulation and\nsafety, or overall site access. Where permitted, medians shall be at least 4 feet wide, and\nshall extend at least 25 feet beyond the right-of-way."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.04(F)",
+    "heading": "Traffic Control",
+    "page_start": 55,
+    "page_end": 55,
+    "verbatim": "All accesses shall be designed and constructed with appropriate traffic control and signage\nconforming to the MUTCD, B.R.C. 1981, and these Standards."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.04(G)",
+    "heading": "One-Way Access Lanes",
+    "page_start": 55,
+    "page_end": 55,
+    "verbatim": "One-way access lanes may be permitted where restricted access is limited to one turning\nmovement, or where the one-way access improves traffic circulation and safety. One-way access\nlanes shall be at least 12 feet wide, have at least radius of 20 feet, and be designed to\naccommodate the largest vehicle using the access on a daily basis."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.04(H)",
+    "heading": "Speed Change Lanes",
+    "page_start": 55,
+    "page_end": 55,
+    "verbatim": "Speed change lanes shall be required on Colorado state highways as designated in the Colorado\nState Highway Access Code in accordance with the standards of Section 4.8 of the Colorado\nState Highway Access Code. For all collectors or arterials that are not Colorado state highways,\nthe Traffic Study shall make recommendations on the need for speed change lanes, based on the\ncriteria contained in the Colorado State Highway Access Code. When required by the Director\nbased on the criteria in the Colorado State Highway Access Code, design of speed change lanes\nshall conform with Subsection 2.07(D), \"Horizontal Alignment,\" of these Standards."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.04(I)",
+    "heading": "Access and Curb Cut Type",
+    "page_start": 55,
+    "page_end": 56,
+    "verbatim": "(1) Driveway Ramp and Curb Cut: All new accesses and curb cuts shall be designed as\ndriveway ramps and curb cuts, using the standard ramp driveway details provided in\nChapter 11, except as allowed in Subsection (2), along streets where no curb and gutter\nexists, or for single family lots where roll-over curbs have been provided.\n(2) Radii Curb Returns: Radii curb return accesses may be required or permitted by the\nDirector under the following conditions:\n(a) The access is located along an arterial or collector.\n(b) Access volumes indicate a need for a radii curb return where the ADT exceeds\n500 or where speed change lanes would be required.\n(c) The access is designed to restrict turning movements, requiring the installation of\nan access island or center median.\n(d) The roadway has no curb and gutter.\n(e) The access serves an industrial property, or provides for commercial deliveries,\nwhere large truck movements are required.\n(f) The Director determines that a radii access is necessary to ensure adequate traffic\nsafety and operation.\n(g) The access is for a new public street\nTable 2-3: Access Design Specifications\nSingle Family Other Commercial Industrial\nResidential Residential\nWidth (in feet )\n- Minimum 10 10 15 20\n- Maximum 20 35 35 35\n- One-Way Lane N/A 12-18 12-20 14-24\nRadii (in feet)\n- Minimum N/A 15 15 20\n- Maximum N/A 30 30 40\nAccess Grades\nInitial Grade (to a point 10\nft beyond ROW)\n- Minimum (+) 3% (+) 1% (+) 1% (+) 1%\n- Maximum (+) 8% (+) 6% (+) 6% (+) 6%\nFinal Grade (G2)\n- Minimum (+/-) 3% (+/-) 1% (+/-) 1% (+/-) 1%\n- Maximum (+/-) 14% (+/-) 8% (+/-) 8% (+/-) 8%\nMax Grade Break (+/-) 10% (+/-) 6% (+/-) 6% (+/-) 6%"
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.04(J)",
+    "heading": "Access and Curb Cut Width",
+    "page_start": 56,
+    "page_end": 56,
+    "verbatim": "Access and curb cut widths shall be consistent with Table 2-2, \"Access Design Specifications,\" of\nthese Standards. Access design for Colorado state highways shall conform to the Colorado State\nHighway Access Code. All other access widths shall be determined using turning templates, as\ndesignated by the Director, for a 10 MPH design speed for the largest vehicle expected to use the\naccess on a daily or routine basis. The width of each access shall be the minimum width that is\nnecessary to serve the property and use. No more than 50 percent of the street frontage shall be\noccupied by the access driveway, except for access to a cul-de-sac or flag lot. All access widths\nare measured from edge of pavement to edge of pavement (or curb to curb) at the throat of the\ndriveway (or edge of the right-of-way) and are not inclusive of drive cut transitions or curb return\nradii."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.04(K)",
+    "heading": "Access and Curb Cut Radii",
+    "page_start": 57,
+    "page_end": 57,
+    "verbatim": "Access and curb cut radii shall meet the specifications shown in Table 2-2, “Access Design\nSpecifications,” of these Standards. All radii are measured from the flowline (front face of the\ncurb) or from the edge of the pavement where no flowline exists."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.04(L)",
+    "heading": "Access and Curb Cut Grades",
+    "page_start": 57,
+    "page_end": 57,
+    "verbatim": "Access and curb cut grades shall be consistent with Table 2-2. The initial grade (G1) shall be a\npositive grade, beginning at the back of the sidewalk, the back of the driveway ramp or pan\nsection, or the edge of the pavement (where no curb and gutter exists), and shall continue at least\n10 feet beyond the right-of-way. The final grade (G2) may be positive or negative, depending on\nthe access conditions. The maximum grade break (or change in slope) shall apply at all grade\nchanges. Additional grade changes may occur at intervals of at least 20 feet."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.04(M)",
+    "heading": "Driveways",
+    "page_start": 57,
+    "page_end": 58,
+    "verbatim": "(1) Vehicle Storage: Adequate driveway storage capacity for both inbound and outbound\nvehicles to facilitate safe, unobstructed, and efficient traffic circulation and movements\nfrom the adjacent roadway and within the development shall be provided, except for\nsingle-family or duplex residential driveways on local streets. Adequate driveway length\nwill be subject to approval by the Director and shall extend at least 24 feet beyond the\nright-of-way before accessing the first off-street parking space or parking lot aisle.\n(2) Internal Circulation: Developments requiring off-street parking facilities shall\nprovide onsite vehicular circulation allowing access to all portions of the site without\nusing the adjacent street system unless a joint access or parking easement with one or\nmore of the adjacent property owners has been dedicated.\n(3) Backing Into the Right-of-Way Prohibited: Driveways shall be designed to\ncontain all vehicle backing movements onsite, except for single family or duplex\nresidential uses on local streets.\n(4) Minimum Back-Up Distance for Detached Single-Family Residential\nDriveways Accessing Public Alleys: Driveways shall provide for a minimum\ndistance of 24-feet from the rear of the parking stall or face of garage to the far edge of\nthe adjacent alley right-of-way or turn around area as required by Chapter 9-9-6, “Parking\nStandards,” B.R.C. 1981.\n(5) Shared Driveways (Detached Single-Family Residential Only): Shared\ndriveways to access detached single-family residential lots may be permitted pursuant to\nan approved site review or subdivision as set forth in Chapter 9-9-14, “Site Review,”\nB.R.C. 1981 or Chapter 9-12, \"Subdivision,\" B.R.C. 1981, if they meet the following\ncriteria:\n(a) A common parking court is provided at a ratio of 0.5 additional spaces per unit if\nless than two onsite parking spaces, meeting city requirements, are provided on\neach single-family lot served by the shared driveway.\n(b) The shared driveway is no more than 100 feet long, except in districts zoned RL-\n1 (Residential-Low 1), RE (Residential-Estate), and RR1 (Residential-Rural 1)\nand RR 2 (Residential-Rural 2), where the shared driveway may extend up to 300\nfeet long if each lot accessing the shared driveway exceeds 10,000 square feet.\n(c) The number of units served shall be no more than three lots or houses that have\nless than 30 feet of usable frontage on the accessing street.\n(d) Adequate turnaround for vehicles is provided either on an individual lot or lots.\n(e) The driveway is properly engineered and constructed to mitigate any adverse\ndrainage conditions and is appropriately surfaced for the type of development,\nusage, and zoning district.\n(f) The driveway is at least 12 feet wide.\n(g) For units not fronting on the accessing street, addressing shall be located near the\nentrance to the shared driveway insuring visibility of the numbering from the\nstreet.\n(h) A public access easement, a minimum fifteen feet in width, for the benefit and\nuse of all properties and property owners accessing the shared driveway has been\ndedicated and recorded to ensure legal access rights in perpetuity for each\nproperty served.\n(i) Driveway spacing conforms with the requirements in Table 21, “Access Spacing\nRequirements,” of these Standards."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.05",
+    "heading": "Right-of-Way Requirements",
+    "page_start": 58,
+    "page_end": 58,
+    "verbatim": "Dedication or reservation of public right-of-way required as part of any project or development\nproposal shall comply with the requirements set forth in Section 9-9-8, “Reservations,\nDedication, and Improvement of Rights-of-Way,” B.R.C. 1981."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.06(A)",
+    "heading": "Base Street Standard",
+    "page_start": 58,
+    "page_end": 58,
+    "verbatim": "Except for residential streets approved pursuant to Chapter 9-12, “Subdivision,” B.R.C. 1981, and\nSection 2.09, “Residential Streets,” all new streets shall provide at a minimum the base street\nstandard components listed in Table 2-3, “Base Street Standard Components.”"
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.06(B)",
+    "heading": "Base Alley Standard",
+    "page_start": 58,
+    "page_end": 59,
+    "verbatim": "Except for residential streets approved pursuant to Chapter 9-12, “Subdivision,” B.R.C. 1981, and\nSection 2.09, “Residential Streets,” all new alleys shall provide at a minimum the base alley\nstandard components listed in Table 2-4, “Base Alley Standard Components.”\nTable 2-4: Base Street Standard Components\nStreet Component Base Standard\nRight-of-Way 60' Minimum Width\nPaved Street Section 36' Minimum Width, Curb Face to Curb Face\nTravel Lanes Two Travel Lanes, Two-Way Traffic\nCurb and Gutter Required Both Sides\nParking Parking Allowed Both Sides\nSidewalks 6’ Preferred Width (5' Minimum), Detached, Required Both Sides\nStreetscape Planting Strips* 8’ Width Required Both Sides\n*NOTE: In commercial streetside retail zones where 12foot wide attached sidewalks may be provided, streetscape\nplanting strips may be created using street trees in planting pits with tree grates (15-foot width between back of curb\nand back of walk).\nTable 2-5: Base Alley Standard Components\nAlley Component Base Standard\nRight-of-Way 20' Minimum Width\nPaved Street Section 18' Minimum Width, Pavement Edge to Pavement Edge\nTravel Lanes Two-Way Traffic Allowed\nParking Parking on Alley Not Permitted"
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.07(A)",
+    "heading": "Minimum Requirements",
+    "page_start": 59,
+    "page_end": 59,
+    "verbatim": "Except for State Highways and the geometric design variations allowed for residential streets\napproved pursuant to Chapter 9-12, “Subdivision,” B.R.C. 1981, and Section 2.09, “Residential\nStreets,” all city streets shall be designed in conformance with this section. The design standards\noutlined in this section are minimum design standards, and all street design shall meet or exceed\nthese standards. On streets designated collector or arterial in the TMP, the Director may specify\nstandards to be applied to street design that may exceed the minimum standards in this section\nbased on functional need to ensure safe and efficient operation of the street."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.07(B)",
+    "heading": "Right-of-Way",
+    "page_start": 59,
+    "page_end": 60,
+    "verbatim": "The right-of-way width required for new streets shall comply with the requirements of Section 9-\n9-8, “Reservations, Dedication, and Improvement of Rights-of-Way,” B.R.C. 1981, and shall\ninclude without limitation the following elements:\n(1) The paved roadway section including without limitation travel lanes, turning and speed\nchange lanes, transit lanes, bicycle lanes, and parking lanes;\n(2) Curbs and gutters or drainage swales;\n(3) Roadside and median landscaping areas;\n(4) Sidewalks and multi-use paths; and\n(5) Any necessary utility corridors."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.07(C)",
+    "heading": "Lane Width",
+    "page_start": 60,
+    "page_end": 60,
+    "verbatim": "Street lanes shall meet the width specifications shown in Table 2-5, “Preferred Street Lane\nWidths,” of these Standards.\nTable 2-6: Preferred Street Lane Widths\nStreet Characteristics\nWith Fixed-Route Bus\nWith Parking Lane No Parking Lane Transit Service and No\nDesign Criteria\nParking Lane\nPreferred Preferred Preferred\nGeneral Purpose\n10’ 10’ 11’ (Outside lane)\nTravel Lanes*\nAuxiliary Lanes* 10’ 9’ 10’\nConventional Bike\n7’ 6.5’ 7’\nLanes\nContra-Flow Bike\nLanes (On One- 7’ 6.5’ N/A\nWay Streets)\nBuffered Bike 7’ 6.5’ 6’\nBike Lane\nLanes Buffer 3’ 3’ 2’\n7’\n(for parking protected bike\nBike\nlanes, a painted 3’ buffer is 7’ 7’\nSeparated Lane\nbetween curbside of parking\nBike\nlane and bike lane)\nLanes\n3’ 3’ 3’\nBuffer\n(with vertical element) (with vertical element) (with vertical element)\n12’\nTwo-way bike lane (for 12’\nTwo-Way Bike parking protected bike lanes, Two-way bike lane (buffer is\nN/A\nSeparated Lane a painted 3’ buffer is between between curbside of parking\nBike curbside of parking lane and lane and bike lane)\nLanes bike lane)\n3’ 3’\nBuffer N/A\n(with vertical element) (with vertical element)\n8’\n8’ (measured from curb\nParking Lanes (measured from curb face, N/A\nface, including gutter pan)\nincluding gutter pan)\n______________________________________________________________________________________________\n*NOTES: Travel, auxiliary lane and bike lane dimensions do not include gutter pan width. Auxiliary lanes include,\nwithout limitation, turning and speed change lanes."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.07(D)",
+    "heading": "Horizontal Alignment",
+    "page_start": 61,
+    "page_end": 67,
+    "verbatim": "(1) Conformance to Street Plan: Horizontal alignment shall conform to the pattern of\nstreets in the Boulder Valley Comprehensive Plan, TMP, and adopted right-of-way plans\nand shall provide continuous alignment with existing, planned, or platted streets with\nwhich they will connect.\n(2) Extension to Property Line: All streets shall be extended to the property lines across\nthe property to be developed, unless the street to be constructed has been approved by the\ncity as a cul-de-sac or other no-outlet street.\n(3) Minimum Horizontal Curve: Street curvatures shall meet the minimum\nspecifications shown in Table 2-6, “Minimum Horizontal Street Curve Specifications,” of\nthese Standards.\nTable 2-7: Minimum Horizontal Street Curve Specifications\nDesign Criteria Local Street Collector Street Arterial Street\nMinimum Design Speed 20 mph 35 mph 40 mph\nMinimum Centerline Radius 100 feet 300 feet 500 feet\nMinimum Reverse Curve Tangent 50 feet 100 feet 200 feet\nMinimum Intersection Approach Tangent 100 feet 200 feet 300 feet\nTable 2-7a: Separated Bike Lane Minimum Horizontal Curve Specifications\nDesign Criteria Flat, level terrain Congested, urban Intersection\narea approach\nMinimum Design Speed 15 mph 12 mph 8 mph\nMinimum Centerline Radius* 42 feet 27 feet 12 feet\n*Radius assumes a 20-deg lean angle of the bicyclist.\n(4) Design Horizontal Curve: The design horizontal street curvature shall meet or exceed\nthe minimum horizontal curvature and be calculated using the following equation:\nR = V2 / 15 * (e-f) Side Friction Factors\nWhere: E = rate of superelevation per foot Design Speed Side Friction\nF = side friction factor (mph) Factor (f)\n20 0.26\n25 0.23\nV = vehicle speed in MPH 30 0.22\nR = radius of curve in feet 35 0.20\n40 0.18\n45 0.16\n(5) Intersections and Street Spacing\n(a) Angles: All streets shall intersect at right angles (90°).\n(b) Minimum Street Spacing: Spacing between streets, as measured from\ncenterline to centerline, shall equal or exceed the minimum distances shown in\nTable 2-7, “Minimum Street Spacing,” of these Standards.\nTable 2-8: Minimum Street Spacing\nStreet Type Minimum Street Spacing\nLocal 150 feet\nCollector 300 feet\nArterial 500 feet\n(c) Street Spacing for Signalized Intersections: Signalized intersections,\nwhere feasible, shall be spaced at half-mile intervals. Closer signal\nspacing may be approved by the Director based on context-sensitive design.\nSignalized intersections shall comply with the TMP and Low-Stress Walk and\nBike Network Plan to ensure signalized intersections along arterial and collector\nstreets provide controlled crossing where existing and proposed walking and\nbicycling network streets cross those arterial and collector streets.\n(d) Receiving Width: The minimum receiving width is 20 feet. This may include\nboth an opposing and receiving vehicle through lane and a paved shoulder and/or\nbicycle lane.\n(e) Corner Radii: The smallest feasible actual curb radii shall be selected for\ncorner designs. Corner design shall account for the effective turning radius, the\nactual curve of a turning vehicle. This shall include the additional turning area\nprovided by on-street parking, bicycle lanes, medians, and other roadway\nfeatures. Figure 2-1 and Figure 2-2 demonstrate the relationship between the\neffective radius and actual curb radius. Table 2-8 shall be used to determine\nactual versus effective turning radii for SU-30 design vehicles.\nThe effective radius shall be analyzed for the design vehicle; the default design\nvehicle is the SU-30 for all intersections. The Director may require a different\ndesign vehicle based on functional need to ensure safe and efficient operation of\nthe street (for example, a bus or transit route, or a semi-tractor and trailer on\nstreets with industrial land-uses).\nThe Director may require a larger effective curb radii to provide no\nencroachments at locations served by transit and where the transit agency\noperators have policies that prohibit drivers from encroaching into adjacent lanes.\nThe Director may require a mountable truck apron for locations where large\ntrucks turn infrequently, but there is limited space for encroachment. The truck\napron design shall provide a smaller effective radius for the design vehicle and a\nlarger effective radius to accommodate larger vehicle turn movements. Figure 2-\n3 is an example of a truck apron.\nFigure 2-1: Actual and Effective Radius At A Conventional Intersection Corner\nFigure 2-2: Actual and Effective Radius At An Intersection Corner With A Curb Extension\nTable 2-9: Relationship between Effective and Actual Radius for the Default Design Vehicle (SU-\n30)\nStreet B\nParking No No Yes Yes\nBike Lane No Yes No Yes\nA\nteertS\nParking Bike Lane\nRA = 30’ RA = 25’ RA = 25’ RA < 10’\nNo No\n(RE = 30’) (RE = 30’) (RE = 30’) (RE = 30’)\nRA = 25’ RA = 15’ RA < 10’ RA < 5’\nNo Yes\n(RE = 30’) (RE = 30’) (RE = 30’) (RE = 30’)\nRA = 25’ RA < 10’ RA < 5’ RA < 5’’\nYes No\n(RE = 30’) (RE = 30’) (RE = 30’) (RE = 35’)\nRA < 10’ RA < 5’ RA < 5’ RA < 5’\nYes Yes\n(RE = 30’) (RE = 30’) (RE = 35’) (RE = 45’)\n*When the difference between the effective and actual corner radii becomes larger, or\nwhen the effective radius cannot be reduced to what is necessary for the control vehicle,\nthe director may require a curb extension.\n(f) Allowable turning encroachments for curb radii design: The following\nshall be used to reduce effective and actual curb radii. The SU-30 design vehicle\nturns may encroach into other lanes as follows:\ni. For turns onto local streets from arterial, collector, or local streets, the\ndesign vehicle is allowed to utilize the entire width of the departing and\nreceiving lanes, including oncoming travel lanes, to negotiate the turn.\nii. At intersections where the minor leg is stop controlled and the major leg is\nuncontrolled, turns are allowed to use the entire width of both the minor leg\ndeparting or minor leg receiving lanes, including oncoming travel lanes, to\nnegotiate the turn.\niii. At signalized intersections that have a “No Right on Red” restriction, turning\nvehicles are allowed to utilize multiple lanes on the receiving street to\ncomplete their turn.\n(g) Additional Corner Radii Design Considerations: The following turning\nscenarios shall be used to reduce the effective and actual curb radii:\ni. Emergency vehicles are allowed to utilize the entire street pavement\nwidth for departing and or receiving lanes to negotiate turns, including\nall adjacent and oncoming travel lanes.\nii. WB-40 and larger design vehicles are allowed to utilize adjacent lanes on\nthe departing and receiving streets at all intersections; large trucks may\nuse the entire street pavement width on local streets.\nFigure 2-3: Example of A Mountable Truck Apron At An Intersection\n(6) Road Width Transition Tapers: Where two street sections or different widths are to\nbe connected, a transition taper is required between the outside traveled edge of the two\nsections. The length of the transition taper shall be calculated using the following\nequation:\nL = WS\nWhere: S = Speed in MPH\nL = Length in feet\nW = Width of offset in feet\nThis transition is not to be used in the design of left turn storage lanes or speed change\nlanes.\nDesign of tapers for on-street bike lanes shall use a minimum length as calculated using\nthe formula below:\n2\n𝑊𝑊𝑆𝑆\nWhere: L = Longitudin𝐿𝐿al =lane shift (ft), minimum 20 ft\n60\nW = Lateral width of offset (ft)\nS = Target bicyclists operating speed (mph)\nIf the bikeway is delineated by paint-only and the off-tracking of a bicycle pulling a\ntrailer would not put the trailer into a motor vehicle lane, a maximum taper ratio of 2:1\n(longitudinal:lateral) may be required by the Director.\n(7) Left Turn Lanes\n(a) Storage Length: Left turn lane storage length for unsignalized intersections\nshall be determined based on traffic volumes using the Leisch nomographs\nprovided in the ITE “Guidelines for Major Urban Street Design.” The left turn\nstorage length for an unsignalized intersection shall not be less than 25 feet.\nUnsignalized intersections shall only use single lane turn lanes.\nFor signalized intersections, left turn lane storage length shall be determined\nutilizing the Highway Capacity Manual. The minimum left turn lane storage\nlength is 80 feet. Single lane left turn storage shall be maximized to the extent\nfeasible and shall be exhausted before consideration of dual turn lanes. If storage\nlength requirements cannot be met in a single lane the Director may, after\nconsidering the impacts to the pedestrian and bicycle crossing distance and\nexpected left turn queuing impacts to safety and intersection operations, approve\na dual or triple left turn lane configuration. In a location where dual left turn\nlanes are approved, the lane storage length shall be based on at least 60 percent of\nthe single lane storage length..\n(b) Lane Change Taper: Left turn lane change tapers shall be calculated using the\nequation for bay tapers in Subsection (8).\n(8) Speed Change Lanes: Speed change lanes required for transitional access to turning\nlanes shall be designed according to the design standards provided in the ITE “Guidelines\nfor Major Urban Street Design,” as follows:\n(a) Bay Tapers: Bay tapers are required for the lane transition from the travel lane\ninto a turn lane. The bay taper length shall be calculated using the following\nequation:\nL = WS / 3\nWhere: S = Speed in MPH\nL = Length in feet\nW = Width of offset in feet\n(b) Approach Tapers: Approach tapers are required to transition the position of\ntravel lanes to accommodate turn lanes. The approach taper length shall be\ncalculated using the following equation:\nL = WS2 / 60\nWhere: S = Speed in MPH\nL = Length in feet\nW = Width of offset in feet\n(9) Cul-de-sacs: Where allowed, cul-de-sacs shall have a minimum pavement diameter of\n90 feet, curb face to curb face, and a minimum right-of-way diameter of 115 feet, except\nfor residential streets approved pursuant to Chapter 9-12, “Subdivision,” B.R.C. 1981,\nand Section 2.09, “Residential Streets.” Cul-de-sacs are prohibited on arterial and\ncollector streets, and are strongly discouraged on local and residential streets. The\nDirector may permit cul-de-sacs where there is no other possible street or driveway\naccess to a property from a public right-of-way, or if a cul-de-sac would avoid direct\nproperty access to a collector or arterial."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.07(E)",
+    "heading": "Vertical Alignment",
+    "page_start": 67,
+    "page_end": 67,
+    "verbatim": "(1) Minimum Street Grade: All street grades shall equal or exceed the minimum street\ngrade of 0.5 percent.\n(2) Maximum Street Grade: Street grades shall not exceed the maximum street grades\nshown in Table 2-9, “Maximum Street Grades,” of these Standards.\nTable 2-10: Maximum Street Grades\nStreet Type Maximum Street Grade\nLocal 8%\nCollector 6%\nArterial 5%\nIntersection Approach (Minimum 50’) 4%\nSignalized Intersection Approach (Min. 50’) 2%\n(3) Design Controls for Vertical Curves: Design control for sag and crest vertical\ncurves (based on a design speed of 30 mph) shall meet the specifications shown in Table\n2-10, “Vertical Curve Design Control,” of these Standards. For design speeds in excess\nof 30 mph, design control shall be in accordance with the current edition of “A Policy on\nGeometric Design of Highways and Streets,” prepared by the American Association of\nState Highway and Transportation Officials.\nTable 2-11: Vertical Curve Design Control\nAlgebraic Difference in Sag Curve Crest Curve\nGrades Minimum Vertical Curve Length Minimum Vertical Curve Length\n0.5 - 1.0 % 50 feet 100 feet\n1.0 - 3.0 % 100 feet 100 feet\n3.0 - 5.0 % 200 feet 150 feet\n5.0 - 7.0 % 300 feet 200 feet\n7.0 - 8.0 % 300 feet 300 feet\nMin. Vert. Sight Distance N/A 250 feet\n(4) Vertical Sight Distance: Vertical curve sight distance shall equal or exceed 250 feet.\nGreater vertical sight distance may be required by the Director to ensure safe travel and\nstreet crossings for all transportation modes."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.07(F)",
+    "heading": "Sight Distance",
+    "page_start": 68,
+    "page_end": 68,
+    "verbatim": "All streets and alleys shall provide adequate sight distance as set forth under Section 9-9-7, “Sight\nTriangles,” B.R.C. 1981.\n(1) Design Sight Distance for Separated Bike Lanes: Departure sight triangles shall\nbe used to provide adequate sight distance for a stopped driver on a minor roadway to\ndepart from the intersection.\n(a) Parking Restrictions: Separated bike lanes and access driveways shall be\ndesigned so that parking is prohibited within 20 feet of a driveway in locations where\na parking lane is designated between bike lane motor vehicle lane.\n(b) Two Stage Crossing: Where side streets intersect the separated bike lane,\nintersections shall be designed as two-stage crossings for motor vehicles.\n(c) Departure Sight Triangle: Use the following equation to compute the departure\nsight triangle between a passenger vehicle and user of the bike lane.\nWhere:\nin𝐼𝐼t𝑆𝑆er𝐼𝐼se 𝑏𝑏 c 𝑏𝑏 t 𝑏𝑏 io 𝑏𝑏 n= sig1h.t4 d7is 𝑉𝑉ta 𝑏𝑏 n 𝑏𝑏 c 𝑏𝑏 e 𝑏𝑏 ( l𝑡𝑡e 𝑔𝑔 ngth of the leg of sight\nISD =\nbike triangle along the bikeway) (ft)\nV = design speed of bikeway (mph)\nbike\ntime gap for passenger vehicle to cross bikeway (s),\nt =\ng use 5.5 seconds\nTable 26a, “Separated Bike Lane Minimum Horizontal Curve Specifications,” shall\nbe used to establish the V value.\nbike\nAASHTO Green Book Case B sight distance shall be used to calculate the departure\nsight triangle between the motorist and the intersecting motorist travel lanes."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.07(G)",
+    "heading": "Medians",
+    "page_start": 68,
+    "page_end": 69,
+    "verbatim": "Raised medians are required on new arterial streets. Raised medians, where feasible,\nshall extend past the pedestrian crosswalk to allow for a pedestrian refuge zone.\n(1) Median Widths: Medians shall be at least 4 feet wide, curb face to curb face. If left\nturn lanes are installed in the median, the median width adjacent to the left turn storage\nlanes shall be 4 feet and the median width at the start of the left turn lane bay taper shall\nbe at least 14 feet wide, curb face to curb face. Median design widths shall conform to\nTable 2-11, “Median Width Design Standards,” of these Standards.\nTable 2-12: Median Width Design Standards\nFunction Minimum Width Recommended Width\nSeparation of Opposing Traffic 4 feet* 10 feet*\nPedestrian Refuge or Traffic Control Device Location 6 feet* 14 feet\nMedians Separating Left Turn Lanes 14 feet 20 feet\n* NOTE: Cannot accommodate left-turn lanes\n(2) Landscaping in Medians: Landscaping in medians shall comply with the\nrequirements of Chapter 3, “Streetscaping,” of these Standards."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.07(H)",
+    "heading": "Vertical Clearance of Structures",
+    "page_start": 69,
+    "page_end": 69,
+    "verbatim": "At least 17.5 feet of vertical clearance shall be provided for all overhead structures. Vertical\nclearance is measured from the crown of the street to the lowest portion of the structure on all\nstreets and alleys."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.08(A)",
+    "heading": "Required",
+    "page_start": 69,
+    "page_end": 69,
+    "verbatim": "Sidewalks are required on both sides of all new streets, except for residential streets that were\napproved without required sidewalks pursuant to Chapter 9-12, “Subdivision,” B.R.C. 1981, and\nSection 2.09, “Residential Streets.”"
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.08(B)",
+    "heading": "Conformance with the Transportation Master Plan",
+    "page_start": 69,
+    "page_end": 69,
+    "verbatim": "Off-street sidewalks may be required as part of any project or development proposal in\nconformance with the TMP."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.08(C)",
+    "heading": "Compliance with Americans with Disabilities Act (ADA)",
+    "page_start": 69,
+    "page_end": 69,
+    "verbatim": "All public sidewalks shall comply with the requirements of the ADA’s “Standards for Accessible\nDesign,” which includes without limitation sidewalk widths, grades, locations, markings, surface\ntreatments, and access ramps."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.08(D)",
+    "heading": "Minimum Widths",
+    "page_start": 69,
+    "page_end": 70,
+    "verbatim": "Sidewalk widths shall conform to the dimensions shown in Table 2-12, “Minimum Sidewalk\nWidths,” of these Standards.\nTable 2-13: Minimum Sidewalk Widths\nMinimum Sidewalk Width\nAdjacent Land Use\nStreet Type Commercial/Retail Commercial/Industrial Residential\nLocal 12 5 4\nCollector 12 5 5\nArterial 12 8 8\nNote: All off-street multi-use/bike paths designated in the Transportation Master Plan shall be 12 feet wide."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.08(E)",
+    "heading": "Vertical Grades",
+    "page_start": 70,
+    "page_end": 70,
+    "verbatim": "The vertical grade of a sidewalk shall not exceed 8.33 percent, a ratio of 12 feet horizontal to 1\nfoot vertical (12:1).\nAt sidewalk locations adjacent to transit stops or transfer points, the Director may require wider\nsidewalk sections to provide for adequate passenger storage areas."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.08(F)",
+    "heading": "Vertical Clearance",
+    "page_start": 70,
+    "page_end": 70,
+    "verbatim": "A minimum 8-foot vertical clearance shall be provided between all sidewalk and multi-use path\nsurfaces and any overhead encroachments."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.09(A)",
+    "heading": "Purpose",
+    "page_start": 70,
+    "page_end": 70,
+    "verbatim": "(1) The residential street standards were developed to allow a variety of choices in the\ncreation of new transportation corridors within the urban environment under conditions\nthat will not compromise the safety and function of the city street system. Traditionally\nstreets have provided the following:\n(a) Corridors for pedestrian, bicycle, transit, and motor vehicle movement;\n(b) Parking for vehicles;\n(c) Fire, police, and emergency access;\n(d) Locations for public utilities networks including water supply, sewage,\nelectricity, telecommunications and gas services, and refuge disposal; and\n(e) Postal and other delivery services.\n(2) These Standards recognize that streets, if appropriately designed, may provide additional\ncommunity amenities including landscape buffers, attractive public gathering spaces,\nopportunities for neighborhood interaction, public art, view corridors, and potential\navenues for new technologies."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.09(B)",
+    "heading": "Scope",
+    "page_start": 70,
+    "page_end": 71,
+    "verbatim": "(1) Location of Streets\n(a) These standards are intended to be used for new streets in undeveloped areas of\nthe city.\n(b) Where infill development in the existing developed portions of the city requires\nthe creation of new streets, these alternative standards may be used if the Director\nfinds, after completing the review process described in Section (C) below, that\nthe new streets will not impair the functions of the surrounding transportation\nsystem nor negatively impact the character of the surrounding existing\ndevelopment.\n(c) Further, the Director may determine that these standards are appropriate for\nredesigning and reconfiguring existing streets. Because the public cost of\nretrofitting, reconfiguring, or redesigning existing streets is often expensive,\ndecisions about reconstruction of individual streets in accordance with these\nstandards shall be made pursuant to the city’s Capital Improvements Program\nprocess.\n(2) Methods of Review\n(a) Permitted: The following street types may be developed without review:\n(i) Residential collector street\n(ii) Residential street\n(iii) Residential alley\n(b) By Director Review: Residential streets listed in paragraph (B)(2)(a) and the\nstreet types listed below may be developed upon approval by the Director under\nthe criteria outlined in Section (C) below.\n(i) Rural residential street\n(ii) Access street\n(iii) Access lane\n(c) By Site Review: Those underlined criteria and specifications in the following\nresidential street standards may be appropriate for modification under certain\nlimited circumstances. Developments requesting such modifications shall meet\nall of the requirements of Section 9-2-14, “Site Review,” B.R.C. 1981, in\naddition to the criteria outlined in Subsection (C), “Director Review,” below.\n(3) Cumulative Standards: These street standards are intended to be used in combination\nwith Section 2.07, “Street Geometric Design,” of these Standards. Where the standards\nin this section are silent, the criteria or specifications contained in Section 2.07 shall\ncontrol."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.09(C)",
+    "heading": "Director Review",
+    "page_start": 71,
+    "page_end": 72,
+    "verbatim": "(1) Application: As part of a subdivision application, the applicant for residential street\nconstruction approval shall include plans that depict the building envelopes of all\nproposed structures, and the location of proposed trees, street furniture, fire hydrants,\nmeter pits, utility cabinets, or pedestrians in the right-of-way.\n(2) Criteria: The Director will consider the following factors in determining whether an\nalternative street design is appropriate in a particular location:\n(a) Urban Design: The street should contribute to the creation of an attractive\ncommunity and to a clearly defined sense of place. Streets shall be designed with\ndue attention to building spacing and setbacks, green spaces, attractive materials,\nplantings, and landscaping. Pavement and right-of-way widths that are less than\nthe Residential Street standard should provide a benefit to the community that\nincludes improved safety, improved site design, the creation of street canopies\nthrough landscaping, and secondary lot access through the use of alleys. Rural\nResidential streets shall be consistent with the existing character of the area, or\nwith an approved subcommunity or area plan.\n(b) Street Function: The street should be designed according to its function. This\nmay require a diversity of street types, each serving a role in a hierarchical\nsystem. The street pattern and any reduced pavement or right-of-way widths\nshould provide acceptable levels of accessibility, safety and convenience for all\nstreet users, including emergency service providers. The pattern shall discourage\nresidential streets from operating as pass through traffic routes for externally\ngenerated traffic, while minimizing the length of time local drivers need to spend\nin a low-speed environment.\n(c) Connectivity: The neighborhood street pattern should be simple, and logical,\nwith the following characteristics:\n(i) “No outlet” streets will be highly discouraged and allowed only when\nstreet connectivity is unachievable:\n(ii) The street pattern provides for safe and convenient movements for\npedestrians, bicycles, and motor vehicles, including transit.\n(d) Design Speed: The design of the streets will control vehicular speeds under\nnormal driving conditions to that specified in the residential street standards,\nwhile maintaining reasonable access for emergency vehicles.\n(e) Minimize Maintenance Costs: The street will not create additional city\nobligations for maintenance and repair that exceed a standard street section.\n(f) Adequate Parking: The site design provides for adequate on-street and off-street\nparking to serve the area.\n(g) Infill Streets: In the case of infill development, the residential street design will\nnot impair the functioning of, and will have a compatible transition to, the\nsurrounding street system and will not negatively impact the character of the\nsurrounding existing development. No additional density may result from\napproval of the reduced rights-of-way provided for in the case of Access Streets,\nAccess Lanes, or Residential Alleys."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.09(D)",
+    "heading": "Residential Street Sections",
+    "page_start": 73,
+    "page_end": 78,
+    "verbatim": "Five residential street sections and a residential alley may be applied to the design of residential\nneighborhoods as part of subdivisions approved pursuant to Chapter 9-12, “Subdivision,” B.R.C.\n1981. Residential streets shall be designed in compliance with the standards outlined in Table\n2-13, “Residential Street Design Standards,” “Technical Drawings 2.63 - 2.68,” Chapter 11, of\nthese Standards, and the requirements of this Section.\n(1) Residential Collector Street: The residential collector street collects and distributes\nneighborhood traffic from residential streets to community collector and arterial\ntransportation systems and provides access to individual properties. The residential\ncollector street is designed for residential streets where anticipated traffic volumes range\nfrom 1,000 to 2,500 vehicle trips per day. In addition to the requirements outlined in\nTable 213, “Residential Street Design Standards,” and “Technical Drawing 2.63,”\nChapter 11, the residential collector street shall be designed to meet the following\nminimum standards:\n(a) Parking: On-street parking is allowed on both sides.\n(b) Bicycle Facilities: Additional street and right-of-way width shall be provided\nwhere on-street bicycle lanes are required by a city-adopted subcommunity or\narea plan, the TMP, or the BVCP.\n(c) Provision of Alleys: Where alleys are provided or required to be provided under\na City-adopted subcommunity or area plan, onsite parking spaces shall be\naccessed from the alley and not the street.\n(d) Emergency Response: Residential collectors exceeding 500 feet in length from\nany intersection shall provide a secondary emergency access at 500-foot\nintervals.\n(2) Residential Street: The residential street is designed to provide access to individual\nproperties as well as access to the higher classification street network. The residential\nstreet provides for neighborhood circulation and may carry neighborhood traffic and\nthrough movements. The residential street shall be designed to meet the minimum\nstandards shown in Table 2-13, “Residential Street Design Standards,” and “Technical\nDrawing 2.64,” Chapter 11, of these Standards.\nTable 2-14: Residential Street Design Standards\nDesign Residential Residential Rural-Type Access Access Residential\nStandards Collector Street Residential Street Lane Alley\nStreet\nDesign Speed 25 mph 25 mph 20 mph 15 mph 10 mph 10 mph\nDesign Traffic Volumes 1,000 -2,500 500 - 1,000 500 - 1,000 400 250 N/A\n(Vehicle Trips Per Day)\nMinimum Right-of-Way 60' 60' 60' 40' 30' 16'\nMinimum Pavement 32' 30' 22' plus 2' 26' 20' 12'\nSection gravel\nshoulders\nSidewalk 5' 4' 4' where 4' N/A N/A\nrequired\nStreetscape Planting 8' 8' N/A N/A N/A N/A\nStrip\nMinimum Centerline 300' 150' 150' 100' 100' 100'\nRadius\nMinimum Curb Radius 20' 20' 20' 10' 10' 10'\nMaximum Length 500' 500' 500' 350' 350' N/A\nBetween Connecting\nStreets\nMaximum Street 500' 500' 500' 150' 150' 500'\nLength - No Outlet\nMaximum Street 500' 500' 500' 500' 500' 500'\nLength - Loop or Circle\nStreet\nMinimum Turn-Around 35' Radius 35' Radius 30' Radius 30' Radius 25' 25' Radius\nArea or “Y” or or “Y” or Radius or or “Y” or\n“T” Turn “T” Turn “Y” or “T” Turn\n“T” Turn\nEmergency Response N/A N/A N/A 150' 150' N/A\nSet Up Area Intervals\nSidewalk Placement Detached Detached Adjacent to Attached N/A N/A\nRequired Required Property\nLine Where\nRequired\nCurb and Gutter Required Required N/A Required N/A N/A\nOn-Street Parking Allowed Allowed Allowed Allowed Allowed Not\nAllowed\nMinimum Lot Frontages N/A N/A 60’ no alley 60' no alley 60' N/A\n40’ w/ alley 40' w/alley\nMaximum Number of N/A N/A N/A 25 single 15 single N/A\nUnits to be Accessed family family\nNOTE: Residential street standards that are underlined may be varied through Section 9-2-14, “Site Review,”\nB.R.C. 1981.\n(a) Parking: Parking is allowed both sides or, on residential streets where parking is\nrestricted or prohibited, off-street parking courts providing parking spaces at a\nratio of 0.5 spaces per dwelling unit shall be provided.\n(b) Bicycle Facilities: Additional street and right-of-way width shall be provided\nwhere on-street bicycle lanes are required by a City-adopted subcommunity or\narea plan, the TMP, or the BVCP.\n(c) Provision of Alleys: Where alleys are provided or required to be provided under\na City-adopted subcommunity or area plan, onsite parking spaces shall be\naccessed from the alley and not the street.\n(d) Emergency Response: Residential streets exceeding 500 feet from any\nintersection shall provide a secondary emergency access at 500-foot intervals.\n(3) Rural Residential Street: The rural residential street is designed to provide access to\nindividual properties as well as access to the higher classification street network. The\nrural residential street provides for neighborhood traffic and through movements and is\ndesigned to carry traffic volumes in the range of 500 to 1,000 vehicles per day. The rural\nresidential street shall be provided where prescribed by a city-adopted subcommunity or\narea plan to maintain the rural character of an area or neighborhood. The rural residential\nstreet is a curbless paved street section, with gravel shoulders for parking and open\nroadside ditches for drainage. In addition to the requirements outlined in Table 213,\n“Residential Street Design Standards,” and “Technical Drawing 2.65,” Chapter 11, the\nrural residential street shall be designed to meet the following standards:\n(a) Parking: Allowed on both sides of the street.\n(b) Turnaround Standard (No Outlet Streets): If a “Y” or “T” turnaround is proposed\nin place of a standard cul-de-sac bulb turnaround, the “Y” or “T” turnaround\nshall be designed 60 feet long and 20 feet wide. The turnaround area (including\nsidewalks if required) shall be contained within the dedicated right-of-way.\n(c) Provision for Future Sidewalks: If sidewalks are not required at the time of initial\nstreet construction, adequate space in the right-of-way shall be reserved for a\nfuture sidewalk and commitments from adjacent property owners to participate in\nassessment districts shall be obtained, so that sidewalks can be added and funded\nin the future when they are appropriate.\n(d) Sidewalk Placement (Where Required): Sidewalks shall be required where\nvehicular traffic volumes are anticipated to exceed 1,000 trips per day, on routes\nto school, and as prescribed by a city-adopted subcommunity or area plan.\nSidewalks shall be placed outside of the paved roadway and drainage ditch, and\ninside the right-of-way line.\n(e) Roadside Drainage Ditches: Side slopes along roadside drainage ditches shall be\n4:1, and driveway culverts, at least 12 inches in diameter with flared end sections\nor headwalls, shall be installed by owners at driveways.\n(f) Land Use Requirements: Lot frontages shall be at least 60 feet wide, unless alley\naccess is provided. Lot frontages with alley access shall be at least 40 feet wide.\nTwo onsite parking spaces, meeting all city requirements, shall be provided on\neach single-family lot.\n(g) Provision of Alleys: Where alleys are provided or required to be provided under\na city-adopted subcommunity or area plan, onsite parking spaces shall be\naccessed from the alley and not the street.\n(h) Emergency Response: Rural residential streets exceeding 500 feet from any\nintersection shall provide a secondary emergency access at 500-foot intervals.\n(4) Access Street: The access street provides public access to no more than 25\nsingle-family dwelling units, where anticipated vehicular volumes would not exceed 400\ntrips per day. The access street is narrow, to ensure slower speeds for vehicular travel,\nand provides sidewalks along both sides of the street. In addition to the requirements\noutlined in Table 2-13, “Residential Street Design Standards,” and “Technical Drawing\n2.66,” Chapter 11 of these Standards, the access street shall comply with the following\nminimum standards:\n(a) Parking: Parking is allowed on both sides of the street or, if parking is not\nprovided on-street, a parking court at a ratio of 0.5 spaces per dwelling unit is\nrequired.\n(b) “L” Intersections: “L” intersections may be permitted as part of subdivision and\nare subject to approval by the Director. Where permitted, “L” intersections shall\nhave at least a 150-foot-long tangent street section from the intersection to the\nclosest curvature and a minimum corner radius of 50 feet.\n(c) Circle or Loop Street: If a circle or loop street is proposed as part of subdivision,\nthe street shall connect to a higher classification street, or connect to two separate\nperpendicular or offset higher classification streets.\n(d) Turnaround Standard (No outlet streets): If a “Y” or “T” turnaround is proposed\nin place of a standard cul-de-sac bulb turnaround, the “Y” or “T” turnaround\nshall be designed with a 60-foot length, 20-foot width. The turnaround area\n(including sidewalks if required) shall be contained within dedicated\nright-of-way.\n(e) Land Use Requirements: A residential access street shall connect to a higher\nclassification street. Lot frontages shall be at least 60 feet wide, unless alley\naccess is provided. Lot frontages with alley access shall be at least 40 feet wide.\nTwo onsite parking spaces, meeting all city requirements, shall be provided on\neach single-family lot.\n(f) Provision of Alleys: Where alleys are provided or required to be provided under\na city-adopted subcommunity or area plan, onsite parking spaces shall be\naccessed from the alley and not the street.\n(g) Emergency Response: Access streets exceeding 175 feet from any intersection\nshall provide a fire apparatus setup area at 150-foot intervals. The setup area shall\nprovide at least 30 foot long, 25-foot-wide clear zone, and is subject to approval\nby the Fire Department.\n(5) Access Lane: The access lane provides public access to no more than 15 single family\ndwelling units, where anticipated vehicular traffic volumes would not exceed 250 trips\nper day. The access lane is a narrow “shared street” for all modes of travel (vehicular,\nbicycle, and pedestrian), without curb and gutter or sidewalks, and must connect with a\nhigher classification street. In addition to the requirements outlined in Table 213,\n“Residential Street Design Standards,” and “Technical Drawing 2.67,” Chapter 11, the\naccess lane shall comply with the following minimum standards:\n(a) Parking: Parking is allowed.\n(b) “L” Intersections: “L” intersections shall have a minimum 150-foot long tangent\nstreet section from the intersection to the closest curvature and a minimum corner\nradius of 50 feet.\n(c) Circle or Loop Street: A circle or loop street shall connect to a higher\nclassification street or connect to two separate perpendicular or offset higher\nclassification streets.\n(d) Turnaround Standard (No outlet streets): A “Y” or “T” turnaround shall be\ndesigned with a 60-foot length, 20-foot width. The turnaround area (including\nsidewalks if required) shall be contained within dedicated right-of-way.\n(e) Land Use Requirements: An access lane shall connect to a higher classification\nstreet. Lot frontages shall be at least 60 feet wide. Two onsite parking spaces,\nmeeting all city requirements, shall be provided on each single-family lot. If the\nminimum lot frontage requirement is not met, additional parking spaces shall be\nprovided at a ratio of 0.5 spaces per dwelling unit as a part of the subdivision.\nThese required spaces shall be located on private property.\n(f) Right-of-Way Landscaping: Landscaping other than ground cover or low\nshrubbery shall be placed outside of the right-of-way.\n(g) Emergency Response: Access streets exceeding 175 feet from any intersection\nshall provide a fire apparatus setup area at 150-foot intervals. The setup area\nshall provide a minimum 30-foot long, 25-foot-wide clear zone, and is subject to\napproval by the Fire Department.\n(6) Residential Alley: The residential alley is to provide secondary vehicular access to the\nrear of lots in detached single-family dwelling subdivisions with narrow street frontages,\nin order to limit curb cuts from the street and increase on-street parking. Alleys are most\nbeneficial when lot widths are narrower than 50 feet. In addition to the requirements\noutlined in Table 2-13, “Residential Street Design Standards,” and “Technical Drawing\n2.68,” Chapter 11 of these Standards, the residential alley shall be designed to meet the\nfollowing minimum land use requirements: Backup distance for parking and garage\naccess from the alley shall be 24 feet, including the 16-foot alley right-of-way width, and\nthe remaining backup distance shall be provided on the lot being served."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.10(A)",
+    "heading": "Emergency Access Required",
+    "page_start": 78,
+    "page_end": 78,
+    "verbatim": "All industrial, commercial, and residential developments shall provide adequate emergency\nvehicle access. Adequate emergency access is a minimum 20-foot-wide unobstructed fire\napparatus access road with an unobstructed vertical clearance of 15 feet, and meets all applicable\nstandards as set forth in Chapter 10-8, “Fire Prevention Code,” B.R.C. 1981."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.10(B)",
+    "heading": "When Emergency Access Lane is Required",
+    "page_start": 78,
+    "page_end": 78,
+    "verbatim": "When adequate emergency access is not available from a public street, an applicant for\nconstruction approval shall construct an emergency access lane. Emergency access lanes must\naccommodate all emergency vehicles, including fire equipment."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.10(C)",
+    "heading": "Secondary Emergency Access",
+    "page_start": 78,
+    "page_end": 78,
+    "verbatim": "Secondary emergency access lanes shall be provided to structures whenever the distance to the\nnearest public street equals or exceeds 500 feet. Secondary access lanes shall conform to all\ndesign requirements specified for emergency access lanes."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.10(D)",
+    "heading": "Local Emergency Access Lane Standards",
+    "page_start": 78,
+    "page_end": 79,
+    "verbatim": "In addition to the emergency access standards set forth in Chapter 10-8, “Fire Prevention Code,”\nB.R.C. 1981, an emergency access lane shall equal or exceed the following standards:\n(1) Direct Route: Emergency access lanes shall provide the shortest practical direct access\nto points of concern, and be entirely contained within a minimum, continuous 20-foot-\nwide emergency access easement or public right-of-way.\n(2) Distance From Structure: Emergency access lanes shall be provided whenever a\nstructure is located more than 150 feet from fire apparatus access.\n(3) Surface: An emergency access lane shall consist of either of the following:\n(a) Two concrete strips at least 4 feet wide, with a 4-foot separation between them.\nVegetation other than grass shall not be permitted in the separation area.\n(b) A minimum continuous paved surface width of 12 feet.\n(4) Radius: An emergency access lane shall provide a minimum turning radius of 25 feet,\nor the radius needed to accommodate an SU-30 vehicle.\n(5) Turnarounds: If the length of the emergency access lane exceeds 150 feet (without an\noutlet accessible to emergency vehicles), then a turnaround with a minimum radius of 45\nfeet shall be provided.\n(6) Grade: The grade for an emergency access lane shall not exceed five percent.\nExceptions may be allowed with specific approval from the City of Boulder Fire Chief\nwhere this standard cannot be met due to topographical conditions.\n(7) Vertical Clearance: Vertical clearance from the surface of the emergency access lane\nshall be at least 15 feet."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.10(E)",
+    "heading": "Unobstructed Access",
+    "page_start": 79,
+    "page_end": 79,
+    "verbatim": "Emergency access lanes shall be kept free and clear of all obstructions. If the Director or Fire\nChief determines that barriers are needed to prevent automobile traffic from using an emergency\naccess lane, then the applicant for construction approval shall install traffic bollards. Traffic\nbollard designs shall provide for immediate access of emergency vehicles, without requiring these\nvehicles to stop and maneuver around, or unlock, any structures. The Director and Fire Chief\nshall have final approval of all bollard designs."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.10(F)",
+    "heading": "Access Identification",
+    "page_start": 79,
+    "page_end": 79,
+    "verbatim": "Signs and pavement markings will be required if necessary, by the Director and Fire Chief to\ndelineate and identify emergency access lanes. All signage for emergency access lanes shall\nconform with the specifications in the MUTCD."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.11(A)",
+    "heading": "Conformance with Low-Stress Walk and Bike Network Plan",
+    "page_start": 79,
+    "page_end": 79,
+    "verbatim": "The arrangement, type, and location of all bike lane and multi-use path facilities and routes shall\nconform with the \"Low-Stress Walk and Bike Network Plan\" section in the TMP. The Director\nshall specify the standards for design and construction of new bike lane and multi-use path\nfacilities consistent with these Standards and considering public health, safety, and welfare and\ngenerally accepted engineering principles. The Director may refer to the Transportation\nReferences in these Standards. These Standards shall also apply to marked and signed\ncontraflow bike lanes to meet bicycle connectivity goals identified in the Low-Stress Walk and\nBike Network Plan where the right-of-way is constrained."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.11(B)",
+    "heading": "On-Street Bike Lanes - Streets Without On-Street Parking",
+    "page_start": 79,
+    "page_end": 79,
+    "verbatim": "An on-street bike lane is separated from the motor vehicle travel lane by a single white line. On-\nstreet bike lanes on new streets without on-street parking shall be at least 5 feet wide, exclusive of\nthe curb pan, or 6.5 feet from the face of any curb. On existing streets where on-street bike lanes\nare being added and available right-of-way or improvements space is restricted, the Director may\napprove a reduced width of the bike lane; the reduced width shall be at least 5 feet wide, inclusive\nof the curb pan."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.11(C)",
+    "heading": "On-Street Bike Lanes - Streets With On-Street Parking",
+    "page_start": 79,
+    "page_end": 80,
+    "verbatim": "An on-street bike lane on a street with on-street parking is separated from the motor vehicle travel\nlane or parking lane by a single white line. On-street bike lanes on new streets with on-street\nparking shall be at least 6 feet wide, exclusive of the parking lane. On existing streets where on-\nstreet bike lanes are being added and available right-of-way or improvements space is restricted,\nthe Director may approve a reduced width of the bike lane; the reduced width shall be at least 5\nfeet wide, exclusive of the parking lane."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.11(D)",
+    "heading": "Buffered Bike Lanes",
+    "page_start": 80,
+    "page_end": 80,
+    "verbatim": "A buffered bike lane is separated from the motor vehicle travel lane by a painted buffer space\ncreating a greater separation between the bike lane and adjacent travel lane. The buffer shall be\nmarked with 2 solid white lines, and the markings shall otherwise conform with MUTCD\nstandards. The buffered space shall be at least 2 feet wide. On streets without on-street parking\nthe bike lane shall be at least 5 feet wide, or 6.5 feet from the face of the curb. Bike lanes on new\nstreets with on-street parking shall be at least 5 feet wide, exclusive of the parking lane. On\nexisting streets where buffered bike lanes are to be added and right-of-way or improvement space\nis limited, the Director may modify this standard considering safety concerns or approve an on-\nstreet bike lane."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.11(E)",
+    "heading": "Separated Bike Lanes (One-Way and Two-Way)",
+    "page_start": 80,
+    "page_end": 80,
+    "verbatim": "A separated bike lane is physically separated from the motor vehicle travel lane through vertical\nor horizontal elements and is distinct from the sidewalk. Separated bike lanes have different\nforms but all share common elements. Where on-street parking is allowed, the separated bike lane\nshall be located to the curb side of the parking (in contrast to on-street and buffered bike\nlanes). Separated bike lanes may be one-way or two-way and may be at street level, at sidewalk\nlevel, or at an intermediate level. If located at sidewalk level, a curb or median shall separate the\nseparated bike lane from the motor vehicle travel lane, and different pavement color or type shall\nseparate the separated bike lane from the sidewalk. If located at sidewalk level, the separation\nmay include a landscaped area. If located at street level, the separated bike lane shall be separated\nfrom the motor vehicle travel lane by raised medians, on-street parking, or flexible delineators.\nFlexible delineators shall conform with MUTCD standards. Raised medians shall conform to\n\"Technical Drawing 2.42C,\" Chapter 11 of these Standards. The Director may require additional\nmarkings, signage, and other improvements to ensure safe and efficient operation of the city's\ntransportation system.\nOn streets without on-street parking, a vertical separation shall create a buffer between the bike\nlane and the travel lane that is at least 3 feet wide, and the bike lane shall be at least 5 feet wide,\nor 6.5 feet from the face of the curb. On streets with on-street parking, the separation shall be a 3-\nfoot-wide horizontal buffer between the bike lane and the parking lane, and the bike lane shall be\nat least 5 feet wide.\nOn existing streets where separated bike lanes are to be added and right-of-way or improvement\nspace is limited, the Director may modify this standard considering safety concerns and the\nefficient operation of the city's transportation system."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.11(F)",
+    "heading": "Typical Bicycle Facility Layouts",
+    "page_start": 80,
+    "page_end": 85,
+    "verbatim": "The following are examples of typical bicycle facility layouts and shall be used as guidance for\nseparated bike lane facilities. The existing street context and site constraints of each location\nshall be taken into account when designing these facilities and engineering judgement may be\nused to implement the intent of these example bicycle facility layouts.\n(1) One-Way Street Level Separated Bike Lanes at Driveways\n(2) Sidewalk Level One-Way Separated Bike Lanes at Driveways\n(a) Typical approach clear space (ACS) for driveways and alleys shall be 20 feet as\nshown; in constrained locations the approach clear space may be measured from\nedge of driveway.\n(b) In constrained locations the far-side buffer tangent may be reduced to 5 feet.\n(c) See Section 2.07, Table 2.5 of these Standards for standard lane widths.\n(d) Bike lane tapers preferred at 7:1 shift, minimum 3:1 shift in constrained locations\nwhere speed is ≤ 13 mph.\n(e) For bike lanes at sidewalk elevation without buffer treatment, 1-foot minimum\ndirectional indicator strip required within the sidewalk; typically located 1 foot\nfrom the edge of the bike lane.\n(f) Accessible ramp slope (RMP) = 7.8% (8.3% max).\n(g) Accessible cross slope (CXS) = 0.5-1.5% (2% max).\n(h) Accessible running slope (RNG) = 5% max.\n(i) Driveway slope (DWY) = 12% max.\n(3) Street Level Separated Bike Lanes at Intersection in Retrofit Conditions\n(4) Street Level Separated Bike Lanes at Intersections in New or Retrofitted Conditions\n(a) Design plans shall be consulted for variations.\n(b) Size and shape of corner treatments are dependent on intersection characteristics.\n(c) See Section 2.07, Table 2.5 of these Standards for standard lane widths.\n(d) Bike lane tapers preferred at 7:1 shift, minimum 3:1 shift in constrained locations\nhere speed is ≤ 13 mph.\n(5) One-Way Separated Bike Lane and Right Turn Lane\n(6) One-Way Separated Bike Lane and Right Turn Lane\n(a) Design plans shall be consulted for variations\n(b) Vertical elements may be excluded or modified as needed to accommodate truck\nand/or transit vehicles, with a 13-foot minimum where high bus volume is\nanticipated.\n(c) Bike lane tapers preferred at 7:1 shift, minimum 3:1 shift in constrained locations\nwhere speed is ≤ 13 mph.\n(d) See Section 2.07, Table 2.5 of these Standards for standard lane widths.\n(e) A ramp up to sidewalk may be provided for people on bicycles prior to vehicular\nmixing zone to provide a low stress alternative."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.11(G)",
+    "heading": "Off-Street Multi-Use Paths",
+    "page_start": 85,
+    "page_end": 85,
+    "verbatim": "Design for off-street multi-use paths shall conform to Chapter 5 of the AASHTO Guide for the\nDevelopment of Bicycle Facilities, 4th edition. The paths shall be at least 10 feet wide with an\ninside edge radius of at least 15 feet and shall conform to \"Technical Drawing 2.02D,\" Chapter\n11, of these Standards."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.11(H)",
+    "heading": "Bicycle Parking",
+    "page_start": 85,
+    "page_end": 87,
+    "verbatim": "Bicycle parking shall be located in a visible and prominent location that is lit at night and\nphysically separated from automobile parking to prevent vehicles from intruding into the bike\nparking area. All bicycle parking constructed in the City of Boulder shall conform to the\nprovisions in the Section 9-9-6(g), “Bicycle Parking,” B.R.C. 1981 or as adopted in any\nsubcommunity or area improvement plan.\n(1) Bicycle Parking in Sidewalk Area of Public Right-of-Way: Bicycle parking\nracks located in the sidewalk area of the public right-of-way shall be designed using\neither the inverted “U” rack standard or the inverted “U” racks on rails standard. A\nminimum aisle of 5 feet shall be provided for bikes to maneuver in when accessing the\nrack. All racks shall be attached to a concrete base using a high security tamper proof\nanchor such as a mushroom head carbon steel expansion anchor “spike” #5550 as\nmanufactured by Rawl or an equivalent theft-proof device.\n(a) Inverted “U” Rack: The inverted U rack is designed to park two bicycles, facing\nopposite directions, parallel to the rack. For the rack to meet its design\nspecification of parking two bikes, it must be installed according to the\nspecifications below, otherwise it will be considered to provide parking for one\nbike. The inverted “U” standard may be installed with the following conditions:\n(i) Where the “U” rack is installed oriented parallel to a wall or curb, at least\n3.0 feet shall be provided between the parallel wall or curb and the center\nof the rack. Where a bike rack is located near a curb with “head-in”\nautomobile parking, a minimum distance of 5 feet from the curb to the\ncenter of the rack is required to avoid damage to bicycles or racks by\nautomobiles extending across the curb over the sidewalk.\n(ii) Where the “U” rack is installed oriented perpendicular to a wall or curb,\na minimum distance of 4 feet from the wall or curb to the center of the\nrack will be provided to allow two bikes to access and use the rack.\n(iii) Where placed side-by-side, “U” racks shall be placed at least 3.5 feet\napart to accommodate ease of access to the racks.\n(iv) Where placed in a series of 2 or more and parallel to a wall, inverted “U”\nracks will be separated by a minimum distance of 10 feet between the\ncenters of the racks to allow access to both sides of the rack.\n(v) The location of a bike rack shall maintain a minimum unobstructed\nsidewalk width of 6 feet from any bicycle parked properly in the rack.\n(vi) The location of a “U” rack shall maintain a minimum unobstructed\ndistance of 3 feet from any pedestrian curb ramp to any bicycle parked\nproperly in the rack.\n(b) Inverted “U” Racks on Rails: The inverted “U” racks on rails are designed to\npark four to ten bicycles, with two bikes facing opposite directions parked on\neither side and parallel to each inverted “U” rack. These racks allow locking of\nframe and wheel with a U-lock and support bikes with two points of contact. For\nthe rack to meet its design specifications of parking bikes from both sides, it must\nbe installed according to the conditions of the inverted “U” rack listed above;\notherwise it will be considered to provide no more than half of its designed\nparking capacity.\n(2) Onsite Bicycle Parking: Bicycle parking should generally be provided within 50 feet\nof the main building entrance. Racks must be installed according to the guidelines in (1)\nabove to reach their designed parking capacity. Otherwise, they shall be credited with no\nmore than half their design capacity. Bicycle parking racks or lockers located on\ndevelopment or project sites or in parking lots outside of public right-of-way shall\ngenerally be selected from the following standards:\n(a) Inverted “U” Rack: The inverted “U” rack is recommended for most bike rack\ninstallations and is one of the standards for bicycle parking in public rights-of-\nway as required in Subsection G.(1) above. Each rack provides space for two\nbicycles and allows flexibility in parking by providing two supports for attaching\nlocks. The “U” rack may be used individually where space is limited, or, in\ncircumstances requiring a larger amount of bike parking, inverted “U” racks on\nrails may be used to park four to ten bikes. Inverted “U” racks and inverted “U”\nracks on rails shall meet the specifications for the dimensions and installation\nshown in Chapter 11, “Technical Drawings,” of these Standards\n(b) Other Bike Rack Styles: Another rack style may be approved by the Director if it\nmeets the following criteria:\n(i) Provides at least two contact points between the rack and the bike to\nsecurely support the bike;\n(ii) Provides at least a 2 foot by 6-foot parking space for each bike without\nthe need to lift the handlebars of one bike over those of another to park;\n(iii) Allows the frame and one wheel to be locked to the rack with a standard\nhigh security, U-shaped shackle lock; and\n(iv) The rack is uncomplicated and intuitively simple for the bicyclist to use.\n(c) Lockers: Bicycle lockers provide secure weatherproof storage for bike parking.\nLockers are recommended for employee and longer-term parking and require\nadequate space, since they require more area than bicycle racks.\n(3) On-Street Bike Parking (Bike Parking Corrals): The Director may approve on-\nstreet bike corrals in commercial areas where sidewalk space is limited and in locations\nwith high pedestrian volumes. In approving the design and construction of bike corrals,\nthe Director shall consider public safety and the efficient operation of the city's\ntransportation system."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.12(A)",
+    "heading": "Scope",
+    "page_start": 87,
+    "page_end": 87,
+    "verbatim": "The provisions of this section shall apply to streetlighting in public streets and alleys."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.12(B)",
+    "heading": "Private Development",
+    "page_start": 87,
+    "page_end": 87,
+    "verbatim": "Installation, relocation, or removal of streetlighting may be proposed by an applicant or\nmay be required by the Director as part of a development approval under Title 9, \"Land\nUse Code,\" B.R.C.1981."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.12(C)",
+    "heading": "City Projects",
+    "page_start": 87,
+    "page_end": 87,
+    "verbatim": "The Director decides whether and where streetlighting may be provided, relocated, or\nremoved considering the standards in this Section 2.12."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.12(D)",
+    "heading": "Street Types",
+    "page_start": 87,
+    "page_end": 88,
+    "verbatim": "In determining whether streetlighting shall be installed or relocated in or removed from\nthe public right-of-way, the Director shall consider the ANSI/IES RP-8-22, Illuminating\nEngineering Society Recommended Practice: Lighting Roadway and Parking Facilities\n(IES), as modified by the following standards:\n(1) Arterial Streets: Corridor lighting may be required or provided based on IES\nstandard practices.\n(2) Collector Streets: Streetlighting may be required or provided only at intersections\nand identified pedestrian crossings.\n(3) Other Streets (Local): Streetlighting may be required or provided only at\nidentified pedestrian crossings.\n(4) Alleys: Streetlighting may be required or provided in alleys in commercial areas\nwith significant night-time pedestrian activity. Streetlighting is not provided in\nother alleys."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.12(E)",
+    "heading": "Design Standards",
+    "page_start": 88,
+    "page_end": 88,
+    "verbatim": "(1) Design: Streetlighting shall have an LED light bulb within a full cut-off fixture that is\ninstalled in a horizontal position as designed. Streetlight poles shall be steel poles or\nwood poles. The pole material shall be determined by the Director and shall be generally\nconsistent with the poles in the surrounding area. Relocation of a pole requires\ninstallation of a current pole design of the City.\n(2) Location: Poles shall be located so that the center of the pole is three feet behind the face\nof the curb. The Director may approve a different pole location that is between three feet\nand six feet behind the face of the curb where necessary to accommodate the needs of\nother public right-of-way uses in the sidewalk area. Streets with a detached multi-use\npath or sidewalk may have streetlighting between the curb and multi-use path or sidewalk\nprovided there are two feet of horizontal clearance between the nearest face of the pole\nand the edge of the multi-use path or sidewalk. Where a multi-use path or sidewalk are\nattached to the street’s curb and gutter, streetlighting shall be placed with two feet of\nhorizontal clearance between the nearest face of the pole and the edge of the multi-use\npath or sidewalk."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.12(F)",
+    "heading": "Installation",
+    "page_start": 88,
+    "page_end": 88,
+    "verbatim": "The City will acquire, own, and install all streetlighting that is to be installed in public\nstreets or alleys as part of a private development or a City project. The City also performs\nrelocation and removal of streetlighting. An applicant shall coordinate any construction\nof improvements in the public street or alley with the City’s installation, relocation, or\nremoval of the streetlighting."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.12(G)",
+    "heading": "Easements",
+    "page_start": 88,
+    "page_end": 88,
+    "verbatim": "Adequate rights-of-way, public access easements, or utility easements shall be dedicated\nto the City to allow the City to install, access, maintain, repair, and reinstall streetlighting\nand their associated facilities, such as cables, conduit, and pull boxes. The Director will\ndetermine the type and size of dedication based on the location of the streetlighting."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.12(H)",
+    "heading": "Fees",
+    "page_start": 88,
+    "page_end": 89,
+    "verbatim": "An applicant for a private development including new installation, relocation, or removal\nof streetlighting in a public street or alley shall pay the applicable streetlighting fee\nprescribed by Section 4-20-77, “Streetlighting Fee,” B.R.C. 1981, at the time of submittal\nof construction plans for approval under Section 1.03, “Submittal Requirements for\nConstruction Approval” or, if no such submittal is required, prior to issuance of a\nbuilding permit."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.13",
+    "heading": "Transit Stop Facilities",
+    "page_start": 89,
+    "page_end": 89,
+    "verbatim": "New transit stops and enhancements to existing transit stops shall be designed in accordance with RTD's\n\"Bus Infrastructure Standard Drawings\" and with consideration of NACTO's \"Transit Street Design\nGuide.\""
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.14(A)",
+    "heading": "Scope",
+    "page_start": 89,
+    "page_end": 89,
+    "verbatim": "This section includes guidelines for the implementation of traffic calming elements on public streets. All\nelements shall be designed and installed in accordance with the provisions of Chapter 2 of this document\nand in conformance with the MUTCD. The Vision Zero Action Plan shall be consulted when determining\nif and what traffic calming measures are implemented.\nTraffic calming measures are intended to slow motorized vehicles and increase safety for bicycle and\npedestrian users. Measures may also prioritize the movement of bicycles and pedestrians at crossing or\nconflict points."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.14(B)",
+    "heading": "Traffic Circles",
+    "page_start": 89,
+    "page_end": 91,
+    "verbatim": "The Director may require the installation of a traffic circle where the Director finds that the operations or\nsafety of the intersection or the adjoining streets would benefit from such device.\nFigure 2-4 illustrates the typical layout and standard dimensions of a traffic circle and Table 2-14 Offset\nand Opening Width Dimensions and Table 2-15 Center Island Diameter Dimensions shall guide the\ndesign of the traffic circle. Final dimensions shall be approved by the Director based up site specific\nconsiderations for the safety of all users, the ability for all modes to traverse the intersection, and the\nefficient operation of the transportation system.\nIn locations where crossing streets are not the same width, curb extensions may be used on the wider\nstreet to create consistent approach widths.\nIn locations where the circulating width is less than 20 feet, the Director may require a mountable truck\napron if the director finds that the expected truck traffic at the intersection will negatively impacts safety\nor intersection operations.\nAny objects, including plantings and trees, in the traffic circle shall provide a clear zone of visibility\nbetween 36 inches high and 80 inches high from the top of the travel path surface.\nFigure 2-4: Typical Layout and Standard Dimensions of Traffic Circle\nTable 2-15: Offset and Opening Width Dimensions\nOffset Opening Width\n5.5’ (Max) 16’ (Min)\n5.0’ 17’\n4.5’ 18’\n4.0’ 19’\n3.5’ or less 20’ (Max)\nTable 2-16: Center Island Diameter Dimension for Different Street Widths and Curb Return Radii\nB C\nA\nCurb Return Center Island\nStreet Width\nRadius Diameter\n15’ 18’\n28’\n20’ 20’\n25’ 22’\n15’ 20’\n30’ 20’ 22’\n25’ 24’\n15’ 27’\n36’ 20’ 29’\n25’ 33’\n15’ 32’\n40’ 20’ 34’\n25’ 38’"
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 2,
+    "anchor": "2.14(C)",
+    "heading": "Raised Crossings",
+    "page_start": 91,
+    "page_end": 95,
+    "verbatim": "The Director may require the installation of a raised crossing where the Director finds that the crossing\nmeets the criteria from the city’s Pedestrian Crossing Treatment Installation Guidelines for additional\ncrossing treatments.\nFigure 2-5 through 2-7 illustrate typical layouts for raised crossings, Figure 2-8 illustrates typical section\nof a raised crossing, and Table 2-XXX Dimensions of Approach Ramp Length For Various Roadway\nLongitudinal Slopes and Target Grade Breaks and Table 2-16 Target Grade Breaks For Different\nRoadway Classifications shall guide the design of the raised crossing. Final dimensions and geometry\nshall be approved by the Director based up site specific considerations for the safety of all users, the\nability for all modes to traverse the intersection, and the efficient operation of the transportation system.\nThe width of the top of raised crosswalks should match the width of the connecting sidewalk, shared use\npath, or desired crosswalk, and in no case be less than 10-feet in width.\nInstallation of a raised crossing shall include modifications to existing street paving, cold plane and\noverlay asphalt, or reconstruction of paving to provide a smooth transition and street crown and shall\nmatch adjacent paving materials and thickness.\nIn locations where positive drainage cannot be achieved the design shall include drain inlet(s) as\nnecessary to convey stormwater drainage and meet street drainage requirements of Chapter 7.\nAll crosswalks shall have a minimum of 2 feet spacing from poles, hydrants, and other vertical\nobstructions.\nCrosswalk cross slopes should be no greater than 2%, however, at mid-block locations the cross slope\nmay match the existing street grade. Crosswalk cross slope may be 0% if longitudinal slope is sufficient\nto self-drain\nCrosswalk longitudinal slopes should not exceed 5%\nGrade breaks should be determined based on existing roadway speeds and desired speed reduction and\nshould conform with Table 2-17. Generally, higher grade breaks correspond to higher speed reduction.\nFigure 2-5: Typical Layout of Raised Crossing at Mid-Block Location\nFigure 2-6: Typical Layout of Raised Crossing at Intersection Leg Location\nFigure 2-7: Typical Layout of Raised Crossing at Channelized Right Turn Location\nFigure 2-8: Raised Crossing Typical Section\nTable 2-17: Dimensions of Approach Ramp Length For Various Roadway Longitudinal Slopes and\nTarget Grade Breaks\nApproach Ramp Length\nRoadway 5-6% Grade Break 8-10% Grade Break\nLongitudinal\nUphill Downhill Uphill Downhill\nSlope\n5.0-5.5’ 5.0-5.5’ 3.0-3.5’ 3.0-3.5’\n0%\n(3.0’-4.0’) (3.0’-4.0’) (2.0’-2.5’) (2.0’-2.5’)\n5.0-5.5’ 5.0-5.5’ 3.0-3.5’ 3.0-3.5’\n2%\n(3.0’-4.0’) (3.0’-4.0’) (2.0’-2.5’) (2.0’-2.5’)\n5.0-5.5’ 8.0-10.0’ 3.0-3.5’ 5.0’-6.0’\n4%\n(3.0’-4.0’) (6.5’-7.5’) (2.0’-2.5’) (4.0’-5.0’)\n5.0-5.5’ 11.0-13.5’ 3.0-3.5’ 6.5’-8.5’\n6%\n(3.0’-4.0’) (9.5’-11.5’) (2.0’-2.5’) (5.5’-7.0’)\nNote: Primary ramp lengths assume a 6-inch tall raised crossing. Ramp lengths in parenthesis assume\na 4-inch tall raised crossing.\nTable 2-18: Target Grade Breaks For Different Roadway Classifications\nRoadway Grade Break Range\nClassification Min Max\nLocal 8% 10%\nCollector 5% 6%\nArterial 5% 6%\nCITY OF BOULDER\nDESIGN AND CONSTRUCTION STANDARDS"
+  }
+]

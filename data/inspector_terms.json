@@ -1,0 +1,290 @@
+{
+  "common": [
+    "permit conditions",
+    "variance",
+    "811 locate",
+    "utility markings",
+    "potholing",
+    "test hole",
+    "markout",
+    "traffic control",
+    "MUTCD",
+    "TCMP",
+    "signing",
+    "striping",
+    "concrete restoration",
+    "asphalt restoration",
+    "temporary patch",
+    "T-patch",
+    "sawcut",
+    "backfill compaction",
+    "proof roll",
+    "directional bore",
+    "microtrenching",
+    "hand trench",
+    "conduit",
+    "fiber",
+    "gas service",
+    "water main",
+    "sewer manhole",
+    "storm inlet",
+    "erosion control",
+    "encroachment",
+    "ADA curb ramp",
+    "bike lane"
+  ],
+  "synonyms": {
+    "pothole": [
+      "patch",
+      "patching",
+      "repair",
+      "restoration",
+      "pavement",
+      "roadway"
+    ],
+    "pothole restoration": [
+      "restoration",
+      "patch",
+      "patching",
+      "repair",
+      "pavement",
+      "asphalt",
+      "concrete",
+      "street cut"
+    ],
+    "street cut": [
+      "excavation",
+      "trench",
+      "patch",
+      "restoration",
+      "pavement",
+      "sawcut"
+    ],
+    "asphalt": [
+      "asphalt",
+      "pavement",
+      "hmac",
+      "hot mix",
+      "cold patch"
+    ],
+    "concrete": [
+      "concrete",
+      "sidewalk",
+      "curb",
+      "gutter"
+    ],
+    "temporary": [
+      "temporary",
+      "temp",
+      "cold patch",
+      "steel plate",
+      "plating"
+    ],
+    "permanent": [
+      "permanent",
+      "final",
+      "replacement",
+      "hot mix",
+      "restoration"
+    ],
+    "backfill": [
+      "backfill",
+      "compaction",
+      "lift",
+      "density",
+      "trench"
+    ],
+    "compaction": [
+      "compaction",
+      "density",
+      "lift",
+      "backfill"
+    ],
+    "trench": [
+      "trench",
+      "excavation",
+      "backfill",
+      "compaction",
+      "restoration"
+    ],
+    "bore": [
+      "bore",
+      "boring",
+      "directional",
+      "directional bore",
+      "horizontal"
+    ],
+    "locate": [
+      "locate",
+      "locates",
+      "811",
+      "utility locate",
+      "underground facilities",
+      "potholing",
+      "test hole"
+    ],
+    "sue": [
+      "subsurface utility engineering",
+      "sue",
+      "potholing",
+      "utility locate",
+      "underground facilities"
+    ],
+    "fiber": [
+      "fiber optic",
+      "telecom",
+      "telecomm",
+      "telecommunication",
+      "telecommunications",
+      "communications",
+      "conduit",
+      "duct",
+      "vault",
+      "handhole",
+      "pull box"
+    ],
+    "telecom": [
+      "telecom",
+      "telecomm",
+      "telecommunications",
+      "telecommunication",
+      "communications",
+      "conduit",
+      "duct",
+      "vault",
+      "handhole",
+      "pull box"
+    ],
+    "telecommunications": [
+      "telecommunications",
+      "telecommunication",
+      "telecom",
+      "communications",
+      "conduit"
+    ],
+    "traffic control": [
+      "traffic control",
+      "tcmp",
+      "mutcd",
+      "detour",
+      "lane closure",
+      "flagger",
+      "barricade",
+      "cones",
+      "sign",
+      "signage"
+    ],
+    "bike": [
+      "bike",
+      "bicycle",
+      "bike lane",
+      "bikeway",
+      "striping",
+      "pavement marking",
+      "signage"
+    ],
+    "bike lane": [
+      "bike lane",
+      "bicycle lane",
+      "bikeway",
+      "striping",
+      "pavement marking",
+      "markings",
+      "signage"
+    ],
+    "gas": [
+      "gas",
+      "gas main",
+      "gas service",
+      "meter",
+      "excavation",
+      "trench",
+      "restoration"
+    ],
+    "water": [
+      "water",
+      "water main",
+      "hydrant",
+      "valve",
+      "service line",
+      "excavation",
+      "trench",
+      "restoration"
+    ],
+    "sewer": [
+      "sewer",
+      "sanitary",
+      "manhole",
+      "lateral",
+      "excavation",
+      "trench",
+      "restoration"
+    ],
+    "storm": [
+      "storm",
+      "stormwater",
+      "inlet",
+      "catch basin",
+      "culvert",
+      "drain",
+      "excavation",
+      "trench",
+      "restoration"
+    ],
+    "encroachment": [
+      "encroachment",
+      "obstruction",
+      "sidewalk",
+      "right-of-way",
+      "row"
+    ],
+    "sidewalk obstruction": [
+      "obstruction",
+      "encroachment",
+      "sidewalk",
+      "clearance",
+      "vegetation"
+    ],
+    "row permit": [
+      "right-of-way",
+      "row",
+      "permit",
+      "license",
+      "authorization"
+    ],
+    "permit": [
+      "permit",
+      "right-of-way",
+      "row",
+      "license",
+      "authorization"
+    ],
+    "markout": [
+      "mark out",
+      "811",
+      "locate",
+      "locates",
+      "utility markings",
+      "paint marks",
+      "flags"
+    ],
+    "markings": [
+      "striping",
+      "pavement marking",
+      "paint",
+      "thermoplastic",
+      "signing"
+    ],
+    "t patch": [
+      "t-patch",
+      "tpatch",
+      "keyway",
+      "keyed patch"
+    ],
+    "microtrench": [
+      "microtrenching",
+      "micro trench",
+      "micro-trenching"
+    ]
+  }
+}

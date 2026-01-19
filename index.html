@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Civic Compass</title>
+  <meta name="theme-color" content="#1f4d3a"/>
+  <link rel="manifest" href="./manifest.webmanifest"/>
+  <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png"/>
+  <link rel="icon" href="./assets/icons/favicon32.ico"/>
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+  <link rel="stylesheet" href="./assets/styles.css"/>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <img class="logo" src="./assets/icons/icon-192.png" alt="Civic Compass"/>
+      <div class="title">
+      <h1>Civic Compass</h1>
+      <div class="subtitle">Offline ROW reference: DCS • BRC • Title 9</div>
+      </div>
+    </div>
+    <div class="status" id="status">Loading index…</div>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <input id="q" class="search" type="search" placeholder="Search (e.g., pavement restoration, sewer inspection)"/>
+      <div class="filter-row">
+        <label class="filter-label">Category
+          <select id="catSelect" class="select"></select>
+        </label>
+        <label class="filter-label">Corpus
+          <select id="corpusSelect" class="select">
+            <option value="ALL">All</option>
+            <option value="DCS">DCS</option>
+            <option value="BRC">BRC</option>
+            <option value="TITLE9">Title 9</option>
+          </select>
+        </label>
+        <button id="clear" class="link" type="button">Clear</button>
+      </div>
+
+      <!-- Quick category tiles (visible on landing) -->
+      <div id="catBoxes" class="catboxes" aria-label="Quick category filters"></div>
+
+      <div class="meta"><span id="count">0</span> results</div>
+    </section>
+
+    <section class="results">
+      <div id="results"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <details>
+      <summary>Disclaimer &amp; license</summary>
+      <div class="footer-body">
+        <div class="footer-brand">
+          <img class="footer-logo" src="./assets/icons/icon-192.png" alt="Civic Compass"/>
+          <div class="footer-brand-text">
+            <div class="footer-name">Civic Compass</div>
+            <div class="footer-tag">Offline ROW reference</div>
+          </div>
+        </div>
+        <p><strong>Reference tool.</strong> Civic Compass is an offline reference and navigation aid intended for internal inspection workflows. It is not legal advice and does not replace the official, published code, standards, permits, approved plans, or project-specific specifications.</p>
+        <p><strong>Verify before enforcement.</strong> Always confirm requirements against the authoritative source documents and the controlling permit conditions. Where conflicts exist, the controlling document governs.</p>
+        <p><strong>Internal deployment.</strong> This tool is designed to operate fully offline after an initial online load to cache data. Use on city-issued or approved devices consistent with your organization’s IT and records policies.</p>
+        <p><strong>License.</strong> © <span id="year"></span> Kevin Reilly. All rights reserved unless otherwise specified in a written agreement. Redistribution outside the deploying organization requires explicit permission.</p>
+      </div>
+    </details>
+  </footer>
+
+<script src="./assets/app.js" defer></script>
+</body>
+</html>

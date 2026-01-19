@@ -1,0 +1,65 @@
+{
+  "source_file": "Boulder DCS.pdf",
+  "chapters": [
+    {
+      "chapter": "01",
+      "file": "dcs_ch01.json",
+      "records": 25,
+      "sha256": "afe0984dea9cc933b5a40627cc613be376a0c2b5c6e9e652b4223e17b1316b38"
+    },
+    {
+      "chapter": "02",
+      "file": "dcs_ch02.json",
+      "records": 92,
+      "sha256": "8e88d981155aca2768efb886accb668397be42485bc2355717d4e868b7485de4"
+    },
+    {
+      "chapter": "03",
+      "file": "dcs_ch03.json",
+      "records": 19,
+      "sha256": "49b968f9dcbd82b9ff679fc7f4c0225e9797683e86db14f408fcbc9f17e4ad27"
+    },
+    {
+      "chapter": "04",
+      "file": "dcs_ch04.json",
+      "records": 23,
+      "sha256": "8d700c5d31183527d2c33bcaa58f4f572a7844fa0af5c1aa9facf287587ccdf9"
+    },
+    {
+      "chapter": "05",
+      "file": "dcs_ch05.json",
+      "records": 39,
+      "sha256": "6b63877d3471a11c589c5ba0ba42beeac9a6cd3872e25f2aa02032dec86fa588"
+    },
+    {
+      "chapter": "06",
+      "file": "dcs_ch06.json",
+      "records": 29,
+      "sha256": "3a024192ba5255e96ae0c8030c93ce6c637bf78ecf7a80d526bb23a84352b38c"
+    },
+    {
+      "chapter": "07",
+      "file": "dcs_ch07.json",
+      "records": 80,
+      "sha256": "3ccd896d2434cb3ac29406ed837c5393aa932df05987a904feac7355cc0cef18"
+    },
+    {
+      "chapter": "08",
+      "file": "dcs_ch08.json",
+      "records": 35,
+      "sha256": "962562a786366d9a43919b45194bbe03ea05b2001546afc6c625b7554ed23986"
+    },
+    {
+      "chapter": "09",
+      "file": "dcs_ch09.json",
+      "records": 78,
+      "sha256": "40f33ba708bb33a0df599d817f58ca2b9cc596601077d2246ea2fb59bd837b75"
+    },
+    {
+      "chapter": "10",
+      "file": "dcs_ch10.json",
+      "records": 18,
+      "sha256": "deca7cf1bb4e743bf6dcaf891f722ddd3b88d3508e03c3052e90f5e6bf5f7773"
+    }
+  ]
+}

@@ -1,0 +1,898 @@
+{
+  "concepts": [
+    {
+      "conceptId": "permit_requirements",
+      "label": "Permit requirements",
+      "primaryCategoryId": "cat-01",
+      "secondaryCategoryIds": [],
+      "terms": [
+        "permit",
+        "row permit",
+        "right-of-way permit",
+        "excavation permit",
+        "license",
+        "authorization",
+        "approval",
+        "conditions",
+        "permit conditions"
+      ]
+    },
+    {
+      "conceptId": "variance_deviation",
+      "label": "Variance / deviation",
+      "primaryCategoryId": "cat-01",
+      "secondaryCategoryIds": [],
+      "terms": [
+        "variance",
+        "deviation",
+        "exception",
+        "design exception",
+        "alternate method",
+        "engineer approval",
+        "director approval"
+      ]
+    },
+    {
+      "conceptId": "inspection_stages_closeout",
+      "label": "Inspection stages / closeout",
+      "primaryCategoryId": "cat-01",
+      "secondaryCategoryIds": [
+        "cat-07"
+      ],
+      "terms": [
+        "inspection",
+        "inspections",
+        "precon",
+        "pre-con",
+        "preconstruction",
+        "pre construction",
+        "final",
+        "final inspection",
+        "acceptance",
+        "closeout",
+        "punch list"
+      ]
+    },
+    {
+      "conceptId": "submittals_documentation",
+      "label": "Submittals / documentation",
+      "primaryCategoryId": "cat-01",
+      "secondaryCategoryIds": [
+        "cat-07"
+      ],
+      "terms": [
+        "submittal",
+        "submittals",
+        "as-built",
+        "as built",
+        "redlines",
+        "documentation",
+        "photos",
+        "report",
+        "test report",
+        "certification"
+      ]
+    },
+    {
+      "conceptId": "utility_locates_markings",
+      "label": "Utility locates / markings",
+      "primaryCategoryId": "cat-02",
+      "secondaryCategoryIds": [],
+      "terms": [
+        "811",
+        "one call",
+        "onecall",
+        "call before you dig",
+        "cbud",
+        "locate",
+        "locates",
+        "utility locate",
+        "locate ticket",
+        "locate request",
+        "ticket",
+        "utility markings",
+        "markings",
+        "paint marks",
+        "flags",
+        "re-mark",
+        "remark",
+        "remarking",
+        "expired locate",
+        "valid locate"
+      ]
+    },
+    {
+      "conceptId": "tolerance_zone_hand_dig",
+      "label": "Tolerance zone / hand dig",
+      "primaryCategoryId": "cat-02",
+      "secondaryCategoryIds": [
+        "cat-04"
+      ],
+      "terms": [
+        "tolerance zone",
+        "hand dig zone",
+        "hand dig",
+        "hand dig only",
+        "soft dig",
+        "soft excavation",
+        "clearance",
+        "separation",
+        "protect utilities",
+        "utility protection"
+      ]
+    },
+    {
+      "conceptId": "sue_conflict_clearance",
+      "label": "SUE / conflicts / clearance",
+      "primaryCategoryId": "cat-02",
+      "secondaryCategoryIds": [
+        "cat-06"
+      ],
+      "terms": [
+        "sue",
+        "subsurface utility engineering",
+        "ql-a",
+        "ql-b",
+        "utility conflict",
+        "conflict",
+        "clash",
+        "crossing",
+        "crossing conflict",
+        "clearance",
+        "separation"
+      ]
+    },
+    {
+      "conceptId": "utility_separation",
+      "label": "Separation of utilities",
+      "primaryCategoryId": "cat-06",
+      "secondaryCategoryIds": [
+        "cat-04"
+      ],
+      "terms": [
+        "separation of utilities",
+        "utility separation",
+        "separation requirements",
+        "horizontal separation",
+        "vertical separation",
+        "utility clearance",
+        "clearance between utilities",
+        "water sewer separation",
+        "water wastewater separation",
+        "water storm separation",
+        "utility crossing separation",
+        "18 inch separation",
+        "18 inches",
+        "10 foot separation",
+        "10 feet",
+        "5 foot separation",
+        "5 feet"
+      ]
+    },
+    {
+      "conceptId": "damage_prevention",
+      "label": "Damage prevention",
+      "primaryCategoryId": "cat-02",
+      "secondaryCategoryIds": [
+        "cat-04"
+      ],
+      "terms": [
+        "damage prevention",
+        "strike",
+        "hit line",
+        "utility strike",
+        "protect",
+        "expose before crossing",
+        "verify location",
+        "verify depth"
+      ]
+    },
+    {
+      "conceptId": "traffic_control_plan",
+      "label": "Traffic control plan",
+      "primaryCategoryId": "cat-03",
+      "secondaryCategoryIds": [
+        "cat-01"
+      ],
+      "terms": [
+        "tcp",
+        "tmp",
+        "mot",
+        "traffic control",
+        "traffic control plan",
+        "work zone",
+        "workzone",
+        "lane closure",
+        "road closure",
+        "detour",
+        "reroute"
+      ]
+    },
+    {
+      "conceptId": "mutcd_signs_devices",
+      "label": "MUTCD signs / devices",
+      "primaryCategoryId": "cat-03",
+      "secondaryCategoryIds": [],
+      "terms": [
+        "mutcd",
+        "sign",
+        "signs",
+        "signage",
+        "devices",
+        "cones",
+        "barrels",
+        "drums",
+        "channelizers",
+        "taper",
+        "tapers",
+        "barricade",
+        "barricades"
+      ]
+    },
+    {
+      "conceptId": "pedestrian_ada_detours_temp",
+      "label": "Temporary pedestrian / ADA detours",
+      "primaryCategoryId": "cat-03",
+      "secondaryCategoryIds": [
+        "cat-10"
+      ],
+      "terms": [
+        "ped detour",
+        "pedestrian detour",
+        "sidewalk closed",
+        "sidewalk closure",
+        "temp walkway",
+        "temporary walkway",
+        "ada detour",
+        "accessible route (temp)",
+        "temporary ada route"
+      ]
+    },
+    {
+      "conceptId": "bike_impacts_temp",
+      "label": "Temporary bike impacts",
+      "primaryCategoryId": "cat-03",
+      "secondaryCategoryIds": [
+        "cat-10"
+      ],
+      "terms": [
+        "bike detour",
+        "bike lane closed",
+        "bicycle detour",
+        "merge",
+        "flagger near bike lane",
+        "bike closure"
+      ]
+    },
+    {
+      "conceptId": "hazards_excavation_protection",
+      "label": "Public hazards / excavation protection",
+      "primaryCategoryId": "cat-03",
+      "secondaryCategoryIds": [
+        "cat-04"
+      ],
+      "terms": [
+        "open hole",
+        "open trench",
+        "trench protection",
+        "steel plate",
+        "plates",
+        "plating",
+        "barricades",
+        "fencing",
+        "emergency access"
+      ]
+    },
+    {
+      "conceptId": "open_cut_trenching",
+      "label": "Open cut trenching",
+      "primaryCategoryId": "cat-04",
+      "secondaryCategoryIds": [],
+      "terms": [
+        "trench",
+        "trenching",
+        "open cut",
+        "excavation",
+        "excavate",
+        "trenches",
+        "trench box",
+        "shoring"
+      ]
+    },
+    {
+      "conceptId": "hand_trenching_exposure",
+      "label": "Hand trenching / exposure",
+      "primaryCategoryId": "cat-04",
+      "secondaryCategoryIds": [
+        "cat-02"
+      ],
+      "terms": [
+        "hand dig",
+        "hand trench",
+        "pothole",
+        "potholing",
+        "daylight",
+        "daylighting",
+        "expose utility",
+        "exposure",
+        "verify depth",
+        "daylighted",
+        "daylight excavation",
+        "expose utilities",
+        "utility expose",
+        "test hole",
+        "testhole",
+        "hydro excavation",
+        "hydrovac",
+        "vacuum excavation",
+        "vac excavation"
+      ]
+    },
+    {
+      "conceptId": "microtrenching",
+      "label": "Microtrenching",
+      "primaryCategoryId": "cat-04",
+      "secondaryCategoryIds": [
+        "cat-06"
+      ],
+      "terms": [
+        "microtrench",
+        "micro-trench",
+        "micro trench",
+        "saw micro",
+        "fiber microtrench"
+      ]
+    },
+    {
+      "conceptId": "directional_boring_hdd",
+      "label": "Directional boring / HDD",
+      "primaryCategoryId": "cat-04",
+      "secondaryCategoryIds": [
+        "cat-06"
+      ],
+      "terms": [
+        "bore",
+        "boring",
+        "hdd",
+        "directional bore",
+        "directional boring",
+        "directional drilling",
+        "auger bore",
+        "horizontal directional drilling"
+      ]
+    },
+    {
+      "conceptId": "backfill_compaction_methods",
+      "label": "Backfill / compaction methods",
+      "primaryCategoryId": "cat-04",
+      "secondaryCategoryIds": [
+        "cat-07"
+      ],
+      "terms": [
+        "backfill",
+        "native backfill",
+        "lifts",
+        "lift",
+        "lift thickness",
+        "compaction",
+        "compact",
+        "clsm",
+        "flow fill",
+        "flowfill",
+        "controlled low strength material"
+      ]
+    },
+    {
+      "conceptId": "asphalt_restoration",
+      "label": "Asphalt restoration",
+      "primaryCategoryId": "cat-05",
+      "secondaryCategoryIds": [],
+      "terms": [
+        "asphalt",
+        "hma",
+        "hmac",
+        "hot mix",
+        "cold patch",
+        "patch",
+        "pavement patch",
+        "mill",
+        "milling",
+        "overlay",
+        "tack coat"
+      ]
+    },
+    {
+      "conceptId": "concrete_restoration",
+      "label": "Concrete restoration",
+      "primaryCategoryId": "cat-05",
+      "secondaryCategoryIds": [
+        "cat-10"
+      ],
+      "terms": [
+        "concrete",
+        "sidewalk",
+        "curb",
+        "gutter",
+        "curb & gutter",
+        "pan",
+        "driveway approach",
+        "approach"
+      ]
+    },
+    {
+      "conceptId": "soft_surface_softscape_restoration",
+      "label": "Soft surface / softscape restoration",
+      "primaryCategoryId": "cat-05",
+      "secondaryCategoryIds": [
+        "cat-08"
+      ],
+      "terms": [
+        "softscape",
+        "soft surface",
+        "turf",
+        "sod",
+        "seed",
+        "topsoil",
+        "landscaping",
+        "gravel",
+        "crusher fines",
+        "unimproved",
+        "shoulder"
+      ]
+    },
+    {
+      "conceptId": "patch_geometry_depths_timeframes",
+      "label": "Patch geometry / depths / timeframes",
+      "primaryCategoryId": "cat-05",
+      "secondaryCategoryIds": [],
+      "terms": [
+        "t-patch",
+        "t patch",
+        "tpatch",
+        "sawcut",
+        "saw cut",
+        "depth",
+        "thickness",
+        "temp patch",
+        "temporary patch",
+        "permanent patch",
+        "restore timeline",
+        "time window"
+      ]
+    },
+    {
+      "conceptId": "restoration_quality_proofroll",
+      "label": "Restoration quality / proof roll",
+      "primaryCategoryId": "cat-05",
+      "secondaryCategoryIds": [
+        "cat-07"
+      ],
+      "terms": [
+        "proof roll",
+        "proofroll",
+        "settlement",
+        "rutting",
+        "warranty",
+        "maintenance period"
+      ]
+    },
+    {
+      "conceptId": "water_system",
+      "label": "Water system",
+      "primaryCategoryId": "cat-06",
+      "secondaryCategoryIds": [
+        "cat-07"
+      ],
+      "terms": [
+        "water",
+        "water main",
+        "water service",
+        "service line",
+        "service",
+        "tap",
+        "tap install",
+        "valve",
+        "gate valve",
+        "hydrant",
+        "fire hydrant",
+        "meter",
+        "meter pit",
+        "meter box",
+        "blowoff",
+        "flushing"
+      ]
+    },
+    {
+      "conceptId": "sewer_sanitary",
+      "label": "Sanitary sewer",
+      "primaryCategoryId": "cat-06",
+      "secondaryCategoryIds": [
+        "cat-07"
+      ],
+      "terms": [
+        "sewer",
+        "sanitary",
+        "sanitary sewer",
+        "sewer main",
+        "lateral",
+        "service lateral",
+        "manhole",
+        "mh",
+        "cleanout",
+        "invert"
+      ]
+    },
+    {
+      "conceptId": "stormwater_system",
+      "label": "Stormwater system",
+      "primaryCategoryId": "cat-06",
+      "secondaryCategoryIds": [
+        "cat-08"
+      ],
+      "terms": [
+        "storm",
+        "stormwater",
+        "storm drain",
+        "inlet",
+        "di",
+        "catch basin",
+        "cb",
+        "curb inlet",
+        "culvert",
+        "outfall",
+        "headwall",
+        "ditch",
+        "swale",
+        "storm pipe"
+      ]
+    },
+    {
+      "conceptId": "gas_system",
+      "label": "Gas system",
+      "primaryCategoryId": "cat-06",
+      "secondaryCategoryIds": [
+        "cat-07"
+      ],
+      "terms": [
+        "gas",
+        "gas main",
+        "gas service",
+        "regulator",
+        "riser",
+        "gas meter",
+        "meter"
+      ]
+    },
+    {
+      "conceptId": "electric_telecom_fiber",
+      "label": "Electric / telecom / fiber (systems)",
+      "primaryCategoryId": "cat-06",
+      "secondaryCategoryIds": [
+        "cat-04"
+      ],
+      "terms": [
+        "electric",
+        "electrical",
+        "power",
+        "transformer",
+        "streetlight",
+        "light pole",
+        "telecom",
+        "telecommunication",
+        "telecommunications",
+        "communications",
+        "comms",
+        "fiber",
+        "fiber optic",
+        "handhole",
+        "splice enclosure",
+        "vault",
+        "pull box",
+        "junction box",
+        "pedestal",
+        "duct",
+        "microduct",
+        "innerduct",
+        "fiber drop"
+      ]
+    },
+    {
+      "conceptId": "conduit_ductbank",
+      "label": "Conduit / duct bank / sleeves",
+      "primaryCategoryId": "cat-06",
+      "secondaryCategoryIds": [
+        "cat-04"
+      ],
+      "terms": [
+        "conduit",
+        "duct bank",
+        "ductbank",
+        "raceway",
+        "sleeve",
+        "spare conduit",
+        "duct"
+      ]
+    },
+    {
+      "conceptId": "testing_responsibility_witnessing",
+      "label": "Testing responsibility / witnessing",
+      "primaryCategoryId": "cat-07",
+      "secondaryCategoryIds": [
+        "cat-01"
+      ],
+      "terms": [
+        "who tests",
+        "who performs test",
+        "witness",
+        "witness test",
+        "city witness",
+        "third party",
+        "certify",
+        "certification",
+        "submit results"
+      ]
+    },
+    {
+      "conceptId": "compaction_density_verification",
+      "label": "Compaction / density verification",
+      "primaryCategoryId": "cat-07",
+      "secondaryCategoryIds": [
+        "cat-04"
+      ],
+      "terms": [
+        "compaction test",
+        "density test",
+        "proctor",
+        "nuclear gauge",
+        "sand cone",
+        "lift verification",
+        "compaction report"
+      ]
+    },
+    {
+      "conceptId": "pavement_concrete_verification",
+      "label": "Pavement / concrete verification",
+      "primaryCategoryId": "cat-07",
+      "secondaryCategoryIds": [
+        "cat-05"
+      ],
+      "terms": [
+        "proof roll",
+        "cores",
+        "coring",
+        "thickness check",
+        "tickets",
+        "batch tickets",
+        "slump test",
+        "air test"
+      ]
+    },
+    {
+      "conceptId": "pipeline_acceptance_testing",
+      "label": "Pipeline acceptance testing",
+      "primaryCategoryId": "cat-07",
+      "secondaryCategoryIds": [
+        "cat-06"
+      ],
+      "terms": [
+        "pressure test",
+        "leak test",
+        "mandrel",
+        "deflection test",
+        "air test",
+        "cctv",
+        "televising",
+        "tv inspection",
+        "chlorination",
+        "disinfection",
+        "bacteriological test"
+      ]
+    },
+    {
+      "conceptId": "results_documentation_acceptance",
+      "label": "Results / documentation / acceptance",
+      "primaryCategoryId": "cat-07",
+      "secondaryCategoryIds": [
+        "cat-01"
+      ],
+      "terms": [
+        "test report",
+        "results",
+        "pass/fail",
+        "acceptance criteria",
+        "sign off",
+        "approval",
+        "acceptance"
+      ]
+    },
+    {
+      "conceptId": "erosion_control_bmps",
+      "label": "Erosion control / BMPs",
+      "primaryCategoryId": "cat-08",
+      "secondaryCategoryIds": [],
+      "terms": [
+        "erosion control",
+        "bmp",
+        "bmps",
+        "silt fence",
+        "wattles",
+        "straw wattles",
+        "sediment control",
+        "inlet protection",
+        "rock sock",
+        "runoff"
+      ]
+    },
+    {
+      "conceptId": "dewatering_discharge",
+      "label": "Dewatering / discharge",
+      "primaryCategoryId": "cat-08",
+      "secondaryCategoryIds": [],
+      "terms": [
+        "dewatering",
+        "pumping",
+        "discharge",
+        "sediment bag",
+        "filtration",
+        "turbidity",
+        "dirty water",
+        "groundwater"
+      ]
+    },
+    {
+      "conceptId": "spill_contamination_response",
+      "label": "Spill / contamination response",
+      "primaryCategoryId": "cat-08",
+      "secondaryCategoryIds": [
+        "cat-01"
+      ],
+      "terms": [
+        "spill",
+        "contamination",
+        "leak",
+        "fuel spill",
+        "concrete washout",
+        "cleanup",
+        "reportable spill"
+      ]
+    },
+    {
+      "conceptId": "storm_protection_during_work",
+      "label": "Storm protection during work",
+      "primaryCategoryId": "cat-08",
+      "secondaryCategoryIds": [
+        "cat-06"
+      ],
+      "terms": [
+        "protect inlet",
+        "protect catch basin",
+        "keep debris out",
+        "inlet blocked",
+        "debris in storm"
+      ]
+    },
+    {
+      "conceptId": "encroachments_obstructions",
+      "label": "Encroachments / obstructions",
+      "primaryCategoryId": "cat-09",
+      "secondaryCategoryIds": [
+        "cat-01"
+      ],
+      "terms": [
+        "encroachment",
+        "obstruction",
+        "row use",
+        "private use",
+        "blocking sidewalk",
+        "blocking row",
+        "unauthorized"
+      ]
+    },
+    {
+      "conceptId": "vegetation_clearance_sightlines",
+      "label": "Vegetation clearance / sightlines",
+      "primaryCategoryId": "cat-09",
+      "secondaryCategoryIds": [
+        "cat-10"
+      ],
+      "terms": [
+        "overgrown",
+        "hedge",
+        "branches",
+        "tree clearance",
+        "sight distance",
+        "sight triangle",
+        "visibility",
+        "vegetation in row"
+      ]
+    },
+    {
+      "conceptId": "fences_walls_private_improvements",
+      "label": "Fences / private improvements",
+      "primaryCategoryId": "cat-09",
+      "secondaryCategoryIds": [],
+      "terms": [
+        "fence",
+        "wall",
+        "retaining wall",
+        "planter",
+        "private improvement",
+        "landscaping in row"
+      ]
+    },
+    {
+      "conceptId": "access_driveways_frontage",
+      "label": "Access / driveways / frontage",
+      "primaryCategoryId": "cat-09",
+      "secondaryCategoryIds": [
+        "cat-10"
+      ],
+      "terms": [
+        "driveway",
+        "access",
+        "curb cut",
+        "apron",
+        "frontage"
+      ]
+    },
+    {
+      "conceptId": "ada_curb_ramps_detectable",
+      "label": "ADA curb ramps / detectable",
+      "primaryCategoryId": "cat-10",
+      "secondaryCategoryIds": [],
+      "terms": [
+        "ada",
+        "curb ramp",
+        "detectable warning",
+        "truncated domes",
+        "handrail"
+      ]
+    },
+    {
+      "conceptId": "slopes_crossslopes_clearwidth",
+      "label": "Slopes / cross-slopes / clear width",
+      "primaryCategoryId": "cat-10",
+      "secondaryCategoryIds": [],
+      "terms": [
+        "slope",
+        "cross slope",
+        "cross-slope",
+        "grade",
+        "running slope",
+        "clear width",
+        "level landing",
+        "landing"
+      ]
+    },
+    {
+      "conceptId": "bike_facilities_permanent",
+      "label": "Bike facilities (permanent)",
+      "primaryCategoryId": "cat-10",
+      "secondaryCategoryIds": [],
+      "terms": [
+        "bike lane",
+        "bike path",
+        "buffered bike lane",
+        "striping",
+        "bike markings",
+        "sharrow",
+        "sharrows"
+      ]
+    },
+    {
+      "conceptId": "transit_stops_public_realm",
+      "label": "Transit stops / public realm",
+      "primaryCategoryId": "cat-10",
+      "secondaryCategoryIds": [],
+      "terms": [
+        "bus stop",
+        "bus pad",
+        "shelter",
+        "boarding area",
+        "public realm",
+        "streetscape",
+        "plaza"
+      ]
+    }
+  ]
+}

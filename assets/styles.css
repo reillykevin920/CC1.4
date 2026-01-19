@@ -1,0 +1,192 @@
+
+/*
+  Civic Compass – visual system
+  Target: "field-grade municipal tool with quiet SaaS polish"
+  Palette: alpine green / sandstone / off-white (low-glare, high-legibility)
+*/
+:root{
+  --bg:#f7f4ee;          /* off-white */
+  --panel:#ffffff;       /* primary surface */
+  --panel2:#f1e8dc;      /* sandstone surface */
+  --text:#132019;        /* deep evergreen/ink */
+  --muted:#4f5f54;       /* subdued green-gray */
+  --border:#d8cdbd;      /* warm border */
+  --accent:#2f5d50;      /* alpine green */
+  --accent2:#b27a4b;     /* sandstone accent */
+  --shadow: 0 10px 26px rgba(19,32,25,.08);
+  --shadow2: 0 6px 14px rgba(19,32,25,.06);
+}
+*{box-sizing:border-box;}
+body{
+  margin:0;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  background:var(--bg);
+  color:var(--text);
+}
+.topbar{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-end;
+  padding:18px 18px;
+  border-bottom:1px solid var(--border);
+  background:linear-gradient(180deg,#ffffff,var(--bg));
+}
+.brand{display:flex;align-items:center;gap:12px;}
+.logo{width:34px;height:34px;border-radius:10px;box-shadow:var(--shadow2);border:1px solid var(--border);background:#ffffff;}
+.title h1{margin:0;font-size:20px;letter-spacing:.2px;}
+.subtitle{margin-top:4px;color:var(--muted);font-size:12px;}
+.status{color:var(--muted);font-size:12px;}
+.container{max-width:1100px;margin:0 auto;padding:16px 18px;}
+.controls{
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+  align-items:stretch;
+  background:var(--panel);
+  border:1px solid var(--border);
+  border-radius:14px;
+  padding:14px;
+  box-shadow: var(--shadow2);
+}
+.search{
+  width:100%;
+  padding:12px 12px;
+  border-radius:12px;
+  border:1px solid var(--border);
+  background:#ffffff;
+  color:var(--text);
+  font-size:14px;
+}
+.search:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px rgba(47,93,80,.14);} 
+.chips{display:flex;gap:8px;flex-wrap:wrap;}
+.chip{padding:6px 10px;border-radius:999px;border:1px solid var(--border);background:var(--panel2);color:var(--text);font-size:12px;cursor:pointer;}
+.chip:hover{border-color:var(--accent);}
+.filters{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-start;}
+.chips{display:flex;gap:8px;flex-wrap:wrap;}
+.chip{padding:6px 10px;border-radius:999px;border:1px solid var(--border);background:var(--panel);color:var(--text);font-size:12px;cursor:pointer;}
+.chip:hover{border-color:var(--accent);} 
+.filter{padding:8px 10px;border-radius:12px;border:1px solid var(--border);background:var(--panel);color:var(--text);font-size:13px;cursor:pointer;}
+.filter.active{border-color:var(--accent);box-shadow:0 0 0 3px rgba(47,93,80,.16) inset;background:rgba(47,93,80,.06);}
+
+.mode{padding:8px 10px;border-radius:12px;border:1px solid var(--border);background:var(--panel);color:var(--text);font-size:13px;cursor:pointer;}
+.mode.active{border-color:var(--accent);box-shadow:0 0 0 3px rgba(47,93,80,.16) inset;background:rgba(47,93,80,.06);}
+
+.why{margin-top:8px;font-size:12px;color:var(--muted);}
+.meta{display:flex;gap:10px;justify-content:flex-start;align-items:center;color:var(--muted);font-size:12px;}
+.link{background:transparent;border:none;color:var(--accent);cursor:pointer;padding:6px 8px;border-radius:10px;}
+.link:hover{background:rgba(47,93,80,.08);}
+.results{margin-top:14px;}
+
+.footer{
+  max-width:1100px;
+  margin:18px auto 40px;
+  padding:0 18px;
+  color:var(--muted);
+}
+.footer details{background:transparent;}
+.footer summary{
+  cursor:pointer;
+  padding:10px 12px;
+  border:1px solid var(--border);
+  border-radius:12px;
+  background:rgba(255,255,255,.6);
+  box-shadow:var(--shadow2);
+  font-size:12px;
+  color:var(--text);
+}
+.footer summary:hover{border-color:var(--accent);}
+.footer-body{
+  margin-top:10px;
+  padding:12px 12px;
+  border:1px solid var(--border);
+  border-radius:12px;
+  background:rgba(255,255,255,.8);
+  box-shadow:var(--shadow2);
+  font-size:12px;
+  line-height:1.45;
+}
+.footer-body p{margin:0 0 10px;}
+.footer-body p:last-child{margin-bottom:0;}
+.group{margin:14px 0 18px;}
+.group h2{margin:0 0 8px;font-size:14px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;}
+.card{border:1px solid var(--border);background:var(--panel);border-radius:14px;padding:12px;margin:10px 0;box-shadow:var(--shadow2);}
+.card-top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;}
+.badges{display:flex;gap:8px;flex-wrap:wrap;}
+.badge{font-size:11px;color:var(--muted);border:1px solid var(--border);padding:3px 8px;border-radius:999px;background:var(--bg);}
+.badge strong{color:var(--text);font-weight:600;}
+.heading{font-size:14px;margin:8px 0 6px;}
+.snip{margin:0;color:var(--text);opacity:.92;white-space:pre-wrap;line-height:1.35;}
+.why{margin-top:6px;color:var(--muted);font-size:12px;line-height:1.25;}
+.actions{margin-top:10px;display:flex;gap:10px;justify-content:flex-end;}
+.btn{padding:9px 12px;border-radius:12px;border:1px solid var(--border);background:var(--panel);color:var(--text);cursor:pointer;font-size:13px;}
+.btn:hover{border-color:var(--accent);box-shadow:0 0 0 3px rgba(47,93,80,.12);} 
+.modal{border:none;border-radius:16px;max-width:900px;width:calc(100% - 24px);padding:0;background:var(--panel);color:var(--text);box-shadow:var(--shadow);} 
+.modal::backdrop{background:rgba(0,0,0,.65);}
+.modal-header{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;padding:14px 14px;border-bottom:1px solid var(--border);}
+.m-title{font-size:14px;font-weight:700;}
+.m-sub{margin-top:4px;color:var(--muted);font-size:12px;}
+.m-text{margin:0;padding:14px;white-space:pre-wrap;max-height:70vh;overflow:auto;font-size:13px;line-height:1.4;background:var(--panel2);}
+
+/* Civic Compass UI additions */
+.filter-row{display:flex;gap:10px;flex-wrap:wrap;align-items:flex-end;margin-top:10px;}
+.filter-label{display:flex;flex-direction:column;gap:6px;font-size:12px;color:var(--muted);}
+.select{min-width:180px;max-width:320px;padding:10px 12px;border-radius:12px;border:1px solid var(--border);background:var(--panel);color:var(--text);font-size:13px;}
+.select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px rgba(47,93,80,.14);} 
+
+/* Quick category tiles (below dropdown) */
+.catboxes{display:flex;gap:8px;flex-wrap:wrap;margin-top:2px;}
+.catbox{padding:8px 10px;border-radius:12px;border:1px solid var(--border);background:var(--panel2);color:var(--text);font-size:12.5px;cursor:pointer;}
+.catbox:hover{border-color:var(--accent);}
+.catbox.active{border-color:var(--accent);box-shadow:0 0 0 3px rgba(47,93,80,.16) inset;background:rgba(47,93,80,.08);} 
+
+/* Query highlight inside snippets */
+.hit{display:inline-block;padding:0 2px;border-radius:6px;box-shadow:0 0 0 2px rgba(47,93,80,.16) inset;background:rgba(47,93,80,.10);} 
+
+.verbatim-block{margin-top:10px;border-top:1px solid var(--border);padding-top:10px;}
+.verbatim-text{white-space:pre-wrap;word-break:break-word;max-height:420px;overflow:auto;border:1px solid var(--border);border-radius:12px;padding:12px;background:var(--bg);color:var(--text);font-size:12.5px;line-height:1.4;}
+.verbatim-meta{padding:10px 12px;border:1px solid var(--border);border-radius:12px;background:var(--panel);}
+.verbatim-meta .muted{color:var(--muted);font-size:12px;margin-top:4px;}
+.hidden{display:none;}
+
+/* Collapsible category groups (below search) */
+.catgroup{border:1px solid var(--border);border-radius:14px;background:var(--panel2);margin:12px 0;overflow:hidden;box-shadow:var(--shadow2);} 
+.catgroup-summary{cursor:pointer;padding:12px 12px;display:flex;align-items:center;justify-content:space-between;gap:12px;background:rgba(255,255,255,.65);color:var(--text);} 
+.catgroup-summary:hover{border-color:var(--accent);}
+.catgroup-title{font-size:13px;}
+.catgroup-count{font-size:12px;color:var(--muted);border:1px solid var(--border);padding:2px 8px;border-radius:999px;background:transparent;}
+.catgroup-body{padding:10px 12px;}
+.catgroup[open] .catgroup-summary{box-shadow:0 0 0 3px rgba(47,93,80,.12) inset;} 
+.catgroup > summary{list-style:none;}
+.catgroup > summary::-webkit-details-marker{display:none;}
+
+/* Read-through mode */
+.reader-header{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;padding:12px 12px;border:1px solid var(--border);border-radius:14px;background:var(--panel2);margin:12px 0;box-shadow:var(--shadow2);} 
+.reader-title{font-size:14px;font-weight:700;}
+.reader-sub{font-size:12px;color:var(--muted);margin-top:2px;}
+.reader-titlewrap{display:flex;flex-direction:column;gap:2px;}
+.reader-controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap;justify-content:flex-end;}
+.reader-body{display:flex;flex-direction:column;gap:10px;margin-top:10px;}
+.reader-section{border:1px solid var(--border);border-radius:14px;background:var(--panel);padding:10px 12px;box-shadow:var(--shadow2);} 
+.reader-section-heading{font-size:13px;font-weight:700;margin-bottom:6px;}
+.reader-section-text{white-space:pre-wrap;word-break:break-word;max-height:520px;overflow:auto;border:1px solid var(--border);border-radius:12px;padding:12px;background:var(--bg);color:var(--text);font-size:12.5px;line-height:1.4;}
+
+/* Footer / disclaimer */
+.footer{max-width:1100px;margin:0 auto;padding:0 18px 24px;color:var(--muted);} 
+.footer details{margin-top:18px;border:1px solid var(--border);border-radius:14px;background:rgba(255,255,255,.7);box-shadow:var(--shadow2);}
+.footer summary{cursor:pointer;padding:12px 14px;font-size:12px;font-weight:700;color:var(--text);list-style:none;}
+.footer summary::-webkit-details-marker{display:none;}
+.footer-body{padding:0 14px 14px;font-size:12px;line-height:1.45;}
+.footer-brand{display:flex;align-items:center;gap:10px;margin-top:12px;margin-bottom:10px;}
+.footer-logo{width:28px;height:28px;border-radius:10px;border:1px solid var(--border);box-shadow:var(--shadow2);background:#ffffff;}
+.footer-name{font-weight:700;color:var(--text);font-size:12px;}
+.footer-tag{font-size:12px;}
+.footer-body p{margin:10px 0;}
+
+/* Small quality-of-life: improve touch targets on mobile */
+@media (max-width: 720px){
+  .container{padding:14px 14px;}
+  .topbar{padding:16px 14px;}
+  .footer{padding:0 14px 22px;}
+  .select{min-width: 160px;}
+  .btn{padding:10px 12px;}
+}

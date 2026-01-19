@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "id": "cat-01",
+      "label": "Permitting & Process",
+      "order": 1
+    },
+    {
+      "id": "cat-02",
+      "label": "Subsurface Risk & Locates",
+      "order": 2
+    },
+    {
+      "id": "cat-03",
+      "label": "Traffic Control & Public Safety",
+      "order": 3
+    },
+    {
+      "id": "cat-04",
+      "label": "Excavation & Installation",
+      "order": 4
+    },
+    {
+      "id": "cat-05",
+      "label": "Surface & Site Restoration",
+      "order": 5
+    },
+    {
+      "id": "cat-06",
+      "label": "Utilities in the ROW",
+      "order": 6
+    },
+    {
+      "id": "cat-07",
+      "label": "Testing & Verification",
+      "order": 7
+    },
+    {
+      "id": "cat-08",
+      "label": "Drainage, Erosion & Environmental Controls",
+      "order": 8
+    },
+    {
+      "id": "cat-09",
+      "label": "Access, Encroachments & ROW Use",
+      "order": 9
+    },
+    {
+      "id": "cat-10",
+      "label": "Multimodal, ADA & Public Realm",
+      "order": 10
+    }
+  ]
+}

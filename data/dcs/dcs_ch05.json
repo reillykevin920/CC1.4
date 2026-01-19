@@ -1,0 +1,353 @@
+[
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.01(A)",
+    "heading": "Intent",
+    "page_start": 123,
+    "page_end": 123,
+    "verbatim": "The Water Design Standards establish minimum design standards for providing and maintaining\nthe public water utility distribution system."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.01(B)",
+    "heading": "Water Utility Master Plan",
+    "page_start": 123,
+    "page_end": 123,
+    "verbatim": "All improvements proposed to the City’s public water utility system shall conform with the goals,\npolicies, and standards adopted in the Water Utility Master Plan."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.01(C)",
+    "heading": "Reference Standards",
+    "page_start": 123,
+    "page_end": 123,
+    "verbatim": "Where not specified in these Standards or the B.R.C. 1981, to protect the public health, safety, and\nwelfare, the Director of Public Works will specify the standards to be applied to the design and\nconstruction of public water utility improvements and may refer to one or more of the references\nlisted in the References Section of these Standards."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.02(A)",
+    "heading": "Requirement",
+    "page_start": 123,
+    "page_end": 123,
+    "verbatim": "The Director of Public Works may require the preparation of a utility report in order to assess the\nimpacts and service demands of any project or development proposal connecting to the public\nwater distribution system. The utility report shall be prepared by the Engineer and include a\ntechnical report, preliminary plan, and connection and isolation plan as outlined in the following\nsubsections."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.02(B)",
+    "heading": "Report",
+    "page_start": 123,
+    "page_end": 124,
+    "verbatim": "The utility report shall provide an overview of the proposed project or development, proposed\nwater utility improvements, water service demands, system impact and feasibility, and basic design\nrequirements, and include the following information:\n(1) Water Demands: Include estimated water demands based on occupancy and building\ntype for the following conditions:\n(a) Peak Hour (gallons-per-minute),\n(b) Peak Day (gallons-per-minute),\n(c) Insurance Service Office (ISO) Fire Flows (gallons-per-minute), and\n(d) Irrigation (gallons-per-minute).\n(2) Conformance with Water Utility Master Plan: Describe how the proposed water utility\nimprovements conform with the adopted Water Utility Master Plan.\n(3) System Layout: Describe the proposed distribution system layout, including locations for\nconnections with the existing water utility system.\n(4) Network Analysis: Include a distribution network analysis as required by the Director,\nperformed through an EPANet or MWH InfoWater computer simulation, identifying any\nsystems impacts based on proposed demands and providing design solutions to ensure\nperpetuation of future water utility system growth and maintain system pressures and flow\nrates.\nNOTE: Computer simulations of hydraulic analyses are to be performed using electronic\ninput data for the existing water system provided by the City on EPANet software.\nComputer analyses are to be submitted in both hard copy and electronic format.\n(5) Main Sizing: Indicate the required sizing of proposed distribution mains based on water\ndemands.\n(6) Design Alternatives: Discuss alternative system layouts and methods of providing water\nservice, including an evaluation of each alternative and reasons for selecting the\nrecommended design.\n(7) Special Conditions: Identify any special conditions, such as the presence of erosive soils,\nconflicts with other utilities, unusual installation depths or oversizing requirements, that\nrequire special provisions for improvements construction."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.02(C)",
+    "heading": "Preliminary Plan",
+    "page_start": 124,
+    "page_end": 124,
+    "verbatim": "A preliminary plan shall be included in the utility report to provide a plan view and reference for\nthe proposed improvements, and identify issues addressed in the report. The preliminary plan is to\ninclude the following:\n(1) Preliminary Design: Illustrate proposed methods and alternatives for providing site\nwater distribution and service.\n(2) Property Boundaries: Reflect legal boundaries of the proposed project or development\nsite, including existing and proposed property and lot lines, existing and proposed rights-\nof-way and utility easements, and boundaries of abutting properties.\n(3) Topography: Include site topography at 2-foot interval contours, and the elevation and\nlocation of City-recognized benchmarks with reference to local, USGS and NGVD data.\n(4) System Area: Define and delineate the system area included in the network analysis.\n(5) Existing Utilities: Illustrate existing water utilities, including fire hydrants and valves,\nwithin 400 feet of the proposed development.\n(6) Unusual Features: Identify unusual features, such as creeks, drainage facilities,\nrailroads, and irrigation ditches, that might influence the location of underground utilities.\n(7) Proposed System Layout: Illustrate the general layout of the proposed water distribution\nmains, valves, and fire hydrant locations, including construction phasing."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.02(D)",
+    "heading": "Connection and Isolation Plan",
+    "page_start": 124,
+    "page_end": 125,
+    "verbatim": "A connection and isolation plan shall be provided in the utility report to identify proposed\nconnection points with the existing water systems and design conditions for providing required\nsystem isolation for maintenance and flushing. The connection and isolation plan is to include the\nfollowing:\n(1) Valve Locations: Identify all valves necessary to isolate a point of connection for the\nproposed water system onto the existing system. Existing system valves should be\ninspected for location and accessibility.\n(2) Thrust Restraint: Determine and include design and construction requirements for\nsufficient thrust restraint for existing water mains and valves at proposed connection\npoints (“stub outs” and terminal extensions) to allow construction while the existing water\nsystem remains in service.\n(3) System Isolation: Identify water main sections that can be isolated within the proposed\nand existing water systems that provide for emergency maintenance and identify discharge\npoints for system flushing."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.03(A)",
+    "heading": "Water Utility Master Plan",
+    "page_start": 125,
+    "page_end": 125,
+    "verbatim": "Where major water distribution mains, 12 inches or larger in diameter, are proposed to be\nconstructed in the Water Utility Master Plan, an applicant for construction approval shall provide\nfor the construction of the main as part of any development proposal, when the major distribution\nmain is:\n(1) Located within a proposed development.\n(2) Located within 1,000 feet of a proposed development and it is feasible to include\nconstruction of this main in the proposed development.\n(3) Required to provide adequate distribution service for the proposed development."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.03(B)",
+    "heading": "Main Extension Agreements",
+    "page_start": 125,
+    "page_end": 125,
+    "verbatim": "(1) When construction of a major distribution main is required, and the diameter of the major\ndistribution main is larger 12 inches and the minimum diameter required for local\ndistribution mains to serve the proposed development, an applicant for construction\napproval may enter into a \"main extension agreement\" with the City for reimbursement of\npublic improvements costs associated with the over-size construction of the major\ndistribution main, as prescribed under Sections 11-1-42, “Agreement to Extend Water\nMains,” and 11-1-43, “Reimbursement of Costs for Water Main Extension,” B.R.C. 1981.\n(2) When construction of an offsite major or local water distribution main is required to\nextend water service to a proposed development, an applicant for construction approval\nmay enter into a \"main extension agreement\" with the City for reimbursement of offsite\npublic improvements, as prescribed under Sections 11-1-42, “Agreement to Extend Water\nMains,” and 11-1-43, “Reimbursement of Costs for Water Main Extension,” B.R.C. 1981."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.04(A)",
+    "heading": "Water Distribution Mains",
+    "page_start": 125,
+    "page_end": 126,
+    "verbatim": "(1) The water distribution system (mains and looping) shall be designed to provide a\nminimum residual pressure of 20 pounds per square inch (psi), at ground surface, under\npeak day demand flow, plus the required ISO fire flow.\n(2) The water distribution system shall be designed to provide a minimum of 40 psi under\npeak hour demand flow, without fire flow.\n(3) The water distribution system shall be designed so that water main flow velocities do not\nexceed 4 feet per second under peak hour demand without fire flow and 8 feet per second\nunder peak day demand with fire flow.\n(4) Pressure and flow capacity data for both existing and future conditions for the City’s\nmajor water distribution system is to be obtained from the Utilities Division for use in the\ndesign and analysis of proposed improvements.\n(5) Table 5-1 indicates water demand forecasting for peak day conditions.\nTable 5-1: Peak Day Water Demands\nDevelopment Type Peak Day Demand\nResidential\nLow Density 180 gpcd\nMedium Density 150 gpcd\nHigh Density 75 gpcd\nCommercial 10,000 gpad\nIndustrial 12,000 gpad\n(6) Table 5-2 indicates water demand peaking factors for forecasting demands.\nTable 5-2: Peak Hour Factors\nDevelopment Type Maximum Hour Maximum/Day\nResidential\nLow Density 5.1 5.1\nMedium Density 5.0 2.5\nHigh-Density 5.0 2.0\nCommercial 2.5 2.5\nIndustrial 1.5 1.5\n(7) Water design flows that reduce the water system pressures below the acceptable levels or\nincrease water system flow velocities above the acceptable levels specified in this section or\nelsewhere in these Standards are considered detrimental to the overall system. In these\nsituations, the Director will deny project approval, or require the developer to provide\nadditional water system improvements, both onsite and offsite, to ensure no reduction in\nlevels of service."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.04(B)",
+    "heading": "Water Services",
+    "page_start": 126,
+    "page_end": 126,
+    "verbatim": "Design flows for water services shall be determined in conformance with the most current\nInternational Plumbing Code as adopted by the City."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.05",
+    "heading": "Materials and Installation",
+    "page_start": 126,
+    "page_end": 126,
+    "verbatim": "Construction of water-related public improvements shall be in compliance with these Standards.\nAll pipe shall be of adequate strength to support the trench and AASHTO HS-20 highway\nloadings. The type of pipe to be installed shall comply with these Standards, and shall be based\nupon applicable design flows, pressures, site conditions, corrosion protection, and maintenance\nrequirements."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.06",
+    "heading": "Corrosion Protection",
+    "page_start": 127,
+    "page_end": 127,
+    "verbatim": "Corrosion protection will be required for all water system improvements where corrosive soil\nconditions are encountered. The Engineer shall perform a soils resistivity survey to evaluate the\ncorrosion potential of soils in proposed projects or developments, and recommend any necessary\ncorrosion protection measures, such as alternative pipe type or cathodic protection. The Director\nwill review the soils resistivity survey and Engineer's recommendations and the service history for\nwater system corrosion in the area and determine the pipe type or protection to be used prior to\nconstruction plan approval."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.07(A)",
+    "heading": "Specifications",
+    "page_start": 127,
+    "page_end": 127,
+    "verbatim": "(1) Size: All water mains 16 inches or larger in diameter shall be classified as “transmission\nmains.”\n(2) Location: All transmission mains shall be installed in public rights-of-way or easements,\nas prescribed in Section 4.04, “Utilities Easements,” of these Standards.\n(3) Depth: All transmission mains shall have no less than 4.5 feet and no more than 10 feet\nof cover, measured from the top of pipe to the final surface grade.\n(4) Separations and Crossings: All transmission main separations and crossings of other\nCity utilities shall be designed in compliance with Section 4.06, “Separation of Utilities,”\nof these Standards."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.07(B)",
+    "heading": "Taps",
+    "page_start": 127,
+    "page_end": 127,
+    "verbatim": "(1) Minimum Tap Size: No main extension or fire hydrant taps smaller than 6 inches in\ndiameter shall be installed in any transmission main.\n(2) Service Line Taps Prohibited: Service line taps shall not be installed in any\ntransmission main.\n(3) Pressure Taps: Unless approved by the Director, all taps installed onto a transmission\nmain shall be made under “wet tap” conditions, using a tapping tee and valve, to allow the\ntransmission main to remain in service."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.07(C)",
+    "heading": "Valves",
+    "page_start": 127,
+    "page_end": 128,
+    "verbatim": "(1) Separation: Valve separation along transmission mains shall be no greater than 1,200\nfeet, measured along the alignment of the transmission main.\n(2) Valve Locations: Valves shall be installed at the following locations:\n(a) At all connections with transmission mains. Where a distribution main connects\nwith a transmission main, a valve shall be installed on the distribution main at the\ntransmission main.\n(b) Where necessary to ensure that no more than three valves must be closed to isolate\nany section of a transmission main. Two valves shall be installed at all tee-type\nconnections, and three valves shall be installed at all cross-type connections.\n(c) Where possible, valves shall be aligned with extensions of property lines or right-\nof-way lines. Valves shall not be placed in locations that may be subject to\nroutine parking or storage and shall not be placed within public sidewalks, multi-\nuse paths, or on-street bike lanes."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.07(D)",
+    "heading": "Relief Valves",
+    "page_start": 128,
+    "page_end": 128,
+    "verbatim": "(1) Air and Vacuum Release Valves: Air and vacuum release valves shall be installed in\ntransmission mains at all high points where an elevation differential of 20 feet exists along\nthe main.\n(2) Pressure Blow-Off Assemblies: Pressure blow-off assemblies shall be installed in\ntransmission mains at all low points where an elevation differential of 20 feet exists along\nthe main."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.07(E)",
+    "heading": "Ground Water Barriers",
+    "page_start": 128,
+    "page_end": 128,
+    "verbatim": "(1) Required: Where there exists a possibility that ground water may be diverted by the\nconstruction of new transmission mains, ground water barriers shall be constructed within\nthe trench to prevent ground water migration or diversion along the water main.\n(2) Placement: The Engineer shall determine the location and number of ground water\nbarriers that will be necessary to mitigate any ground water impacts, subject to review and\napproval by the Director. Any necessary support material required to address ground\nwater concerns, such as soils investigations, engineering calculations, and design details,\nshall be provided by the Engineer."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.08(A)",
+    "heading": "Specifications",
+    "page_start": 128,
+    "page_end": 128,
+    "verbatim": "(1) Size: Distribution mains shall be at least 8 inches in diameter.\n(2) Locations\n(a) All water mains shall be installed in public rights-of-way or easements, as\nprescribed under Section 4.04, “Utilities Easements,” of these Standards.\n(b) All platted lots, whether existing or proposed as part of a subdivision, shall front\non a distribution main.\n(3) Depth: All distribution mains shall have no less than 4.5 feet and no more than 10 feet of\ncover, measured from the top of pipe to the final surface grade. Where final grades have\nnot been established, mains shall be installed deep enough to ensure acceptable cover\nbelow the future grade based on the best available information. Under no condition shall a\nmain be installed with less than 4.5 feet of cover.\n(4) Separations and Crossings: All distribution main separations and crossings of other City\nutilities shall be designed in compliance with Section 4.06, “Separation of Utilities,” of\nthese Standards."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.08(B)",
+    "heading": "Taps",
+    "page_start": 128,
+    "page_end": 129,
+    "verbatim": "(1) Pressure Taps: All taps approved onto a distribution main shall be installed under “wet\ntap” conditions, using a tapping tee and valve, which allows the distribution main to\nremain in service at all times.\n(2) Tap Installation: All taps approved onto an existing distribution main will be made by\nthe City of Boulder Utilities Division and shall be paid for by the applicant."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.08(C)",
+    "heading": "Valves",
+    "page_start": 129,
+    "page_end": 129,
+    "verbatim": "(1) Where Required: Valves shall be installed as necessary on distribution mains to ensure\nthat:\n(a) No more than 600 feet of water main will be located between isolation valve\nzones (i.e., sections of main that may be taken out of service for maintenance\nactivities).\n(b) No more than two fire hydrants will be located between isolation valve zones.\n(c) No more than three valves will require closure to isolate any section of a\ndistribution main. Two valves shall be installed at all tee-type connections, and\nthree valves shall be installed at all cross-type connections.\n(d) Valves are to be aligned with extensions of property lines or right-of-way lines\nwhere possible. Valves shall not be placed within public sidewalks, multi-use\npaths, or on-street bike lanes.\n(2) Emergency Access: Valves shall be located to provide maximum accessibility for\nemergency access. Valves shall not be placed in locations that may be subject to routine\nparking or storage operations."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.08(D)",
+    "heading": "Looping and Terminal Mains",
+    "page_start": 129,
+    "page_end": 129,
+    "verbatim": "(1) Looping Required: All distribution mains shall be looped into the existing and proposed\nwater distribution system to ensure at least two feed sources and to maintain system\nstrength, except as allowed under Section 5.08(E) below.\n(2) Maximum Terminal Length: Where allowed, terminal (dead-end) distribution mains\nshall not be more than 600 feet long, measured along the entire centerline length of the\nterminal main from the connection main to the terminus.\n(3) Fire Hydrant on Terminal Mains: All terminal mains shall have a fire hydrant at the\nterminus and no more than two fire hydrants in total. Fire hydrant installations shall be\noffset from the terminus to ensure that the hydrant can be removed for maintenance while\nthe terminal main remains in service.\n(4) Service Taps: Service taps along terminal mains shall not be located closer than 3 feet to\nthe terminus nor located between the fire hydrant connection and the terminus."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.08(E)",
+    "heading": "Extensions",
+    "page_start": 129,
+    "page_end": 130,
+    "verbatim": "(1) Standards: Water distribution main extensions are subject to the requirements in Section\n11-1-41, “Extensions of Water Mains,” B.R.C. 1981, and these Standards.\n(2) System Perpetuation: Water mains shall extend to the far edge of the property being\nserved or to the edge of the platted subdivision, whichever is greater, to ensure\nperpetuation of the water distribution system. The location, size, and configuration of the\nproposed development or subdivision, with respect to the existing water distribution\nsystem, may dictate that water mains be extended to the far edge of more than one\nproperty or subdivision boundary to accommodate system perpetuation.\n(3) Exceptions: Exceptions to this subsection may be granted only if development of the\nadjacent property is not contemplated within 5 years or is classified as Area III under the\nBoulder Valley Comprehensive Plan. In these cases, an easement for extending the system\nshall be granted by the property owner."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.08(F)",
+    "heading": "Future Connections",
+    "page_start": 130,
+    "page_end": 130,
+    "verbatim": "(1) Isolation Valve Required: When future main extensions are provided for by “stub out”\nor terminal connections, the stub out or terminal main extension shall be valved so that\nonly one valve must be closed when the future main is extended. The valve shall be\nrestrained to the existing distribution main to allow closure of the stub out or terminal\nmain section without creating a pressure separation of the valve from the in-service\ndistribution main.\n(2) Valve Restraint: Valve restraint may be ensured by the use of a direct swivel connector\nor adapter, or by providing a pipeline extension that can restrain the valve through\nfrictional resistance. All future connections designed at perpendicular angles to the\nexisting distribution main shall include a valve on the extension that is directly attached to\nthe existing main. Where valve restraint through frictional resistance of extended pipe line\nsections is proposed, the Engineer shall determine the necessary pipe length required to\nprovide adequate frictional resistance, subject to review and approval by the Director.\n(3) Testing: When future connections are made, the entire main beyond the stub out or\nterminal main extension shall be flushed, chlorinated, and pressure tested.\n(4) Service Taps Prohibited: No service taps shall be allowed on a stub out or on a terminal\nmain beyond the isolation valve."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.08(G)",
+    "heading": "Ground Water Barriers",
+    "page_start": 130,
+    "page_end": 130,
+    "verbatim": "(1) Required: Where there exists a possibility that ground water may be diverted by the\nconstruction of new distribution mains, ground water barriers shall be constructed within\nthe trench to prevent ground water migration or diversion along the water main.\n(2) Placement: The Engineer shall determine the location and number of ground water\nbarriers that will be necessary to mitigate any ground water impacts, subject to review and\napproval by the Director. Any necessary support material required to address ground\nwater concerns, such as soils investigations, engineering calculations and design details,\nshall be provided by the Engineer."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.09(A)",
+    "heading": "General",
+    "page_start": 130,
+    "page_end": 131,
+    "verbatim": "(1) Standards: Water services are water system extensions that are tapped onto the\ndistribution system to provide water to consumers. Water services are subject to the\nrequirements of these Standards and Section 11-1-20, “Taps or Connections to Water\nMains,” and Section 11-1-21, “Water Service Lines,” B.R.C., 1981.\n(2) Water Meters: Water services shall include the installation of a meter and shall be\nsubject to the requirements of these Standards and the conditions of Sections 11-1-34,\n“Meter and Appurtenances to be Purchased by User,” Section 11-1-35, “Meter Size\nRequirements,” and Section 11-1-36, “Location and Installation of Meters; Maintenance\nof Access to Meters,” B.R.C. 1981.\n(3) Separate Services to Lots: All platted lots, whether existing or proposed as part of a\nsubdivision, shall front on and have a separate water service connection to a distribution\nmain without crossing adjacent lots.\n(4) Service Alignment: When the water service is located in the public right-of-way or\neasement, the service shall be installed perpendicular to the distribution main, up to and\nincluding the meter and pit. Where this is not possible, the water service alignment shall\nbe subject to the determination of the Director.\n(5) Pressure Boosters Prohibited: No pressure booster of any kind is allowed on any water\nservice."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.09(B)",
+    "heading": "Domestic Services",
+    "page_start": 131,
+    "page_end": 132,
+    "verbatim": "(1) Separate Services to Structures: Each principal structure shall be served by a separate\nwater service line and meter connected to the distribution main. Where more than one\nprincipal structure is proposed on a single lot, an additional water service line and meter\nwill be required for each additional principal structure.\n(2) Accessory Buildings or Structures: An accessory building or structure, as defined under\nSubsection 9-16-1(c), “General Definitions,” B.R.C. 1981, may draw limited service from\na principal building or structure without a separate water service, subject to the following:\n(a) If the accessory structure contains no toilet and no bathtub or shower fixtures, the\naccessory structure is limited to the following plumbing fixtures:\n(i) Sink (one fixture),\n(ii) Clothes washer connection (one set),\n(iii) Hose bib or sill cock (one fixture),\n(iv) Floor drain (one fixture), and\n(v) Interceptor (one fixture).\n(b) If the accessory structure is proposed to have a sink and toilet, the accessory\nstructure shall not contain any additional sinks or toilets nor a bathtub or shower\nfixture, shall not be used as a separate dwelling unit, may not be located on a\nproperty that can be subdivided into separate lots, and shall be limited to the\nfollowing additional plumbing fixtures:\n(i) Sink (one fixture),\n(ii) Toilet (one fixture),\n(iii) Floor drain (one fixture), and\n(iv) Interceptor (one fixture).\n(c) An approved detached accessory dwelling unit, as defined under Subsection 9-16-\n1(c), “General Definitions,” B.R.C. 1981, is not subject to this section’s plumbing\nfixture limitations.\n(d) The Director of Public Works may permit water hookups and meters separate\nfrom a principal detached dwelling unit only upon finding that topography or\nother physical circumstances make utility connections to the principal structure\nimpractical.\n(3) Services Crossing Lots: Domestic water services crossing one lot to provide service to\nan adjacent lot may be approved if all of the following conditions are met:\n(a) The service crossing is part of a proposed subdivision creating only two lots.\n(b) A utility easement at least 10 feet wide is provided across, and situated entirely\nwithin, the boundaries of the proposed subdivision. The easement is to be granted\nto the City for the benefit of the property owner being served and is to be\noccupied by the water service line only, or by the water and wastewater service\nlines only if the water and wastewater service lines are installed in compliance the\nIPC, as adopted by the City.\n(c) The Director determines that a water main extension is not necessary to perpetuate\nthe system, or that future development of abutting properties cannot benefit from a\nmain extension.\n(d) The water service line is to be centered in the easement and be at least 5 feet from\nother utilities, except for a combined water/wastewater service installation as\nallowed under the IPC, as adopted by the City."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.09(C)",
+    "heading": "Irrigation Services",
+    "page_start": 132,
+    "page_end": 132,
+    "verbatim": "(1) Separate Service: With the exception of single-family residential properties, all irrigation\nservices shall have a separate service line and meter.\n(2) Property to be Served: Irrigation service lines shall serve no more than one individual\nproperty, unless approved by the Director under the provisions of a homeowners\nassociation. Where irrigation services serve more than one individual property, the plant\ninvestment fee (PIF) and associated credit shall apply to the individual property where the\nwater meter is located and the service originates.\n(3) Building Connection Prohibited: Irrigation service shall not connect with any building\nor structure or with any other consumptive-use water service.\n(4) Reduced Pressure Assembly Required: All irrigation systems with a separate, metered\nservice line shall have a reduced pressure principle assembly installed in compliance with\nall applicable City regulations and standards."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.10(A)",
+    "heading": "Fire Hydrants",
+    "page_start": 132,
+    "page_end": 133,
+    "verbatim": "(1) Standards: All fire hydrants shall be installed in compliance with these Standards.\n(2) Easements: All fire hydrants shall be installed within public rights-of-way or easements\nas prescribed in Section 4.04, “Utilities Easements.” Easements shall be a minimum of 25\nfeet in width and extend at least 10 feet beyond the hydrant assembly.\n(3) Placement: The placement of fire hydrants shall comply with the International Fire Code,\nas adopted with local amendments under Chapter 10-8, “Fire Code,” B.R.C. 1981, and the\nfollowing requirements:\n(a) Fire hydrants shall be placed at the entrance or intersection for each street, with a\nhydrant place on each side of any divided roadway.\n(b) In a single-family residential area, there shall be no more than 500 feet of fire\naccess distance between hydrants. No dwelling unit shall be over 250 feet of fire\naccess distance from the nearest hydrant.\n(c) In all other areas, there shall be no more that 350 feet of fire access distance\nbetween hydrants. No exterior portion of any building shall be over 175 feet of\nfire access distance from the nearest hydrant.\nNOTE: Fire access distance means the distance between two hydrants, or the\ndistance from a hydrant to any external portion of any building, measured along\npublic or private (but accessible to fire equipment) roadways or fire lanes, as\nwould be traveled by motorized firefighting equipment.\n(4) Alignment with Property Lines: Hydrants shall be aligned with an extension of the\nproperty line when located midblock.\n(5) Horizontal Clearances: Hydrants shall be placed no farther than 5 feet behind the curb,\noutside of any fenced area, and have a 10-foot radius of clearance to adjacent obstacles\n(fences, walls, shrubs, trees, etc.).\n(6) Vertical Clearances: Hydrants shall have the lowest water outlet not less than 18 inches\nor more than 30 inches above the final ground elevation.\n(7) Colors: The hydrants’ color shall be Rustoleum No. 831 \"restful green\" or “KWAL”\nhydrant green except for bonnet, weather caps, and nozzle caps, which must be Rustoleum\nNo. 2766 \"reflectorized white\" unless otherwise specified by the Director of Public\nWorks."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.10(B)",
+    "heading": "Fire Sprinkler Lines",
+    "page_start": 133,
+    "page_end": 134,
+    "verbatim": "(1) Dedicated Line: A fire sprinkler line for any structure or building, other than a single-\nfamily or duplex residential structure, which is either required to be installed by the\nBoulder Fire Department or installed voluntarily by the applicant, shall be a separate\ndedicated fire sprinkler line tapped at the water distribution main. The minimum tap and\nvalve diameter size for a dedicated fire sprinkler line shall be 4 inches. The property\nowner may choose to reduce the line diameter, as needed, beyond the City-maintained\nvalve in the property owner-maintained portion of the fire sprinkler line. The City shall not\nbe responsible for maintenance beyond the first valve on the line.\n(2) Maintenance Responsibility: The property owner shall be responsible for maintaining\nall dedicated fire sprinkler lines beyond the valve at the main distribution line. It is the\nproperty owners’ responsibility to ensure all City owned and maintained valves are visible\nand not covered by landscape materials, concrete or asphalt.\n(3) Service Taps Prohibited: No taps will be approved onto a fire sprinkler line for any\npurpose other than the fire sprinkler system. Combination fire sprinkler/service lines for\ndomestic or irrigation services will not be approved, except as allowed in Subsection\n(B)(4), below.\n(4) Combination Line: A single-family or duplex residential structure may have a\ncombination fire sprinkler/domestic service line from the City's water distribution main to\nthe water meter, if the following conditions are met:\n(a) The combination line shall be sized to convey maximum domestic service and fire\nsprinkler protection service flows. The combination line size shall be 1 inch in\ndiameter; otherwise, the combination line shall be separated into a dedicated fire\nsprinkler line and separate domestic service line, each tapped at the distribution\nmain.\n(b) The combination line shall separate at the water meter pit into a domestic service\nline (with meter) and a dedicated fire sprinkler line (without meter, but with\noriseal shutoff).\n(c) Beyond the water meter pit, both the domestic and fire sprinkler water service\nlines may be placed in the same trench. However, they may not be tied back\ntogether in any manner, and they may not have any type of cross-connection either\ninside or outside the structure.\n(d) The property owner is responsible for maintaining the domestic service and the\nfire sprinkler lines beyond the water meter pit.\nNOTE: Section 5.11, “Cross-Connection Regulations,” of these Standards,\nidentifies the requirements for cross-connection control and backflow prevention\nas they apply to fire sprinkler systems."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.11(A)",
+    "heading": "Purpose",
+    "page_start": 134,
+    "page_end": 134,
+    "verbatim": "The purpose of these standards is to protect the City water system from contamination or pollution by\nbackflow due to cross connections from owner water systems, and to a continuing program of cross\nconnection control to prevent the contamination or pollution of the City water system. For the purpose\nof this section, \"Contamination\" means any impairment of the quality of the potable water by pollution\nfrom sewage, industrial fluids or waste liquids, compounds or other materials to a degree which may\ncreate a hazard to the public health through poisoning or through the spread of disease."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.11(B)",
+    "heading": "Additional Regulations",
+    "page_start": 134,
+    "page_end": 134,
+    "verbatim": "(1) Sections 11-1-3, “Rules and Regulations,” and 11-1-25, “Duty to Maintain Backflow\nPrevention Assembly and Prevent Cross-Connection,” B.R.C. 1981.\n(2) The Colorado Cross Connection Control Manual"
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.11(C)",
+    "heading": "General Requirements",
+    "page_start": 134,
+    "page_end": 135,
+    "verbatim": "(1) If a backflow prevention assembly is required by the City, the Director of Public Works may\ngive notice in writing to the owner to install an approved backflow prevention assembly at\neach service connection to the premises. The owner shall install an approved assembly at\neach service connection to the premises at the owner's own expense.\n(2) No provision of this section exempts the owner from the cross-connection control provisions\nfor internal water distribution systems as contained in the International Plumbing Codes and\nother plumbing standards adopted by the B.R.C. 1981, or state or federal regulations\nregarding cross-connections.\n(3) No person shall operate an industrial fluids system, auxiliary water supply, or an owner water\nsystem that allows for the occurrence of a cross connection to the water utility.\n(4) There shall be no unprotected branches from the service line ahead of any meter or backflow\nprevention assembly located at the point of delivery to the owner's water system.\n(5) No person owning, managing, installing or repairing any water system shall fail to comply\nwith any of these rules."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.11(D)",
+    "heading": "Installation Required",
+    "page_start": 135,
+    "page_end": 135,
+    "verbatim": "(1) A backflow prevention assembly approved by the Director of Public Works shall be installed\nimmediately inside the structure being served, after the meter on private property, and before\nthe first branch line leading off the service line wherever any of the following conditions\nexist:\n(a) If a property has an auxiliary water supply which is not or may not be of safe\nbacteriological or chemical quality and which is not acceptable as an additional\nsource by the Director of Public Works, the water utility shall be protected against\nbackflow from the premises by installing a backflow prevention assembly in the\nservice line appropriate to the degree of hazard.\n(b) If a non-residential property that contains any liquid processes or fluids system or any\nother unapproved water system, the water utility shall be protected against backflow\nfrom the premises by installing a backflow prevention assembly in the service line\nappropriate to the degree of hazard.\n(c) In all premises that contain internal cross connections that cannot be permanently\ncorrected and controlled, or that contain intricate plumbing and piping arrangements,\nor where entry to all portions of the premises is not readily accessible for inspection\npurposes making it impracticable or impossible to ascertain whether or not dangerous\ncross connections exist, the water utility shall be protected against backflow from the\npremises by installing a backflow prevention assembly in the service line.\n(2) Installation shall be as approved by FCC and URC, USC list including vertical and horizontal\nassembly orientation.\n(3) Backflow prevention assemblies shall be installed in an accessible location to facilitate\ninspection, testing and maintenance without removal of the device. An adequate drainage\narea for the assembly must be provided for in the event that water is released. Installation\nclearance requirements shall meet requirements of the Colorado Cross-Connection Control\nManual and allow removal of all parts from the assembly. Pit and vault installations are\nprohibited."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.11(E)",
+    "heading": "Duty to Inspect, Test and Repair",
+    "page_start": 135,
+    "page_end": 135,
+    "verbatim": "The owner shall have certified inspections and operational tests made on the backflow prevention\nassembly upon installation and at least once per year thereafter. The Director of Public Works may\nrequire certified inspections at more frequent intervals. These inspections and tests shall be made at\nthe expense of the owner. A backflow prevention assembly shall be repaired or replaced at the\nexpense of the owner whenever an assembly is found to be defective."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.11(F)",
+    "heading": "Specifications",
+    "page_start": 135,
+    "page_end": 137,
+    "verbatim": "(1) After written notification by the Director of Public Works, any property with a backflow\nincident shall be responsible for installation, inspection and testing, or repair of a backflow\nprevention assembly within 10-days. Backflow prevention devices shall be air-gap (“AG”) or\nreduced pressure principle assembly (“RP”) except for Solar heating systems with make-up\nwater which shall be “RP” devices.\n(2) After written notification by the Director of Public Works, the owners and operators of the\nfollowing types of existing facilities shall be responsible for installation, inspection and\ntesting, or repair of a backflow prevention assembly within 30-days of such written notice.\nBackflow prevention devices shall be air-gap (\"AG\"), or reduced pressure principle assembly\n(\"RP\") unless otherwise noted.\n• Automotive service • Laboratory - clinical and • Sewage treatment plant\nstation or repair shop chemical • School with laboratory\n• Auxiliary water supply • Laundry or dry cleaning • Shell business\n• Commercial service line service development space\ngreater than four-inch • Manufacturing and • Solar heating system with\ndiameter industrial facility (to be make-up water (“RP\n• Carwash determined on an Only”)\n• Food processing and individual basis) • Swimming pool\nPacking plant • Medical office • Veterinary office or\n• Greenhouse • Morgue and mortuary clinic\n• Hospital, inpatient and • Multi-storied buildings (4 • Water treatment plant\noutpatient care stories or more)\n• Hotel or lodging facility • Photographic studio and\n• Kennel - boarding only laboratory\n(3) Prior to final inspection of any new structure or alteration requiring a building permit, the\nowners and operators of the following types of facilities shall be responsible for\ninstallation, inspection, testing, or repair of a backflow prevention assembly. Backflow\nprevention devices shall be air-gap (“AG”), or reduced pressure principle assembly (“RP”)\nunless otherwise noted. Double Check Valve Assembly (“DC”) devices shall only be\npermitted where specifically approved below.\n• Any establishment with a • Hospital, outpatient (4 stories or more)\nbackflow incident care and long-term • Photographic studio and\n• Automotive Service station facility lab\nor repair shop • Hotel and lodging • Sewage treatment plant\n• Auxiliary water supply • Kennel - boarding only • School with laboratory\n• Commercial service line • Laboratory -- clinical • Shell business\ngreater than 4-inch and chemical development space\ndiameter • Laundry and cleaning • Solar heating system with\n• Carwash service make-up water system\n• Fire line -- no chemicals • Manufacturing and (“RP” Only)\nadded (AG, RP, or DC) industrial facility (to be • Swimming pool\n• Fire line -- chemicals added determined on an • Veterinary office\n• Food processing and individual basis) • Water treatment plant\npacking plant • Medical office\n• Greenhouse • Morgue and mortuary\n• Multi-storied building\n(4) Any building or facility not listed in the foregoing table may be required by the Director of\nPublic Works to install a backflow prevention assembly. The compliance period and\nassembly required shall be determined by the Director of Public Works based on the degree of\nhazard.\n(5) The compliance periods listed above may be modified by the Director of Public Works for\ngood cause shown, and after submittal and approval by the Director of Public Works of a\ncompliance plan.\n(6) Compliance plans shall be enforceable against subsequent owners of non-residential property.\nIf no approved compliance plan exists, then the property must be in compliance with this rule\nprior to any sale of the property."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.11(G)",
+    "heading": "Records and Reports",
+    "page_start": 137,
+    "page_end": 137,
+    "verbatim": "A certified tester shall record the results of all inspections, tests and maintenance on a form prescribed\nby the Director. This report shall be submitted to the Director and the owner within ten days following\nthe completion of the inspection, test, or maintenance of the assembly. The certified tester shall also\nattach a card to the backflow prevention assembly following each inspection, test, or maintenance\nactivity to document and date the activities performed. Records of all inspections, test, or maintenance\nactivities, including materials and parts changed, shall be kept by the certified inspector and the owner."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.11(H)",
+    "heading": "Backflow Prevention Assemblies",
+    "page_start": 137,
+    "page_end": 137,
+    "verbatim": "(1) The term \"approved backflow prevention assembly\" or “approved assembly” means any of the\nfollowing:\n(a) an assembly that is in conformance with the laboratory and field performance\nspecifications of the Foundation for Cross Connection Control and Hydraulic\nResearch (FCC and HR) of the University of Southern California; or\n(b) an assembly which has been approved, inspected and installed to the satisfaction of\nthe Director of Public Works.\n(2) All backflow prevention assemblies shall have a unique serial number attached to the\nassembly by the manufacturer.\n(3) Backflow prevention assemblies currently installed which are not approved shall be replaced\nwith an approved assembly within 30 days of written notice by the City. If the assembly fails\nan annual operational test or inspection, it shall be repaired or replaced with an approved\nassembly within 30 days of written notice by the City."
+  },
+  {
+    "corpus": "DCS",
+    "chapter": 5,
+    "anchor": "5.11(I)",
+    "heading": "Certified Tester Criteria",
+    "page_start": 137,
+    "page_end": 139,
+    "verbatim": "(1) Testing of backflow prevention assemblies on fire sprinkler systems shall require the certified\nCross Connection Control and Backflow Prevention Device Tester to also be a certified Fire\nSprinkler System Installer, or be supervised by a certified Fire Sprinkler System Installer\nregistered with the City of Boulder Fire Department.\n(2) Certified Cross Connection Control and Backflow Prevention Device Testers shall also be\nrequired to provide the following information in order to be listed on the Backflow Prevention\nProgram’s list of certified testers in the area. Such information shall be sent or faxed directly\nfrom the laboratory to the Backflow Prevention Program office at 5605 N. 63rd St., Boulder,\nColorado 80301; FAX: 303-530-1137.\n(a) Copy of a current Cross Connection Control and Backflow Device Tester certificate.\n(b) Test kit calibration certificate from an authorized manufacturers calibration/ repair\nlaboratory or an ISO 9002 certified calibration/repair laboratory for instrument\nrepairs or measurements. Documented calibration must be National Institute of\nStandards and Technology (NIST) traceable and meet the current ASME/ANSI\nB40.01 standards. The certified calibration report shall include the following:\n(i) Indicate minimally the descending reading at 10, 7, 5, 2, 1 and 0 PSID with\na minimum required tolerance range of ± 0.1 PSID,\n(ii) Data as found (data prior to any adjustment of the test kit), and\n(iii) After calibration data or returned information documented (data after\nadjustment, if required).\n(c) Provide a certificate signed by a qualified agent of an insurance company that meets\nminimum limits required by Section 4-1-8(a) and (b), B.R.C. 1981.\nCITY OF BOULDER\nDESIGN AND CONSTRUCTION STANDARDS"
+  }
+]

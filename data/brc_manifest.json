@@ -1,0 +1,90 @@
+{
+  "corpus": "Boulder Revised Code (BRC) extracted from provided DOCX parts",
+  "created_utc": "2026-01-15T00:27:24.745335Z",
+  "titles": [
+    {
+      "title": 1,
+      "file": "brc_title_01.json",
+      "sections": 39,
+      "sha256": "7bbacbe7d17d4427e342ba69246b460bd320027fa712fa3e8e313bf7e992b4b8"
+    },
+    {
+      "title": 2,
+      "file": "brc_title_02.json",
+      "sections": 172,
+      "sha256": "964dc5a43c80f61ab005a8ac6fef632759ff5174d919f42d30371d0cde4b553c"
+    },
+    {
+      "title": 3,
+      "file": "brc_title_03.json",
+      "sections": 152,
+      "sha256": "fa4afe6a3a61bf134a056959e108132749c6e15c301122cbec2f2050786204aa"
+    },
+    {
+      "title": 4,
+      "file": "brc_title_04.json",
+      "sections": 347,
+      "sha256": "d79808c00cdba685bac38b949efb0e434a59c833c8c5172ad117b38ca836fcc4"
+    },
+    {
+      "title": 5,
+      "file": "brc_title_05.json",
+      "sections": 169,
+      "sha256": "2ca52e822b388bbe9be2e2394f9a0196d8d9c9ecbc9509058dde8a3d433ca9ed"
+    },
+    {
+      "title": 6,
+      "file": "brc_title_06.json",
+      "sections": 206,
+      "sha256": "6f6d92a005ebdf5033c5e1cedf2c81472f9ea6a6ed7113a0ae1d84f30c1a4a6f"
+    },
+    {
+      "title": 7,
+      "file": "brc_title_07.json",
+      "sections": 198,
+      "sha256": "2f2fa90937ec3f88498e21109f793a1dd959d863659e81b9f501843b235ca9d0"
+    },
+    {
+      "title": 8,
+      "file": "brc_title_08.json",
+      "sections": 193,
+      "sha256": "390318fec1b8d1dcb997b0820ee5945d0c714efa671a93a5f9d0586686649882"
+    },
+    {
+      "title": 9,
+      "file": "brc_title_09.json",
+      "sections": 200,
+      "sha256": "ea012630f751ece70deac52feb18f123d9baa76871896a562638333f81a86ad1"
+    },
+    {
+      "title": 10,
+      "file": "brc_title_10.json",
+      "sections": 77,
+      "sha256": "164090d18f0cf80c9a5bf3fa43c41d5f89d7d307a096452d0b9fe5175764873d"
+    },
+    {
+      "title": 11,
+      "file": "brc_title_11.json",
+      "sections": 182,
+      "sha256": "0b6759faa2d47678ac243ded3efd3d6ddb3f16a72c170a9580f1e4b5a574f210"
+    },
+    {
+      "title": 12,
+      "file": "brc_title_12.json",
+      "sections": 42,
+      "sha256": "c93499c777ac3877de40825aae622b3ad120823e9067da6d1018efe06c11f62f"
+    },
+    {
+      "title": 13,
+      "file": "brc_title_13.json",
+      "sections": 24,
+      "sha256": "6af2e0bac4db68218b2c2bf89a7d421a6970c768ef2ab4c688615d5e40f2c6a0"
+    },
+    {
+      "title": 14,
+      "file": "brc_title_14.json",
+      "sections": 4,
+      "sha256": "692aafeaa72799ffd6e03aba760c17d4d93a05dd480d786a1ae471f4989b8d11"
+    }
+  ]
+}
